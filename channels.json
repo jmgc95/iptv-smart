@@ -1,0 +1,50 @@
+{
+  "Live TV": [
+    {
+      "name": "Channel 1",
+      "url": "https://amc-anime-x-hidive-1-us.tablo.wurl.tv/playlist.m3u8",
+      "imageUrl": "https://example.com/images/channel1.jpg"
+    },
+    {
+      "name": "Channel 2",
+      "url": "https://gstream.hollymoviehd.cc/streamsvr/ZqeHKkC2u7/0-3?e=S04yMmQ0RHhCRGNzTFNOa2VFbzlVS2NNYTJiWjd5UERKM1BEZ0NnVnpjZz0A",
+      "imageUrl": "https://example.com/images/channel2.jpg"
+    }
+  ],
+  "Movies": [
+    {
+      "name": "Movie 1",
+      "url": "https://amc-anime-x-hidive-1-us.tablo.wurl.tv/playlist.m3u8",
+      "imageUrl": "https://example.com/images/movie1.jpg"
+    },
+    {
+      "name": "Movie 2",
+      "url": "https://gstream.hollymoviehd.cc/streamsvr/ZqeHKkC2u7/0-3?e=S04yMmQ0RHhCRGNzTFNOa2VFbzlVS2NNYTJiWjd5UERKM1BEZ0NnVnpjZz0A",
+      "imageUrl": "https://example.com/images/movie2.jpg"
+    }
+  ],
+  "Series": [
+    {
+      "name": "Series 1",
+      "url": "https://amc-anime-x-hidive-1-us.tablo.wurl.tv/playlist.m3u8",
+      "imageUrl": "https://example.com/images/series1.jpg"
+    },
+    {
+      "name": "Series 2",
+      "url": "https://gstream.hollymoviehd.cc/streamsvr/ZqeHKkC2u7/0-3?e=S04yMmQ0RHhCRGNzTFNOa2VFbzlVS2NNYTJiWjd5UERKM1BEZ0NnVnpjZz0A",
+      "imageUrl": "https://example.com/images/series2.jpg"
+    }
+  ],
+  "Catch Up": [
+    {
+      "name": "Catch Up 1",
+      "url": "https://amc-anime-x-hidive-1-us.tablo.wurl.tv/playlist.m3u8",
+      "imageUrl": "https://example.com/images/catchup1.jpg"
+    },
+    {
+      "name": "Catch Up 2",
+      "url": "https://gstream.hollymoviehd.cc/streamsvr/ZqeHKkC2u7/0-3?e=S04yMmQ0RHhCRGNzTFNOa2VFbzlVS2NNYTJiWjd5UERKM1BEZ0NnVnpjZz0A",
+      "imageUrl": "https://example.com/images/catchup2.jpg"
+    }
+  ]
+}
