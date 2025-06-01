@@ -3,50 +3,66 @@
   "channels": {
     "Live TV": [
       {
-        "name": "Channel 1 updated",
+        "name": "Global News",
         "url": "https://amc-anime-x-hidive-1-us.tablo.wurl.tv/playlist.m3u8",
-        "imageUrl": "https://example.com/images/channel1.jpg"
+        "imageUrl": "https://example.com/images/global_news.jpg",
+        "info": "24/7 news and current affairs",
+        "accessType": "Free"
       },
       {
-        "name": "Channel 2",
+        "name": "Sports Max",
         "url": "https://gstream.hollymoviehd.cc/streamsvr/ZqeHKkC2u7/0-3?e=S04yMmQ0RHhCRGNzTFNOa2VFbzlVS2NNYTJiWjd5UERKM1BEZ0NnVnpjZz0A",
-        "imageUrl": "https://example.com/images/channel2.jpg"
+        "imageUrl": "https://example.com/images/sports_max.jpg",
+        "info": "Live sports and highlights",
+        "accessType": "Premium"
       }
     ],
     "Movies": [
       {
-        "name": "Movie 1",
+        "name": "Action Flicks",
         "url": "https://amc-anime-x-hidive-1-us.tablo.wurl.tv/playlist.m3u8",
-        "imageUrl": "https://example.com/images/movie1.jpg"
+        "imageUrl": "https://example.com/images/action_flicks.jpg",
+        "info": "High-octane action movies",
+        "accessType": "Private"
       },
       {
-        "name": "Movie 2",
+        "name": "Classic Cinema",
         "url": "https://gstream.hollymoviehd.cc/streamsvr/ZqeHKkC2u7/0-3?e=S04yMmQ0RHhCRGNzTFNOa2VFbzlVS2NNYTJiWjd5UERKM1BEZ0NnVnpjZz0A",
-        "imageUrl": "https://example.com/images/movie2.jpg"
+        "imageUrl": "https://example.com/images/classic_cinema.jpg",
+        "info": "Timeless movie classics",
+        "accessType": "Free"
       }
     ],
     "Series": [
       {
-        "name": "Series 1",
+        "name": "Drama Hub",
         "url": "https://amc-anime-x-hidive-1-us.tablo.wurl.tv/playlist.m3u8",
-        "imageUrl": "https://example.com/images/series1.jpg"
+        "imageUrl": "https://example.com/images/drama_hub.jpg",
+        "info": "Gripping drama series",
+        "accessType": "Premium"
       },
       {
-        "name": "Series 2",
+        "name": "Comedy Central",
         "url": "https://gstream.hollymoviehd.cc/streamsvr/ZqeHKkC2u7/0-3?e=S04yMmQ0RHhCRGNzTFNOa2VFbzlVS2NNYTJiWjd5UERKM1BEZ0NnVnpjZz0A",
-        "imageUrl": "https://example.com/images/series2.jpg"
+        "imageUrl": "https://example.com/images/comedy_central.jpg",
+        "info": "Hilarious sitcoms and shows",
+        "accessType": "Free"
       }
     ],
     "Catch Up": [
       {
-        "name": "Catch Up 1",
+        "name": "Replay TV",
         "url": "https://amc-anime-x-hidive-1-us.tablo.wurl.tv/playlist.m3u8",
-        "imageUrl": "https://example.com/images/catchup1.jpg"
+        "imageUrl": "https://example.com/images/replay_tv.jpg",
+        "info": "Catch up on recent broadcasts",
+        "accessType": "Free"
       },
       {
-        "name": "Catch Up 2",
+        "name": "Archive Shows",
         "url": "https://gstream.hollymoviehd.cc/streamsvr/ZqeHKkC2u7/0-3?e=S04yMmQ0RHhCRGNzTFNOa2VFbzlVS2NNYTJiWjd5UERKM1BEZ0NnVnpjZz0A",
-        "imageUrl": "https://example.com/images/catchup2.jpg"
+        "imageUrl": "https://example.com/images/archive_shows.jpg",
+        "info": "Missed episodes and specials",
+        "accessType": "Private"
       }
     ]
   }
