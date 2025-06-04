@@ -72,7 +72,7 @@
                 "info": "International news from China",
                 "accessType": "Free"
             },
-{
+            {
                 "name": "Boomerang",
                 "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/Boomerang\/HLSv3-FTA\/Boomerang.m3u8",
                 "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1oN9q5IoHb01gAXQgL_fEb78fcmuPMo6B",
@@ -489,13 +489,6 @@
                 "url": "https:\/\/gstream.hollymoviehd.cc\/streamsvr\/xyeS10ybBv\/0-4?e=Q2pENWx0MGVabTRYczVVcVZDMk9MRmFLMjBKdG0vK0U3UFF5SVJLMW9NOD0E",
                 "imageUrl": "https:\/\/image.tmdb.org\/t\/p\/w342\/mnP6YvKzZzPrKvgNF3sXsKPGm6q.jpg",
                 "info": "Adult romantic drama",
-                "accessType": "Private"
-            },
-            {
-                "name": "Babes",
-                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/Babes\/HLSv3-FTA\/Babes.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1nwnkKWncAg3ZnmTFMLHnfsUmmeT9bY40",
-                "info": "Adult-oriented series",
                 "accessType": "Private"
             }
         ]
