@@ -1,5 +1,5 @@
 {
-    "version": "1.9",
+    "version": "2.0",
     "channels": {
         "Live TV": [
             {
@@ -204,6 +204,20 @@
                 "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1qrMiUaBzEJ2FLOZ2jVwLkSxfF8MwhOci",
                 "info": "Central TV programming",
                 "accessType": "Free"
+            },
+            {
+                "name": "3ABN Kids",
+                "url": "https:\/\/3abn.bozztv.com\/3abn2\/Kids_live\/smil:Kids_live.smil\/playlist.m3u8",
+                "imageUrl": "https:\/\/i.imgur.com\/SUPQAok.png",
+                "info": "24\/7 Christian television channel.",
+                "accessType": "Premium"
+            },
+            {
+                "name": "ABC Me (720p)",
+                "url": "https:\/\/c.mjh.nz\/abc-me.m3u8",
+                "imageUrl": "https:\/\/i.imgur.com\/6NyFLAm.png",
+                "info": "Australian Broadcasting Corporation (Kids)",
+                "accessType": "Premium"
             }
         ],
         "Movies": [
