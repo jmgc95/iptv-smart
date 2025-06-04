@@ -1,5 +1,5 @@
 {
-    "version": "2.1",
+    "version": "2.2",
     "channels": {
         "Live TV": [
             {
@@ -489,6 +489,13 @@
                 "url": "https:\/\/gstream.hollymoviehd.cc\/streamsvr\/xyeS10ybBv\/0-4?e=Q2pENWx0MGVabTRYczVVcVZDMk9MRmFLMjBKdG0vK0U3UFF5SVJLMW9NOD0E",
                 "imageUrl": "https:\/\/image.tmdb.org\/t\/p\/w342\/mnP6YvKzZzPrKvgNF3sXsKPGm6q.jpg",
                 "info": "Adult romantic drama",
+                "accessType": "Private"
+            },
+            {
+                "name": "Babes",
+                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/Babes\/HLSv3-FTA\/Babes.m3u8",
+                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1nwnkKWncAg3ZnmTFMLHnfsUmmeT9bY40",
+                "info": "Adult-oriented series",
                 "accessType": "Private"
             }
         ]
