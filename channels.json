@@ -1,5 +1,5 @@
 {
-    "version": "2.0",
+    "version": "2.1",
     "channels": {
         "Live TV": [
             {
@@ -70,6 +70,34 @@
                 "url": "https:\/\/news.cgtn.com\/resource\/live\/english\/cgtn-news.m3u8",
                 "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1mPQSJXzMmSrsZ22kmsMq1081PRViUNCT",
                 "info": "International news from China",
+                "accessType": "Free"
+            },
+{
+                "name": "Boomerang",
+                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/Boomerang\/HLSv3-FTA\/Boomerang.m3u8",
+                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1oN9q5IoHb01gAXQgL_fEb78fcmuPMo6B",
+                "info": "Catch up on kids’ cartoons",
+                "accessType": "Free"
+            },
+            {
+                "name": "Cbeebies",
+                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/Cbeebies\/HLSv3-FTA\/Cbeebies.m3u8",
+                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1oQPOUr-48IMTD_e3rRVIVceat3XUeywB",
+                "info": "Catch up on children’s shows",
+                "accessType": "Free"
+            },
+            {
+                "name": "CARTOON NETWORK",
+                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/Cartoon_Network\/HLSv3-FTA\/Cartoon_Network.m3u8",
+                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1oOUC7NmgOPsM8SK9gW4Y8uj_W3u3wsyx",
+                "info": "Catch up on animated series",
+                "accessType": "Free"
+            },
+            {
+                "name": "Zoomoo",
+                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/Zoomoo\/HLSv3-FTA\/Zoomoo.m3u8",
+                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1qEn8K8RyObHb8FDw7qkB0A4mMapBejUo",
+                "info": "Catch up on animal-themed shows",
                 "accessType": "Free"
             },
             {
@@ -235,6 +263,59 @@
                 "info": "Automotive movies and shows",
                 "accessType": "Free"
             },
+            {
+                "name": "Moviebox",
+                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/Moviebox\/HLSv3-FTA\/Moviebox.m3u8",
+                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1ppq-9swH9wXOscO3U0ldP_1F4_MWV5k_",
+                "info": "Latest movies and classics",
+                "accessType": "Premium"
+            },
+            {
+                "name": "Popcorn",
+                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/Popcorn\/HLSv3-FTA\/Popcorn.m3u8",
+                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1qEClBnos0Y67y-n7LgFA3O7lm6sgoIOd",
+                "info": "Family-friendly movies",
+                "accessType": "Free"
+            }
+        ],
+        "Series": [
+            {
+                "name": "BBC-Earth",
+                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/BBC_earth\/HLSv3-FTA\/BBC_earth.m3u8",
+                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1nx1a_nnjPKNrM7jLlv9KkGQtV63xFZHc",
+                "info": "Nature and science series",
+                "accessType": "Premium"
+            },
+            {
+                "name": "BBC-Lifestyle",
+                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/BBC_lifestyle\/HLSv3-FTA\/BBC_lifestyle.m3u8",
+                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1nyuR-wU8PFyAKGTXRTU69d8UU2N3XvPg",
+                "info": "Lifestyle and reality series",
+                "accessType": "Premium"
+            },
+            {
+                "name": "Discovery Asia",
+                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/Discovery_Asia\/HLSv3-FTA\/Discovery_Asia.m3u8",
+                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1oUSY7e1Yh0QQKln7b6UXCt_Xo0lM4y6H",
+                "info": "Documentary and adventure series",
+                "accessType": "Premium"
+            },
+            {
+                "name": "Dreambox",
+                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/Dreambox\/HLSv3-FTA\/Dreambox.m3u8",
+                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1oWGpK6LNVzIgaTyJtL3WNuGAUXqjPeY1",
+                "info": "Drama and entertainment series",
+                "accessType": "Free"
+            },
+            {
+                "name": "MNCTV",
+                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/MNCTV\/HLSv3-FTA\/MNCTV.m3u8",
+                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1pmMkE3a2Atn5zIyUnizKtE_Cmgf25RbZ",
+                "info": "Indonesian drama series",
+                "accessType": "Free"
+            }
+        ],
+        "Catch Up": [
             {
                 "name": "Deep Inside - Angeli Khang (2025)",
                 "url": "https:\/\/gstream.hollymoviehd.cc\/streamsvr\/ZqeHKkC2u7\/0-3?e=S04yMmQ0RHhCRGNzTFNOa2VFbzlVS2NNYTJiWjd5UERKM1BEZ0NnVnpjZz0A",
@@ -411,92 +492,11 @@
                 "accessType": "Private"
             },
             {
-                "name": "Moviebox",
-                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/Moviebox\/HLSv3-FTA\/Moviebox.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1ppq-9swH9wXOscO3U0ldP_1F4_MWV5k_",
-                "info": "Latest movies and classics",
-                "accessType": "Premium"
-            },
-            {
-                "name": "Popcorn",
-                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/Popcorn\/HLSv3-FTA\/Popcorn.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1qEClBnos0Y67y-n7LgFA3O7lm6sgoIOd",
-                "info": "Family-friendly movies",
-                "accessType": "Free"
-            }
-        ],
-        "Series": [
-            {
-                "name": "BBC-Earth",
-                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/BBC_earth\/HLSv3-FTA\/BBC_earth.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1nx1a_nnjPKNrM7jLlv9KkGQtV63xFZHc",
-                "info": "Nature and science series",
-                "accessType": "Premium"
-            },
-            {
-                "name": "BBC-Lifestyle",
-                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/BBC_lifestyle\/HLSv3-FTA\/BBC_lifestyle.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1nyuR-wU8PFyAKGTXRTU69d8UU2N3XvPg",
-                "info": "Lifestyle and reality series",
-                "accessType": "Premium"
-            },
-            {
-                "name": "Discovery Asia",
-                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/Discovery_Asia\/HLSv3-FTA\/Discovery_Asia.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1oUSY7e1Yh0QQKln7b6UXCt_Xo0lM4y6H",
-                "info": "Documentary and adventure series",
-                "accessType": "Premium"
-            },
-            {
-                "name": "Dreambox",
-                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/Dreambox\/HLSv3-FTA\/Dreambox.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1oWGpK6LNVzIgaTyJtL3WNuGAUXqjPeY1",
-                "info": "Drama and entertainment series",
-                "accessType": "Free"
-            },
-            {
-                "name": "MNCTV",
-                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/MNCTV\/HLSv3-FTA\/MNCTV.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1pmMkE3a2Atn5zIyUnizKtE_Cmgf25RbZ",
-                "info": "Indonesian drama series",
-                "accessType": "Free"
-            },
-            {
                 "name": "Babes",
                 "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/Babes\/HLSv3-FTA\/Babes.m3u8",
                 "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1nwnkKWncAg3ZnmTFMLHnfsUmmeT9bY40",
                 "info": "Adult-oriented series",
                 "accessType": "Private"
-            }
-        ],
-        "Catch Up": [
-            {
-                "name": "Boomerang",
-                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/Boomerang\/HLSv3-FTA\/Boomerang.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1oN9q5IoHb01gAXQgL_fEb78fcmuPMo6B",
-                "info": "Catch up on kids’ cartoons",
-                "accessType": "Free"
-            },
-            {
-                "name": "Cbeebies",
-                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/Cbeebies\/HLSv3-FTA\/Cbeebies.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1oQPOUr-48IMTD_e3rRVIVceat3XUeywB",
-                "info": "Catch up on children’s shows",
-                "accessType": "Free"
-            },
-            {
-                "name": "CARTOON NETWORK",
-                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/Cartoon_Network\/HLSv3-FTA\/Cartoon_Network.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1oOUC7NmgOPsM8SK9gW4Y8uj_W3u3wsyx",
-                "info": "Catch up on animated series",
-                "accessType": "Free"
-            },
-            {
-                "name": "Zoomoo",
-                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/Zoomoo\/HLSv3-FTA\/Zoomoo.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1qEn8K8RyObHb8FDw7qkB0A4mMapBejUo",
-                "info": "Catch up on animal-themed shows",
-                "accessType": "Free"
             }
         ]
     }
