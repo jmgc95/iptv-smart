@@ -1,5 +1,5 @@
 {
-    "version": "2.4",
+    "version": "2.5",
     "channels": {
         "Live TV": [
             {
@@ -250,7 +250,7 @@
             {
                 "name": "Afarin Baxcha (1080p)",
                 "url": "https:\/\/5dcabf026b188.streamlock.net\/afarinTV\/livestream\/playlist.m3u8",
-                "imageUrl": "https:\/\/afarin.tv\/images\/baxcha.png",
+                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1tjs4GFvXqyihUheBHSZnkCZ1cZTXocHS",
                 "info": "IPTV Player",
                 "accessType": "Premium"
             },
@@ -267,6 +267,62 @@
                 "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1tUQNl5WS2mznCptfsgaJk3pUvJJJomiu",
                 "info": "Independent Television is a 24\/7 Bengali-language news channel in Bangladesh",
                 "accessType": "Premium"
+            },
+            {
+                "name": "Channel I\n\n",
+                "url": "https:\/\/d1e7rcqq4o2ma.cloudfront.net\/bpk-tv\/1723\/output\/1723-audio_113532_eng=113200-video=1692000.m3u8",
+                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1tuLJ8Nq09sbO9e--1vh3iEZyNLs2E0io",
+                "info": "News, Entertainment, and Cultural Programming",
+                "accessType": "Premium"
+            },
+            {
+                "name": "Somoy TV",
+                "url": "https:\/\/d1e7rcqq4o2ma.cloudfront.net\/bpk-tv\/1702\/output\/1702-audio_113322_eng=113200-video=1692000.m3u8",
+                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1tz9H2e0evzy6Ewt7cw0HlPLuhGeDG2u_",
+                "info": "24\/7 Bengali-language news channel in Bangladesh",
+                "accessType": "Premium"
+            },
+            {
+                "name": "NTV Bangla",
+                "url": "https:\/\/d1e7rcqq4o2ma.cloudfront.net\/bpk-tv\/1716\/output\/1716-audio_113462_eng=113200-video=1692000.m3u8",
+                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1u-19tJvpwKAFrol5FLvtncaK_d0MLNc4",
+                "info": "It offers a diverse mix of programming, including news, entertainment, dramas, and talk shows, and is accessible worldwide via satellite, cable, and online platforms. ",
+                "accessType": "Premium"
+            },
+            {
+                "name": "ATN Banla",
+                "url": "https:\/\/d1e7rcqq4o2ma.cloudfront.net\/bpk-tv\/1722\/output\/1722-audio_113522_eng=113200-video=1692000.m3u8",
+                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1u-9T4nxZo4Y-fNZIsb84vq81_bAA418q",
+                "info": "Mix of entertainment, news, and cultural programming.",
+                "accessType": "Premium"
+            },
+            {
+                "name": "ATN News",
+                "url": "https:\/\/d1e7rcqq4o2ma.cloudfront.net\/bpk-tv\/1706\/output\/1706-audio_113362_eng=113200-video=1692000.m3u8",
+                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1tuLJ8Nq09sbO9e--1vh3iEZyNLs2E0io",
+                "info": "New channel in Bangladesh",
+                "accessType": "Free"
+            },
+            {
+                "name": "Ekattor TV",
+                "url": "https:\/\/d1e7rcqq4o2ma.cloudfront.net\/bpk-tv\/1705\/output\/1705-audio_113352_eng=113200-video=1692000.m3u8",
+                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1u4idrAhx9fOmz2NHTS0KApvmP-zm8jz0",
+                "info": "New channel in Bangladesh.",
+                "accessType": "Free"
+            },
+            {
+                "name": "Channel 24",
+                "url": "https:\/\/d1e7rcqq4o2ma.cloudfront.net\/bpk-tv\/1703\/output\/1703-audio_113332_eng=113200-video=1692000.m3u8",
+                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1u76FEULtlsXQWTuCT9ZRGc0rc1Solvwk",
+                "info": "News channel in Bangladesh",
+                "accessType": "Free"
+            },
+            {
+                "name": "MY TV",
+                "url": "https:\/\/mytvbangla.com\/0.m3u8",
+                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1uCwgtm4l6TcvlTdKV9IvTvrF1YXktCqL",
+                "info": "Satellite and cable television channel in Bangladesh.",
+                "accessType": "Free"
             }
         ],
         "Movies": [
