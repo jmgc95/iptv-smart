@@ -1,5 +1,5 @@
 {
-    "version": "2.3",
+    "version": "2.4",
     "channels": {
         "Live TV": [
             {
@@ -246,6 +246,27 @@
                 "imageUrl": "https:\/\/i.imgur.com\/6NyFLAm.png",
                 "info": "Australian Broadcasting Corporation (Kids)",
                 "accessType": "Premium"
+            },
+            {
+                "name": "Afarin Baxcha (1080p)",
+                "url": "https:\/\/5dcabf026b188.streamlock.net\/afarinTV\/livestream\/playlist.m3u8",
+                "imageUrl": "https:\/\/afarin.tv\/images\/baxcha.png",
+                "info": "IPTV Player",
+                "accessType": "Premium"
+            },
+            {
+                "name": "Bangla Vision",
+                "url": "https:\/\/d1e7rcqq4o2ma.cloudfront.net\/bpk-tv\/1715\/output\/1715-audio_113452_eng=113200-video=1692000.m3u8",
+                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1tIPAClufQeCIPNifC6tosad4gwZbIMSC",
+                "info": "Bangla Vision is a Bengali TV channel in Bangladesh",
+                "accessType": "Premium"
+            },
+            {
+                "name": "Independent TV",
+                "url": "https:\/\/d1e7rcqq4o2ma.cloudfront.net\/bpk-tv\/1704\/output\/1704-audio_113342_eng=113200-video=1692000.m3u8",
+                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1tUQNl5WS2mznCptfsgaJk3pUvJJJomiu",
+                "info": "Independent Television is a 24\/7 Bengali-language news channel in Bangladesh",
+                "accessType": "Premium"
             }
         ],
         "Movies": [
@@ -313,6 +334,13 @@
                 "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1pmMkE3a2Atn5zIyUnizKtE_Cmgf25RbZ",
                 "info": "Indonesian drama series",
                 "accessType": "Free"
+            },
+            {
+                "name": "ADO TV (720p)",
+                "url": "https:\/\/strhls.streamakaci.tv\/ortb\/ortb2-multi\/playlist.m3u8",
+                "imageUrl": "https:\/\/i.imgur.com\/pxFamLr.png",
+                "info": "IPTV Player",
+                "accessType": "Premium"
             }
         ],
         "Vivamax": [
