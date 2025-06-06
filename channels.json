@@ -1,5 +1,5 @@
 {
-    "version": "2.6",
+    "version": "2.7",
     "channels": {
         "Live TV": [
             {
@@ -269,7 +269,7 @@
                 "accessType": "Premium"
             },
             {
-                "name": "Channel I\n\n",
+                "name": "Channel I",
                 "url": "https:\/\/d1e7rcqq4o2ma.cloudfront.net\/bpk-tv\/1723\/output\/1723-audio_113532_eng=113200-video=1692000.m3u8",
                 "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1tuLJ8Nq09sbO9e--1vh3iEZyNLs2E0io",
                 "info": "News, Entertainment, and Cultural Programming",
