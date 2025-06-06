@@ -1,5 +1,5 @@
 {
-    "version": "2.8",
+    "version": "2.9",
     "channels": {
         "Live TV": [
             {
@@ -357,7 +357,7 @@
             {
                 "name": "PLUTO",
                 "url": "http:\/\/cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv\/stitch\/hls\/channel\/65a67dd13af63d0008257f17\/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1c5240-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6e62cae5-9404-4e52-8b20-c5fc2b453e9d ",
-                "imageUrl": "",
+                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1mf24VMjWrj3mEOmDVz0rr2dkcEPF9hM9",
                 "info": "testing",
                 "accessType": "Free"
             }
