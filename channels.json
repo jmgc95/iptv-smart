@@ -1,5 +1,5 @@
 {
-    "version": "3.2",
+    "version": "3.3",
     "channels": {
         "Live TV": [
             {
@@ -323,9 +323,7 @@
                 "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1uCwgtm4l6TcvlTdKV9IvTvrF1YXktCqL",
                 "info": "Satellite and cable television channel in Bangladesh.",
                 "accessType": "Free"
-            }
-        ],
-        "Movies": [
+            },
             {
                 "name": "MovieSphere",
                 "url": "https:\/\/moviesphereuk-samsunguk.amagi.tv\/playlist.m3u8",
@@ -360,7 +358,9 @@
                 "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1mf24VMjWrj3mEOmDVz0rr2dkcEPF9hM9",
                 "info": "testing",
                 "accessType": "Free"
-            },
+            }
+        ],
+        "Movies": [
             {
                 "name": "Hope for What We Do Not See",
                 "url": "http:\/\/206.189.156.0\/videojw.mp4",
