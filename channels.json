@@ -1,5 +1,5 @@
 {
-    "version": "3.0",
+    "version": "3.1",
     "channels": {
         "Live TV": [
             {
@@ -360,6 +360,13 @@
                 "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1mf24VMjWrj3mEOmDVz0rr2dkcEPF9hM9",
                 "info": "testing",
                 "accessType": "Free"
+            },
+            {
+                "name": "Hope for What We Do Not See",
+                "url": "http:\/\/206.189.156.0\/videojw.mp4",
+                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1vdeYUUS2UkvnehP_pBJwkUA4JYXj0P0B",
+                "info": "The ancient man Job faced tests of integrity that involved a series of tragic events. Look in on the life of the Bannister family as they experience similar tests of integrity in a modern-day setting. In the end, what helped them get their perspective?",
+                "accessType": "Premium"
             }
         ],
         "Series": [
