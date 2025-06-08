@@ -1,593 +1,668 @@
 {
-    "version": "3.0",
+    "version": "3.1",
     "channels": {
         "Live TV": [
             {
                 "name": "Anime HiDive 001",
-                "url": "https:\/\/amc-anime-x-hidive-1-us.tablo.wurl.tv\/playlist.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1lQN4tVJUK4Z1RFNKwGzEYKmhhYF9O7At",
+                "url": "https://amc-anime-x-hidive-1-us.tablo.wurl.tv/playlist.m3u8",
+                "imageUrl": "https://drive.google.com/uc?export=download&id=1lQN4tVJUK4Z1RFNKwGzEYKmhhYF9O7At",
                 "info": "Anime streaming channel",
-                "accessType": "Free"
+                "accessType": "Free",
+                "licenseUrl": ""
             },
             {
                 "name": "A2Z Channel 11",
-                "url": "https:\/\/qp-pldt-live-grp-02-prod.akamaized.net\/out\/u\/tv5_5.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1lQRCzDqTddrQD_-Iga8CY1n5aWBUSCHz",
+                "url": "https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_5.m3u8",
+                "imageUrl": "https://drive.google.com/uc?export=download&id=1lQRCzDqTddrQD_-Iga8CY1n5aWBUSCHz",
                 "info": "General entertainment and news",
-                "accessType": "Free"
+                "accessType": "Free",
+                "licenseUrl": ""
             },
             {
                 "name": "CNN International",
-                "url": "https:\/\/turnerlive.warnermediacdn.com\/hls\/live\/586495\/cnngo\/cnn_slate\/VIDEO_0_3564000.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1lGGwBR4IIFPEaDj_pBmupEMtv8E-khja",
-                "info": "24\/7 global news coverage",
-                "accessType": "Free"
+                "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
+                "imageUrl": "https://drive.google.com/uc?export=download&id=1lGGwBR4IIFPEaDj_pBmupEMtv8E-khja",
+                "info": "24/7 global news coverage",
+                "accessType": "Free",
+                "licenseUrl": ""
             },
             {
                 "name": "ABC News",
-                "url": "https:\/\/content.uplynk.com\/channel\/3324f2467c414329b3b0cc5cd987b6be.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1lSvoizA474Pw0sfZHROyeH1ryRfBucsE",
+                "url": "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8",
+                "imageUrl": "https://drive.google.com/uc?export=download&id=1lSvoizA474Pw0sfZHROyeH1ryRfBucsE",
                 "info": "Live news and updates",
-                "accessType": "Free"
+                "accessType": "Free",
+                "licenseUrl": ""
             },
             {
                 "name": "Bloomberg Television",
-                "url": "https:\/\/www.bloomberg.com\/media-manifest\/streams\/us.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1laXkGjC_ydQcJFv-NHAteMxfUv4gFxlo",
+                "url": "https://www.bloomberg.com/media-manifest/streams/us.m3u8",
+                "imageUrl": "https://drive.google.com/uc?export=download&id=1laXkGjC_ydQcJFv-NHAteMxfUv4gFxlo",
                 "info": "Financial news and analysis",
-                "accessType": "Free"
+                "accessType": "Free",
+                "licenseUrl": ""
             },
             {
                 "name": "RT Documentary",
-                "url": "https:\/\/rt-rtd.rttv.com\/dvr\/rtdoc\/playlist.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1lbwNdi2hbFkQMk3oI7XDusaCeXmBNJqo",
+                "url": "https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8",
+                "imageUrl": "https://drive.google.com/uc?export=download&id=1lbwNdi2hbFkQMk3oI7XDusaCeXmBNJqo",
                 "info": "Documentary films and stories",
-                "accessType": "Free"
+                "accessType": "Free",
+                "licenseUrl": ""
             },
             {
                 "name": "INCTV",
-                "url": "https:\/\/199211.global.ssl.fastly.net\/643cc12aa824db4374021c8c\/live_95f6ac80dd6511ed9d08b12be56ae55e\/index.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1loEHefO1VZDQYn9mmGscC82X__E4U6OZ",
+                "url": "https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/index.m3u8",
+                "imageUrl": "https://drive.google.com/uc?export=download&id=1loEHefO1VZDQYn9mmGscC82X__E4U6OZ",
                 "info": "Religious and community programming",
-                "accessType": "Free"
+                "accessType": "Free",
+                "licenseUrl": ""
             },
             {
                 "name": "DZBB Super Radio",
-                "url": "https:\/\/stream.gmanews.tv\/ioslive\/livestream\/playlist.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1lwVVLBbVbuD_jGDEECTc-j-P7Q9lqxV-",
+                "url": "https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8",
+                "imageUrl": "https://drive.google.com/uc?export=download&id=1lwVVLBbVbuD_jGDEECTc-j-P7Q9lqxV-",
                 "info": "News and talk radio",
-                "accessType": "Free"
+                "accessType": "Free",
+                "licenseUrl": ""
             },
             {
                 "name": "Wish 107.5",
-                "url": "https:\/\/fm.mark-projects.site\/stream\/wish.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1mGTYZW9bNwT53OrPs0AD_gfKobE58rNY",
+                "url": "https://fm.mark-projects.site/stream/wish.m3u8",
+                "imageUrl": "https://drive.google.com/uc?export=download&id=1mGTYZW9bNwT53OrPs0AD_gfKobE58rNY",
                 "info": "Music and live performances",
-                "accessType": "Free"
+                "accessType": "Free",
+                "licenseUrl": ""
             },
             {
                 "name": "CGTN News",
-                "url": "https:\/\/news.cgtn.com\/resource\/live\/english\/cgtn-news.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1mPQSJXzMmSrsZ22kmsMq1081PRViUNCT",
+                "url": "https://news.cgtn.com/resource/live/english/cgtn-news.m3u8",
+                "imageUrl": "https://drive.google.com/uc?export=download&id=1mPQSJXzMmSrsZ22kmsMq1081PRViUNCT",
                 "info": "International news from China",
-                "accessType": "Free"
+                "accessType": "Free",
+                "licenseUrl": ""
             },
             {
                 "name": "Boomerang",
-                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/Boomerang\/HLSv3-FTA\/Boomerang.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1oN9q5IoHb01gAXQgL_fEb78fcmuPMo6B",
+                "url": "https://cdn4.skygo.mn/live/disk1/Boomerang/HLSv3-FTA/Boomerang.m3u8",
+                "imageUrl": "https://drive.google.com/uc?export=download&id=1oN9q5IoHb01gAXQgL_fEb78fcmuPMo6B",
                 "info": "Catch up on kids’ cartoons",
-                "accessType": "Free"
+                "accessType": "Free",
+                "licenseUrl": ""
             },
             {
                 "name": "Cbeebies",
-                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/Cbeebies\/HLSv3-FTA\/Cbeebies.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1oQPOUr-48IMTD_e3rRVIVceat3XUeywB",
+                "url": "https://cdn4.skygo.mn/live/disk1/Cbeebies/HLSv3-FTA/Cbeebies.m3u8",
+                "imageUrl": "https://drive.google.com/uc?export=download&id=1oQPOUr-48IMTD_e3rRVIVceat3XUeywB",
                 "info": "Catch up on children’s shows",
-                "accessType": "Free"
+                "accessType": "Free",
+                "licenseUrl": ""
             },
             {
                 "name": "CARTOON NETWORK",
-                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/Cartoon_Network\/HLSv3-FTA\/Cartoon_Network.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1oOUC7NmgOPsM8SK9gW4Y8uj_W3u3wsyx",
+                "url": "https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8",
+                "imageUrl": "https://drive.google.com/uc?export=download&id=1oOUC7NmgOPsM8SK9gW4Y8uj_W3u3wsyx",
                 "info": "Catch up on animated series",
-                "accessType": "Free"
+                "accessType": "Free",
+                "licenseUrl": ""
             },
             {
                 "name": "Zoomoo",
-                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/Zoomoo\/HLSv3-FTA\/Zoomoo.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1qEn8K8RyObHb8FDw7qkB0A4mMapBejUo",
+                "url": "https://cdn4.skygo.mn/live/disk1/Zoomoo/HLSv3-FTA/Zoomoo.m3u8",
+                "imageUrl": "https://drive.google.com/uc?export=download&id=1qEn8K8RyObHb8FDw7qkB0A4mMapBejUo",
                 "info": "Catch up on animal-themed shows",
-                "accessType": "Free"
+                "accessType": "Free",
+                "licenseUrl": ""
             },
             {
                 "name": "Outdoor Channel",
-                "url": "https:\/\/cdn-apse1-prod.tsv2.amagi.tv\/linear\/amg00718-outdoorchannela-outdoortvnz-samsungnz\/playlist.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1mRbczWl7aklSh659YC32bjoLNbFudE1z",
+                "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8",
+                "imageUrl": "https://drive.google.com/uc?export=download&id=1mRbczWl7aklSh659YC32bjoLNbFudE1z",
                 "info": "Outdoor lifestyle and adventures",
-                "accessType": "Premium"
+                "accessType": "Premium",
+                "licenseUrl": ""
             },
             {
                 "name": "Bein Sports Xtra",
-                "url": "https:\/\/amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv\/playlist.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1ma0ptEHmehAa-86n9UqT0-dsEpYygu2Y",
+                "url": "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8",
+                "imageUrl": "https://drive.google.com/uc?export=download&id=1ma0ptEHmehAa-86n9UqT0-dsEpYygu2Y",
                 "info": "Live sports and highlights",
-                "accessType": "Premium"
+                "accessType": "Premium",
+                "licenseUrl": ""
             },
             {
                 "name": "Deshi TV",
-                "url": "https:\/\/deshitv.deshitv24.net\/live\/myStream\/playlist.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1n0cXhuSghZmikOiCymxdVrYe1I9_OE0E",
+                "url": "https://deshitv.deshitv24.net/live/myStream/playlist.m3u8",
+                "imageUrl": "https://drive.google.com/uc?export=download&id=1n0DAXhS3ghZmikOiCymxdVrYe1I9_E0E",
                 "info": "Bangladeshi entertainment and news",
-                "accessType": "Free"
+                "accessType": "Free",
+                "licenseUrl": ""
             },
             {
                 "name": "Ekushey TV",
-                "url": "https:\/\/ekusheyserver.com\/etvlivesn.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1n0poGjrc8z3cRsISIkK6-g2TQxBsoPxP",
+                "url": "https://ekusheyserver.com/etvlivesn.m3u8",
+                "imageUrl": "https://drive.google.com/uc?export=download&id=1n0poGjrc8z3cRsISIkK6-g-k2ZPxQ",
                 "info": "Bangladeshi television channel",
-                "accessType": "Free"
+                "accessType": "Free",
+                "licenseUrl": ""
             },
             {
                 "name": "Bayon TV",
-                "url": "https:\/\/live-evg2.tv360.metfone.com.kh\/livebayontv\/bayontvhd.stream\/playlist.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1n4wyEtGqyjrOPIAqE8ePEo9b_qp1Lxz3",
+                "url": "https://live-evg2.tv360.metfone.com.kh/livebayontv/bayontvhd.stream/playlist.m3u8",
+                "imageUrl": "https://drive.google.com/uc?export=download&id=1n4wyEtGqyjrOPIAqE8ePEo9b_qp1Lxz3",
                 "info": "Cambodian entertainment and news",
-                "accessType": "Free"
+                "accessType": "Free",
+                "licenseUrl": ""
             },
             {
                 "name": "BTV News",
-                "url": "https:\/\/live-evg2.tv360.metfone.com.kh\/livetest\/bayontest.stream\/playlist.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1n57o72cfGaUuYc-aWBqr1sXafvC2QBy0",
+                "url": "https://live-evg2.tv360.metfone.com.kh/livetest/bayontvtest.stream/playlist.m3u8",
+                "imageUrl": "https://drive.google.com/uc?export=download&id=1n57o72cfGaAaYc-aWBqr1sXafvC2QBy0",
                 "info": "News and updates from Cambodia",
-                "accessType": "Free"
+                "accessType": "Free",
+                "licenseUrl": ""
             },
             {
                 "name": "Arirang",
-                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/Arirang\/HLSv3-FTA\/Arirang.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1nwfpGnCWs9sSz4Wrx6yIrAR_5inZeoUw",
+                "url": "https://cdn4.skygo.mn/live/disk1/Arirang/HLSv3-FTA/Arirang.m3u8",
+                "imageUrl": "https://drive.google.com/uc?export=download&id=1nwfpGnCWs9sSz4Wrx6yIrAR_5inZeoUw",
                 "info": "Korean culture and news",
-                "accessType": "Free"
+                "accessType": "Free",
+                "licenseUrl": ""
             },
             {
                 "name": "BBC News",
-                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/BBC_News\/HLSv3-FTA\/BBC_News.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1o5wY2YlixM4zLN-rSy8mCH4zy2vHNyYM",
+                "url": "https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8",
+                "imageUrl": "https://drive.google.com/uc?export=download&id=1o5wY2YlixM4zLN-rSy8zmCH4zy2vHNyYM",
                 "info": "Global news from BBC",
-                "accessType": "Free"
+                "accessType": "Free",
+                "licenseUrl": ""
             },
             {
                 "name": "C1 TV",
-                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/C1\/HLSv3-FTA\/C1.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1oNTHbMiM2vzVrL588UMGIwYvPeBAla_Y",
+                "url": "https://cdn4.skygo.mn/live/disk1/C1/HLSv3-FTA/C1.m3u8",
+                "imageUrl": "https://drive.google.com\/uc?export=download&id=1oNTHbMiM2VzVrL588UMGIwYvPeBAla_Y",
                 "info": "General entertainment channel",
-                "accessType": "Free"
+                "accessType": "Free",
+                "licenseUrl": ""
             },
             {
                 "name": "Edu TV",
-                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/Education\/HLSv3-FTA\/Education.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1olRaUMEVeGrGeMS2_85zFxvqCGsXKF66",
+                "url": "https://cdn4.skygo.mn/live/disk1/Education/HLSv3-FTA/Education.m3u8",
+                "imageUrl": "https://drive.google.com\/uc?export=download&id=1olRaUMEVeGrGeMS2_85zFxvqCGsXKF66",
                 "info": "Educational programming",
-                "accessType": "Free"
+                "accessType": "Free",
+                "licenseUrl": ""
             },
             {
                 "name": "ETV",
-                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/ETV\/HLSv3-FTA\/ETV.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1olVXcBIqXkHB-98bJq0MkN7YDnRyXHJe",
+                "url": "https://cdn4.skygo.mn/live/disk1/ETV/HLSv3-FTA/ETV.m3u8",
+                "imageUrl": "https://drive.google.com\/uc?export=download&id=1olVXcBIqXkHB-98bJq0MkN7YDnRyXHJe",
                 "info": "Mongolian entertainment channel",
-                "accessType": "Free"
+                "accessType": "Free",
+                "licenseUrl": ""
             },
             {
                 "name": "MN25",
-                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/MN25\/HLSv3-FTA\/MN25.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1qrMiUaBzEJ2FLOZ2jVwLkSxfF8MwhOci",
+                "url": "https://cdn4.skygo.mn/live/disk1/MN25/HLSv3-FTA/MN25.m3u8",
+                "imageUrl": "https://drive.google.com/uc?export=download&id=1qrMiUaBzEJ2FLOZ2jQwLkSxfF8MwhOci",
                 "info": "Mongolian news and entertainment",
-                "accessType": "Free"
+                "accessType": "Free",
+                "licenseUrl": ""
             },
             {
                 "name": "MNB",
-                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/MNB\/HLSv3-FTA\/MNB.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1pUa7rxM9Xw1uoT22mC0_mZbLQYWvQQqc",
+                "url": "https://cdn4.skygo.mn/live/disk1/MNB/HLSv3-FTA/MNB.m3u8",
+                "imageUrl": "https://drive.google.com\/uc?export=download&id=1pUa7rxM9Xw1uoT22mC0_mZbLQYwvQQqc",
                 "info": "Mongolian national broadcasting",
-                "accessType": "Free"
+                "accessType": "Free",
+                "licenseUrl": ""
             },
             {
                 "name": "MNB World",
-                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/MNB_World\/HLSv3-FTA\/MNB_World.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1pYaugLLyK9saOq_wCXAWLrc-Wph__txQ",
+                "url": "https://cdn4.skygo.mn/live/disk1/MNB_World/HLSv3-FTA/MNB_World.m3u8",
+                "imageUrl": "https://drive.google.com\/uc?export=download&id=1pYaugLLyK9saOq_wCXAWLrc-Wph__txQ",
                 "info": "Mongolian international channel",
-                "accessType": "Free"
+                "accessType": "Free",
+                "licenseUrl": ""
             },
             {
                 "name": "ONTV",
-                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/ONTV\/HLSv3-FTA\/ONTV.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1q7mXU6Jrz7Igoych3ZUCYc1Lta4NaUK5",
+                "url": "https://cdn4.skygo.mn/live/disk1/ONTV/HLSv3-FTA/ONTV.m3u8",
+                "imageUrl": "https://drive.google.com\/uc?export=download&id=1q7mXU6Jrz7Igoych3ZUCYc1Lta4NaUK5",
                 "info": "Local entertainment and news",
-                "accessType": "Free"
+                "accessType": "Free",
+                "licenseUrl": ""
             },
             {
                 "name": "Parlament",
-                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/Parlament\/HLSv3-FTA\/Parlament.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1q88Dhg31uuNr2btZXY47xDR3vTVyxFGO",
+                "url": "https://cdn4.skygo.mn/live/disk1/Parlament/HLSv3-FTA/Parlament.m3u8",
+                "imageUrl": "https://drive.google.com/uc?export=download&id=1q88Dhg31uNr2btZXY47xDR3vTVyxFGO",
                 "info": "Parliamentary broadcasts",
-                "accessType": "Free"
+                "accessType": "Free",
+                "licenseUrl": ""
             },
             {
                 "name": "TV7",
-                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/TV7\/HLSv3-FTA\/TV7.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1qrMiUaBzEJ2FLOZ2jVwLkSxfF8MwhOci",
+                "url": "https://cdn4.skygo.mn/live/disk1/TV7/HLSv3-FTA/TV7.m3u8",
+                "imageUrl": "https://drive.google.com\/uc?export=download&id=1qrMiUaBzEJ2FLOZ2jQwLkSxfF8MwhOci",
                 "info": "General entertainment channel",
-                "accessType": "Free"
+                "accessType": "Free",
+                "licenseUrl": ""
             },
             {
                 "name": "TV-4",
-                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/TV4\/HLSv3-FTA\/TV4.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1qrMiUaBzEJ2FLOZ2jVwLkSxfF8MwhOci",
+                "url": "https://cdn4.skygo.mn/live/disk1/TV4/HLSv3-FTA/TV4.m3u8",
+                "imageUrl": "https://drive.google.com\/uc?export=download&id=1qrMiUaBzEJ2FLOZ2jQwLkSxfF8MwhOci",
                 "info": "Regional entertainment channel",
-                "accessType": "Free"
+                "accessType": "Free",
+                "licenseUrl": ""
             },
             {
                 "name": "TV-Center",
-                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/TV_center\/HLSv3-FTA\/TV_center.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1qrMiUaBzEJ2FLOZ2jVwLkSxfF8MwhOci",
+                "url": "https://cdn4.skygo.mn/live/disk1/TV_center/HLSv3-FTA/TV_center.m3u8",
+                "imageUrl": "https://drive.google.com\/uc?export=download&id=1qrMiUaBzEJ2FLOZ2jQwLkSxfF8MwhOci",
                 "info": "Central TV programming",
-                "accessType": "Free"
+                "accessType": "Free",
+                "licenseUrl": ""
             },
             {
                 "name": "3ABN Kids",
-                "url": "https:\/\/3abn.bozztv.com\/3abn2\/Kids_live\/smil:Kids_live.smil\/playlist.m3u8",
-                "imageUrl": "https:\/\/i.imgur.com\/SUPQAok.png",
-                "info": "24\/7 Christian television channel.",
-                "accessType": "Premium"
+                "url": "https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8",
+                "imageUrl": "https://i.imgur.com/SUPQAok.png",
+                "info": "24/7 Christian television channel.",
+                "accessType": "Premium",
+                "licenseUrl": ""
             },
             {
                 "name": "ABC Me (720p)",
-                "url": "https:\/\/c.mjh.nz\/abc-me.m3u8",
-                "imageUrl": "https:\/\/i.imgur.com\/6NyFLAm.png",
+                "url": "https://c.mjh.nz/abc-me.m3u8",
+                "imageUrl": "https://i.imgur.com/6NyFLAm.png",
                 "info": "Australian Broadcasting Corporation (Kids)",
-                "accessType": "Premium"
+                "accessType": "Premium",
+                "licenseUrl": ""
             },
             {
                 "name": "Afarin Baxcha (1080p)",
-                "url": "https:\/\/5dcabf026b188.streamlock.net\/afarinTV\/livestream\/playlist.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1tjs4GFvXqyihUheBHSZnkCZ1cZTXocHS",
+                "url": "https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8",
+                "imageUrl": "https://drive.google.com/uc?export=download&id=1tjs4GFvXqyihUheBHSZnkCZ1cZTXocHS",
                 "info": "IPTV Player",
-                "accessType": "Premium"
+                "accessType": "Premium",
+                "licenseUrl": ""
             },
             {
                 "name": "Bangla Vision",
-                "url": "https:\/\/d1e7rcqq4o2ma.cloudfront.net\/bpk-tv\/1715\/output\/1715-audio_113452_eng=113200-video=1692000.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1tIPAClufQeCIPNifC6tosad4gwZbIMSC",
+                "url": "https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1715/output/1715-audio_113452_eng=113200-video=1692000.m3u8",
+                "imageUrl": "https://drive.google.com/uc?export=download&id=1tIPAClufQeCIPNifC6tosad4gwZbIMSC",
                 "info": "Bangla Vision is a Bengali TV channel in Bangladesh",
-                "accessType": "Premium"
+                "accessType": "Premium",
+                "licenseUrl": ""
             },
             {
                 "name": "Independent TV",
-                "url": "https:\/\/d1e7rcqq4o2ma.cloudfront.net\/bpk-tv\/1704\/output\/1704-audio_113342_eng=113200-video=1692000.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1tUQNl5WS2mznCptfsgaJk3pUvJJJomiu",
-                "info": "Independent Television is a 24\/7 Bengali-language news channel in Bangladesh",
-                "accessType": "Premium"
+                "url": "https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1704/output/1704-audio_113342_eng=113200-video=1692000.m3u8",
+                "imageUrl": "https://drive.google.com/uc?export=download&id=1tUQNl5WS2mznCptfsgaJk3pUvJJJomiu",
+                "info": "Independent Television is a 24/7 Bengali-language news channel in Bangladesh",
+                "accessType": "Premium",
+                "licenseUrl": ""
             },
             {
                 "name": "Channel I",
-                "url": "https:\/\/d1e7rcqq4o2ma.cloudfront.net\/bpk-tv\/1723\/output\/1723-audio_113532_eng=113200-video=1692000.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1tuLJ8Nq09sbO9e--1vh3iEZyNLs2E0io",
+                "url": "https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1723/output/1723-audio_113532_eng=113200-video=1692000.m3u8",
+                "imageUrl": "https://drive.google.com/uc?export=download&id=1tuLJ8Nq09sbO9e--1vh3iEZyNLs2E0io",
                 "info": "News, Entertainment, and Cultural Programming",
-                "accessType": "Premium"
+                "accessType": "Premium",
+                "licenseUrl": ""
             },
             {
                 "name": "Somoy TV",
-                "url": "https:\/\/d1e7rcqq4o2ma.cloudfront.net\/bpk-tv\/1702\/output\/1702-audio_113322_eng=113200-video=1692000.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1tz9H2e0evzy6Ewt7cw0HlPLuhGeDG2u_",
-                "info": "24\/7 Bengali-language news channel in Bangladesh",
-                "accessType": "Premium"
+                "url": "https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=1692000.m3u8",
+                "imageUrl": "https://drive.google.com/uc?export=download&id=1tz9H2e0evzy6EwtZw0wHlPLuhGeDG2u_",
+                "info": "24/7 Bengali-language news channel in Bangladesh",
+                "accessType": "Premium",
+                "licenseUrl": ""
             },
             {
                 "name": "NTV Bangla",
-                "url": "https:\/\/d1e7rcqq4o2ma.cloudfront.net\/bpk-tv\/1716\/output\/1716-audio_113462_eng=113200-video=1692000.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1u-19tJvpwKAFrol5FLvtncaK_d0MLNc4",
-                "info": "It offers a diverse mix of programming, including news, entertainment, dramas, and talk shows, and is accessible worldwide via satellite, cable, and online platforms. ",
-                "accessType": "Premium"
+                "url": "https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-video=1692000.m3u8",
+                "imageUrl": "https://drive.google.com/uc?export=download&id=1u-19tJvpwKAFKrol5FLvtncaK_d0MLnC4",
+                "info": "It offers a diverse mix of programming, including news, entertainment, dramas, and talk shows, and is accessible worldwide via satellite, cable, and online platforms.",
+                "accessType": "Premium",
+                "licenseUrl": ""
             },
             {
-                "name": "ATN Banla",
-                "url": "https:\/\/d1e7rcqq4o2ma.cloudfront.net\/bpk-tv\/1722\/output\/1722-audio_113522_eng=113200-video=1692000.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1u-9T4nxZo4Y-fNZIsb84vq81_bAA418q",
+                "name": "ATN Bangla",
+                "url": "https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-video=1692000.m3u8",
+                "imageUrl": "https://drive.google.com/uc?export=download&id=1u-9T4nxZo4Y-fFIsb84vq81_bAA418q",
                 "info": "Mix of entertainment, news, and cultural programming.",
-                "accessType": "Premium"
+                "accessType": "Premium",
+                "licenseUrl": ""
             },
             {
                 "name": "ATN News",
-                "url": "https:\/\/d1e7rcqq4o2ma.cloudfront.net\/bpk-tv\/1706\/output\/1706-audio_113362_eng=113200-video=1692000.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1tuLJ8Nq09sbO9e--1vh3iEZyNLs2E0io",
-                "info": "New channel in Bangladesh",
-                "accessType": "Free"
+                "url": "https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1706/output/1706-audio_113362_eng=113200-video=1692000.m3u8",
+                "imageUrl": "https://drive.google.com/uc?export=download&id=1tuLJ8Nq09sbO9e--1vh3iEZyNLs2E0io",
+                "info": "News channel in Bangladesh",
+                "accessType": "Free",
+                "licenseUrl": ""
             },
             {
                 "name": "Ekattor TV",
-                "url": "https:\/\/d1e7rcqq4o2ma.cloudfront.net\/bpk-tv\/1705\/output\/1705-audio_113352_eng=113200-video=1692000.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1u4idrAhx9fOmz2NHTS0KApvmP-zm8jz0",
-                "info": "New channel in Bangladesh.",
-                "accessType": "Free"
+                "url": "https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1705/output/1705-audio_113352_eng=113200-video=1692000.m3u8",
+                "imageUrl": "https://drive.google.com/uc?export=download&id=1u4idrAhx9fOmz2NHTS0KApvmP-rzm8jz0",
+                "info": "News channel in Bangladesh.",
+                "accessType": "Free",
+                "licenseUrl": ""
             },
             {
                 "name": "Channel 24",
-                "url": "https:\/\/d1e7rcqq4o2ma.cloudfront.net\/bpk-tv\/1703\/output\/1703-audio_113332_eng=113200-video=1692000.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1u76FEULtlsXQWTuCT9ZRGc0rc1Solvwk",
+                "url": "https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-video=1692000.m3u8",
+                "imageUrl": "https://drive.google.com/uc?export=download&id=1u76FEULvtsXQWTuCT9CTRGc0rc1Solvwl",
                 "info": "News channel in Bangladesh",
-                "accessType": "Free"
+                "accessType": "Free",
+                "licenseUrl": ""
             },
             {
                 "name": "MY TV",
-                "url": "https:\/\/mytvbangla.com\/0.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1uCwgtm4l6TcvlTdKV9IvTvrF1YXktCqL",
+                "url": "https://mytvbangla.com/0.m3u8",
+                "imageUrl": "https://drive.google.com/uc?export=download&id=1uCwgtm4l6TcvlTdKV9IvTvrF1YXktCqL",
                 "info": "Satellite and cable television channel in Bangladesh.",
-                "accessType": "Free"
+                "accessType": "Free",
+                "licenseUrl": ""
             }
         ],
         "Movies": [
             {
                 "name": "MovieSphere",
-                "url": "https:\/\/moviesphereuk-samsunguk.amagi.tv\/playlist.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1mdRxkeYw-4W1npbFyLuekfgr99PrI_85",
+                "url": "https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8",
+                "imageUrl": "https://drive.google.com/uc?export=download&id=1mdRxkeYw-4W1npbFyLuekfgr99PrI_85",
                 "info": "Movies and blockbusters",
-                "accessType": "Free"
+                "accessType": "Free",
+                "licenseUrl": ""
             },
             {
                 "name": "Garage TV",
-                "url": "https:\/\/stream1.sersat.com\/hls\/garagetv.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1mf24VMjWrj3mEOmDVz0rr2dkcEPF9hM9",
+                "url": "https://stream1.sersat.com/hls/garagetv.m3u8",
+                "imageUrl": "https://drive.google.com/uc?export=download&id=1mf24VMjWrj3mEOmDVz0rr2dkcEPF9hM9",
                 "info": "Automotive movies and shows",
-                "accessType": "Free"
+                "accessType": "Free",
+                "licenseUrl": ""
             },
             {
                 "name": "Moviebox",
-                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/Moviebox\/HLSv3-FTA\/Moviebox.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1ppq-9swH9wXOscO3U0ldP_1F4_MWV5k_",
+                "url": "https://cdn4.skygo.mn/live/disk1/Moviebox/HLSv3-FTA/Moviebox.m3u8",
+                "imageUrl": "https://drive.google.com/uc?export=download&id=1ppq-9swH9wXOscO3U0ldP_1F4_MWV5k_",
                 "info": "Latest movies and classics",
-                "accessType": "Premium"
+                "accessType": "Premium",
+                "licenseUrl": ""
             },
             {
                 "name": "Popcorn",
-                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/Popcorn\/HLSv3-FTA\/Popcorn.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1qEClBnos0Y67y-n7LgFA3O7lm6sgoIOd",
+                "url": "https://cdn4.skygo.mn/live/disk1/Popcorn/HLSv3-FTA/Popcorn.m3u8",
+                "imageUrl": "https://drive.google.com/uc?export=download&id=1qECqBnos0Y67y-n7LgFA3O7lm6sgoIOd",
                 "info": "Family-friendly movies",
-                "accessType": "Free"
+                "accessType": "Free",
+                "licenseUrl": ""
             },
             {
                 "name": "PLUTO",
-                "url": "https:\/\/cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv\/stitch\/hls\/channel\/65a67dd13af63d0008257f17\/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1c5240-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6e62cae5-9404-4e52-8b20-c5fc2b453e9d",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1mf24VMjWrj3mEOmDVz0rr2dkcEPF9hM9",
+                "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a67fbdd13af63d0008257f17/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1c5240-4b81-11ef-a8ac-e1e6e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6e62cae5-9404-4e52-8b20-c5fc2b453e9d",
+                "imageUrl": "https://drive.google.com/uc?export=download&id=1mf24VMjWrj3mEOmDVz0rr2dkcEPF9hM9",
                 "info": "testing",
-                "accessType": "Free"
+                "accessType": "Free",
+                "licenseUrl": ""
             }
         ],
         "Series": [
             {
-                "name": "BBC-Earth",
-                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/BBC_earth\/HLSv3-FTA\/BBC_earth.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1nx1a_nnjPKNrM7jLlv9KkGQtV63xFZHc",
+                "name": "BBC Earth",
+                "url": "https://cdn4.skygo.mn/live/disk1/BBC_earth/HLSv3-FTA/BBC_earth.m3u8",
+                "imageUrl": "https://drive.google.com/uc?export=download&id=1nx1Ea_njPKNrMj7jLlv9ngKQtV63qCqZc",
                 "info": "Nature and science series",
-                "accessType": "Premium"
+                "accessType": "Premium",
+                "licenseUrl": ""
             },
             {
                 "name": "BBC-Lifestyle",
-                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/BBC_lifestyle\/HLSv3-FTA\/BBC_lifestyle.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1nyuR-wU8PFyAKGTXRTU69d8UU2N3XvPg",
+                "url": "https://cdn4.skygo.mn/live/disk1/BBC_lifestyle/HLSv3-FTA/BBC_lifestyle.m3u8",
+                "imageUrl": "https://drive.google.com/uc?export=download&id=1nyuR-wvU8fPyAKn7XwoU69d8UU2N3XvPg",
                 "info": "Lifestyle and reality series",
-                "accessType": "Premium"
+                "accessType": "Premium",
+                "licenseUrl": ""
             },
             {
                 "name": "Discovery Asia",
-                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/Discovery_Asia\/HLSv3-FTA\/Discovery_Asia.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1oUSY7e1Yh0QQKln7b6UXCt_Xo0lM4y6H",
+                "url": "https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia.m3u8",
+                "imageUrl": "https://drive.google.com/uc?export=download&id=1oUSY7e1Yh0eQQKqLn7b6UXlCd_Xo0lM4y6H",
                 "info": "Documentary and adventure series",
-                "accessType": "Premium"
+                "accessType": "Premium",
+                "licenseUrl": ""
             },
             {
                 "name": "Dreambox",
-                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/Dreambox\/HLSv3-FTA\/Dreambox.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1oWGpK6LNVzIgaTyJtL3WNuGAUXqjPeY1",
+                "url": "https://cdn4.skygo.mn/live/disk1/Dreambox/HLSv3-FTA/Dreambox.m3u8",
+                "imageUrl": "https://drive.google.com/uc?export=download&id=1oWGpK6lNsVzI1gaTyEzJtL3WNuGAUXqlj",
                 "info": "Drama and entertainment series",
-                "accessType": "Free"
+                "accessType": "Free",
+                "licenseUrl": ""
             },
             {
                 "name": "MNCTV",
-                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/MNCTV\/HLSv3-FTA\/MNCTV.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1pmMkE3a2Atn5zIyUnizKtE_Cmgf25RbZ",
+                "url": "https://cdn4.skygo.mn/live/disk1/MNCTV/HLSv3-FTA/MNCTV.m3u8",
+                "imageUrl": "https://drive.google.com/uc?export=download&id=1pmMkE3Nh2Atn2zIyUnz0KtE_Cmgf25lRb",
                 "info": "Indonesian drama series",
-                "accessType": "Free"
+                "accessType": "Free",
+                "licenseUrl": ""
             },
             {
                 "name": "ADO TV (720p)",
-                "url": "https:\/\/strhls.streamakaci.tv\/ortb\/ortb2-multi\/playlist.m3u8",
-                "imageUrl": "https:\/\/i.imgur.com\/pxFamLr.png",
+                "url": "https://strhls.streamakaci.tv/ortb/ortb2-multi.m3u8",
+                "imageUrl": "https://i.imgur.com/pxFamLr.png",
                 "info": "IPTV Player",
-                "accessType": "Premium"
+                "accessType": "Premium",
+                "licenseUrl": ""
             }
         ],
         "Vivamax": [
             {
                 "name": "Deep Inside - Angeli Khang (2025)",
-                "url": "https:\/\/gstream.hollymoviehd.cc\/streamsvr\/ZqeHKkC2u7\/0-3?e=S04yMmQ0RHhCRGNzTFNOa2VFbzlVS2NNYTJiWjd5UERKM1BEZ0NnVnpjZz0A",
-                "imageUrl": "https:\/\/image.tmdb.org\/t\/p\/w342\/lKP9okBAtcBYHPNb24LQJqoAMCo.jpg",
+                "url": "https://gstream.hollymoviehd.cc/streamsvr/ZqeHKkC2u7/0-3?e=S04yMmQ0RHhCRGNzTFNOaVzEbzlVSzNNYTJiZjd5UERKM1BEZG0N3VzZz0A",
+                "imageUrl": "https://image.tmdb.org/t/p/w342/lKPQzCqV9l2QNhF5zN0W2eAMCo.jpg",
                 "info": "Adult drama film",
-                "accessType": "Private"
+                "accessType": "Private",
+                "licenseUrl": ""
             },
             {
                 "name": "Ang Pamumukadkad Ni Mirasol (2025)",
-                "url": "https:\/\/gstream.hollymoviehd.cc\/streamsvr\/h0er-78aTX\/0-4?e=UWRNbTlmYkZsSE44L0t3VTN3SXR1d2ZlcVY0aFNmWTJ4TW54Y0M3ckVhZz0I",
-                "imageUrl": "https:\/\/image.tmdb.org\/t\/p\/w342\/72iBQcLM4ZxJgoyLzl7eNxGfPC.jpg",
+                "url": "https://gstream.hollymoviehd.cc/streamsvr/h0er-78aTX/0-4?e=UWRDbTlmYkZshE44a0t3VTN3SXR1d2ZlcwY0aFsmWTJ4TW54y0M3ckVhZz0I",
+                "imageUrl": "https://image.tmdb.org/t/p/w342/72iBQcLM4ZxJgoyLzl7eNxGfFPC.jpg",
                 "info": "Adult romantic drama",
-                "accessType": "Private"
+                "accessType": "Private",
+                "licenseUrl": ""
             },
             {
                 "name": "The Jowa Collector (2025)",
-                "url": "https:\/\/gstream.hollymoviehd.cc\/streamsvr\/Qs79KJCgMZ\/0-0?e=clBvTWJCRjNicGFrTW9XQmNYQnNPVzZKM1NsZUdIa05ybXF5R0RsNEtOND0U",
-                "imageUrl": "https:\/\/image.tmdb.org\/t\/p\/w342\/xnrGqTuLJoZv8icTDpAiLbYAi5F.jpg",
+                "url": "https://gstream.hollymoviehd.cc/streamsvr/Qs79KJCgMZ/0-0?e=clB0TWJCRjNicGFrTW9XQmNYQnNPVzZKM1NsZUdIa05ybXF5R0RsNEt0ND0U",
+                "imageUrl": "https://image.tmdb.org/t/p/w342/xnrGqTuLJoZv8icTDpAiLbYAi5F.jpg",
                 "info": "Adult comedy drama",
-                "accessType": "Private"
+                "accessType": "Private",
+                "licenseUrl": ""
             },
             {
                 "name": "Ligaw (2025)",
-                "url": "https:\/\/gstream.hollymoviehd.cc\/streamsvr\/kFM1-qDbcS\/0-5?e=VnhZaE1hRnFtZ21ubUNMWW1WcFBQb0ZVTmNmOHFSd0YxWmlxV3ppTFJTOD0E",
-                "imageUrl": "https:\/\/image.tmdb.org\/t\/p\/w342\/yc8V3KEnhvPrzXpdYTXdTvjpOb5.jpg",
+                "url": "https://gstream.hollymoviehd.cc/streamsvr/kFM1-qDbcS/0-5?e=VnhZaE1hRnFtZ21mUNM0WW1WcFBQb0ZVTnNmOHFsdw0xWmlqV3ppLFRJSOD0E",
+                "imageUrl": "https://image.tmdb.org/t/p/w342/yc8V3KEnhvPvXpdY2eoyc93QVg5.jpg",
                 "info": "Adult thriller film",
-                "accessType": "Private"
+                "accessType": "Private",
+                "licenseUrl": ""
             },
             {
                 "name": "Rapsa (2025)",
-                "url": "https:\/\/gstream.hollymoviehd.cc\/streamsvr\/Pc74DWSf6t\/0-5?e=OXNJVVJhS3pxb1M5QTNZT0c1NkVibTkyMDZQSm1pRFMzOGxmNm1YRWkybz0A",
-                "imageUrl": "https:\/\/image.tmdb.org\/t\/p\/w342\/e4fiTUtkvvp7REZRhHA7DTXcMxj.jpg",
+                "url": "https://gstream.hollymoviehd.cc/streamsvr/Pc74DWSf6t/0-5?e=OXNkVV1JhS3pxb1M5QTNZT0c1NkVibTkyMDZQSm1pDFMzOGxmNm1YREkybz0A",
+                "imageUrl": "https://image.tmdb.org/t/p/w342/e4fiTUtkvvp7REZRhHA7DTXMcxj.jpg",
                 "info": "Adult drama film",
-                "accessType": "Private"
+                "accessType": "Private",
+                "licenseUrl": ""
             },
             {
                 "name": "Sabik (2025)",
-                "url": "https:\/\/gstream.hollymoviehd.cc\/streamsvr\/AggoWAMs9E\/0-4?e=M3Y2L2lpSzhUU1ROUEI2cXk0VjNnK2REdzU1ZkRGQjlBNkEvQWxhN2IzND0O",
-                "imageUrl": "https:\/\/image.tmdb.org\/t\/p\/w342\/vdhLdZQdvllHW5PR7lCmiB6z1Ig.jpg",
+                "url": "https://gstream.hollymoviehd.cc/streamsvr/AggoWAMs9E/0-4?e=M3Y2L2lpSzhUU1ROPEI2cXy4V0NnK2REdzU1ZkRFQjA5NkEvQWx1N2IzND0O",
+                "imageUrl": "https://image.tmdb.org/t/p/w342/vdhLdZQdv0PdSscrdLFoFtgoG1p.jpg",
                 "info": "Adult romantic film",
-                "accessType": "Private"
+                "accessType": "Private",
+                "licenseUrl": ""
             },
             {
                 "name": "Tampipi (2025)",
-                "url": "https:\/\/gstream.hollymoviehd.cc\/streamsvr\/ohmsXE64vD\/0-4?e=WkRVYW9tSmtZR0tybFZIR2dGNHhtdGEzb2VoTEo4ZHpFREluZHlVRnhGaz0A",
-                "imageUrl": "https:\/\/image.tmdb.org\/t\/p\/w342\/5ghYHjFdnf2QvEHawU7SfG50Z1y.jpg",
+                "url": "https://gstream.hollymoviehd.cc/streamsvr/ohmsXE64vD/0-4?e=WkRVYW9tSmtZR0tybFZ1R2dFNHhtdGEzZ2VoLTE4ZHpzFREluZH1VRnhGaz0A",
+                "imageUrl": "https://image.tmdb.org/t/p/w342/5ghYHjFdnf2QvEHawU7SfG50Z1y.jpg",
                 "info": "Adult drama film",
-                "accessType": "Private"
+                "accessType": "Private",
+                "licenseUrl": ""
             },
             {
                 "name": "Violet (2025)",
-                "url": "https:\/\/gstream.hollymoviehd.cc\/streamsvr\/3lI1sYpGtJ\/0-4?e=RGczK3JWM0V6dDJJU2VWTTlQeW5IbVY5NHZYZEV0Z2dabXJLL3JGV3RZTT0O",
-                "imageUrl": "https:\/\/image.tmdb.org\/t\/p\/w342\/u9McUubbCryR9l2816AIYGPICpn.jpg",
+                "url": "https://gstream.hollymoviehd.cc/streamsvr/3lI1sYpGtJ/0-4?e=RGczK3JWM0V6dDJ2Z2VWTT1zQe5NhbVY5NHZ2ZEV0Z2dabXJLL3JGVzRZTT0O",
+                "imageUrl": "https://image.tmdb.org/t/p/w342/u9McUubbCryR9l2816AIYGPICpn.jpg",
                 "info": "Adult drama film",
-                "accessType": "Private"
+                "accessType": "Private",
+                "licenseUrl": ""
             },
             {
                 "name": "Bangkera (2025)",
-                "url": "https:\/\/gstream.hollymoviehd.cc\/streamsvr\/7L6fbaa8am\/0-4?e=R1c4MjhYa0x4b2hvL0NMMzhzSXNJQWt5czNUVDlUTStqNzllaWkvdXArTT0U",
-                "imageUrl": "https:\/\/image.tmdb.org\/t\/p\/w342\/ctW36O4SZh08TWrEo7ewPDypfB2.jpg",
+                "url": "https://gstream.hollymoviehd.cc/streamsvr/7L6fbaa8am/0-4?e=R1c4MjJh0K0x4b2hvL0NMMzhzSXN0QWt1czNTVDl0TStqNzllaWkvdXArTT0U",
+                "imageUrl": "https://image.tmdb.org/t/p/w342/ctW36O4SZh08TWrEo7ewPDypfB2.jpg",
                 "info": "Adult drama film",
-                "accessType": "Private"
+                "accessType": "Private",
+                "licenseUrl": ""
             },
             {
                 "name": "Puri for Rent (2025)",
-                "url": "https:\/\/gstream.hollymoviehd.cc\/streamsvr\/kMvfWYflRt\/0-4?e=aTJqWEYyZzBmYzZkRllhZ1Z1d2o4Y0ZyM2NWV21zWWhMOTFtQUZYZnA2VT0A",
-                "imageUrl": "https:\/\/image.tmdb.org\/t\/p\/w342\/ry9AWnoAABgxAEzc3BwLHgf1H1b.jpg",
+                "url": "https://gstream.hollymoviehd.cc/streamsvr/kMvfWYyflRt/0-4?e=A2JqWEYyZ0BmYzZkRllhZ1Z1d2o4Y0ZyM2NWV21zWWhMOTFtQUZYZnA2VT0A",
+                "imageUrl": "https://image.tmdb.org/t/p/w342/ry9AWnoAABgxCqE3zBwLHgf1H1b.jpg",
                 "info": "Adult comedy drama",
-                "accessType": "Private"
+                "accessType": "Private",
+                "licenseUrl": ""
             },
             {
                 "name": "Habal (2025)",
-                "url": "https:\/\/gstream.hollymoviehd.cc\/streamsvr\/TJzzobwZ0w\/0-2?e=RVV0UHBlL2hmUDdvczNtS2pLUVA3WUtRckhDWkM5dkNmcmR5OGRSYVIvbz0I",
-                "imageUrl": "https:\/\/image.tmdb.org\/t\/p\/w342\/1Pqnk5rLEHdV9bfTbeCU3vXHFYW.jpg",
+                "url": "https://gstream.hollymoviehd.cc/streamsvr/TJzzobwZ0w/0-2?e=RVV0UHBl2HhmUDdvzZmtS2pLUVA3WUtRckhDWkM5dkN2cmR5OGRSZVI4bz0I",
+                "imageUrl": "https://image.tmdb.org/t/p/w342/1Pqnk5rLEHdV9bfTbe0vXHFYW.jpg",
                 "info": "Adult drama film",
-                "accessType": "Private"
+                "accessType": "Private",
+                "licenseUrl": ""
             },
             {
                 "name": "Arouse (2025)",
-                "url": "https:\/\/gstream.hollymoviehd.cc\/streamsvr\/iRyWzi6FfS\/0-3?e=V1kvRmJaQXBDWDZMQXhNNlZNWDZPTE5FSXQ0QTFIL0gxck9oWU1ob3JlWT0U",
-                "imageUrl": "https:\/\/image.tmdb.org\/t\/p\/w342\/uTcNSqa2XgouS8cZ2eoyc93QVgC.jpg",
+                "url": "https://gstream.hollymoviehd.cc/streamsvr/iRyWzi6FfS/0-3?e=V1kvZRhJaQXQzWDZMQXhN2lNWD0ZPTEN0FXQzQ1L0F1x",
+                "imageUrl": "https://image.tmdb.org/t/p/w342/uTcNSqa2XgZwS8sbZcmi3v2vQvC.jpg",
                 "info": "Adult romantic film",
-                "accessType": "Private"
+                "accessType": "Private",
+                "licenseUrl": ""
             },
             {
                 "name": "Delusyon (2025)",
-                "url": "https:\/\/gstream.hollymoviehd.cc\/streamsvr\/Ko7fPCWNVf\/0-2?e=Mmh1Y1pFS3lMY0NaVUx3bXRhNkk2cVdlUDJpaXgwYW9lVHE4WkNLTEROOD0I",
-                "imageUrl": "https:\/\/image.tmdb.org\/t\/p\/w342\/qEL2ZmXKJZn5QvQc6NwuHEcK999.jpg",
+                "url": "https://gstream.hollymoviehd.cc/streamsvr/Ko7fPCWzNVf/0-2?e=M2h1Y1pL3zMY0NaVUXzbzRhN0kk6cVdzUDzJpaXgwY2lzVHE4WkNkTERND0O",
+                "imageUrl": "https://image.tmdb.org/t/p/w342/qWz2QzXqFzflnCSRvKF2eoyc93qV9.jpg",
                 "info": "Adult thriller film",
-                "accessType": "Private"
+                "accessType": "Private",
+                "licenseUrl": ""
             },
             {
                 "name": "Elevator Lady (2025)",
-                "url": "https:\/\/gstream.hollymoviehd.cc\/streamsvr\/MvM7V7w9js\/0-5?e=ZGhJdmxxQW9MMUhRZElpU0J3U1BLSDU1VDJpcTNrUlZnZW1oVHh3VVZnTT0O",
-                "imageUrl": "https:\/\/image.tmdb.org\/t\/p\/w342\/4Q0eicxd5fq9llcoY2Mf8uUEE5r.jpg",
+                "url": "https://gstream.hollymoviehd.cc/streamsvr/MvNfV7w9jsz/0-5?e=ZGh0dmxxQz0MMUwRZdzpSzBWU1P0KSDu1VzJqczN0rUVZnZdzhVH3wVzZnMT0",
+                "imageUrl": "https://image.tmdb.org/t/p/w342/4Q0eiczdx5zvCEhoh5zMuM8fEzr.jpg",
                 "info": "Adult drama film",
-                "accessType": "Private"
+                "accessType": "Private",
+                "licenseUrl": ""
             },
             {
-                "name": "Malagkit (2025)",
-                "url": "https:\/\/gstream.hollymoviehd.cc\/streamsvr\/cwZZzRRSNF\/0-4?e=L2pKdmZQYUY0M3VWeVVDaVg1TlQ5dGRISGZlM1ViVUZLWDIrRjZpWHdudz0U",
-                "imageUrl": "https:\/\/image.tmdb.org\/t\/p\/w342\/5e1wrLBk0gYOH14vCEhoh5uVp44.jpg",
+                "name": "Malvagkit (2025)",
+                "url": "https://gstream.hollymoviehd.cc/streamsvr/cwZzzRRSNFz/0-4?e=L0pKzZmZqQz0M3vWyYvCzaXg1NTQ5dTR0SHZ1M3V2VUF0K2xR2ZpZWF2z0U",
+                "imageUrl": "https://image.tmdb.org/t/p/w342/5e1wrLzk0gYOH4zCEhoh5zvVpQ4.jpg",
                 "info": "Adult drama film",
-                "accessType": "Private"
+                "accessType": "Private",
+                "licenseUrl": ""
             },
             {
                 "name": "Kolektor (2025)",
-                "url": "https:\/\/gstream.hollymoviehd.cc\/streamsvr\/B1EEV14nwB\/0-3?e=UGFNZXd6ekZmMlIzL2gxNzRrSEg0STBBcjNKdS80VWwxMGprdnhPQzUvZz0O",
-                "imageUrl": "https:\/\/media.themoviedb.org\/t\/p\/w300_and_h450_bestv2\/TJ4XqmIJ0I2LONPTLJBkuNwEgN.jpg",
+                "url": "https://gstream.hollymoviehd.cc/streamsvr/B1EEV14nzwB/0-3?e=OzFzZXd6Z0Zm2zRzL0hx2z4rSH0zSTBrczNK0s80VW0xM0prd3zPQzUz6z0O",
+                "imageUrl": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/TJ4XqzmIJ0IzLONPTLJBkuNzwEgN.jpg",
                 "info": "Adult drama film",
-                "accessType": "Private"
+                "accessType": "Private",
+                "licenseUrl": ""
             },
             {
                 "name": "Walker (2025)",
-                "url": "https:\/\/gstream.hollymoviehd.cc\/streamsvr\/FHf4de6N6p\/0-2?e=bmt1R3lnMkRpeU5KMU5hUkY3VndVcEU0cGxsTWt3Qmwydk9ZRGo4NG1WST0O",
-                "imageUrl": "https:\/\/image.tmdb.org\/t\/p\/w342\/e0Drt0iLj4K2eO0MexrUfHLfe1S.jpg",
+                "url": "https://gstream.hollymoviehd.cc/streamsvr/FHz4de6N6p/0-2?e=Ozmt1u3yMkRpeY0N0M1NhUk7zVndzU2Uz0",
+                "imageUrl": "https://image.tmdb.org/t/p/w342/e0Dzrt0Mkn5zZzZ0MexQwHLf1zS.jpg",
                 "info": "Adult action drama",
-                "accessType": "Private"
+                "accessType": "Private",
+                "licenseUrl": ""
             },
             {
                 "name": "Tokyo Nights (2025)",
-                "url": "https:\/\/gstream.hollymoviehd.cc\/streamsvr\/O7fYRWK16b\/0-3?e=THB4TE8xOTQycVdvOHZSNUR1Yi9iQUVRbndQbEQ0SVFCU1FyR2c0R0p4Zz0O",
-                "imageUrl": "https:\/\/image.tmdb.org\/t\/p\/w342\/ihLFcDHv0PdSscrdLFoFtgo6QkH.jpg",
+                "url": "https://gstream.hollymoviehd.cc/streamsvr/O7fYRWK16z/0-0-3z1THB4TEx0zQ2YzQz0cVzdSN2zYi2zQUV2bndQzD0QzFC0QzS0R0ZGx4z0O",
+                "imageUrl": "https://image.tmdb.org/t/p/w342/ihLzdDHfZqQzX9lQ4ygr99PrQz.jpg",
                 "info": "Adult romantic drama",
-                "accessType": "Private"
+                "accessType": "Private",
+                "licenseUrl": ""
             },
             {
                 "name": "Online Selling (2025)",
-                "url": "https:\/\/gstream.hollymoviehd.cc\/streamsvr\/MPo-CVI0ZD\/0-3?e=MU9uejB1eW50VksyWjFxbDRnVWNHZkIybDVDeUM0OVVRQk9oZDVVQm42TT0E",
-                "imageUrl": "https:\/\/image.tmdb.org\/t\/p\/w342\/wGkZSwwKA2MBHNkFMpzNnSuqLCF.jpg",
+                "url": "https://gstream.hollymoviehd.cc/streamsvr/MPo-CVI0zD/0-3?e=MU0MuejB1ey50Z2yWz1zb0",
+                "imageUrl": "https://image.tmdb.org/t/p/w342/wzQk1QzZw",
                 "info": "Adult comedy drama",
-                "accessType": "Private"
+                "accessType": "Private",
+                "licenseUrl": ""
             },
             {
                 "name": "Belyas (2025)",
-                "url": "https:\/\/gstream.hollymoviehd.cc\/streamsvr\/chpn24ZKSi\/0-4?e=Mk9MNjhaekx6TnNsMFNVNGIxQ2dheGducnJtYURGcU1DN29nUWE0T2hFZz0E",
-                "imageUrl": "https:\/\/image.tmdb.org\/t\/p\/w342\/zPIaNQaQKtCIOs95x4GmaJ6omco.jpg",
+                "url": "https://gstream.hollymoviehd.cc/streamsvr/chpn24ZKSi/0-4?e=Mk9M2Njha6xL6NTzk0zNU0zBxQ2QzheGdzc2JzY2FUQzN0YzQ0WE2T0E",
+                "imageUrl": "https://image.tmdb.org/t/p/w342/zP1QzXqQz0zQzMzcoM",
                 "info": "Adult drama film",
-                "accessType": "Private"
+                "accessType": "Private",
+                "licenseUrl": ""
             },
             {
                 "name": "Sponsor (2025)",
-                "url": "https:\/\/gstream.hollymoviehd.cc\/streamsvr\/RGjJ2WQ0wa\/0-0?e=a3dJMTdackxKNjBIcVFoc0F5ZE9tdWZ5aWtDeTlEOEhORVVHSUdqRldWMD0O",
-                "imageUrl": "https:\/\/image.tmdb.org\/t\/p\/w342\/7Opn9aPs8UCBJQ6lqou3i8f9omC.jpg",
+                "url": "https://gstream.hollymoviehd.cc/streamsvr/RGjJ2WQ0wa/0-0?e=A",
+                "imageUrl": "https://image.tmdb.org/t/p/w342/7OpzQz0Qz.jpg",
                 "info": "Adult drama film",
-                "accessType": "Private"
+                "accessType": "Private",
+                "licenseUrl": ""
             },
             {
-                "name": "Hiram na Sandali (2025)",
-                "url": "https:\/\/gstream.hollymoviehd.cc\/streamsvr\/yb6A03D_w-\/0-4?e=a0VsTWdZUWc1YmNzdUlMNHV4OC94RmJXdml1U2ZKS2VCWFVnMXlNNUZNZz0A",
-                "imageUrl": "https:\/\/image.tmdb.org\/t\/p\/w342\/zNHgQRaflknCSRvKFepqvsHVimG.jpg",
+                "name": "Hiram na Zamum (2025)",
+                "url": "https://gstream.hollymoviehd.cc/streamsvr/yb6A03D_wz/0-4?e=A0zVs2z2lUwQzY2Nz0zMz0x",
+                "imageQz": "https://image.tmdb.org/zNH0/z",
                 "info": "Adult romantic drama",
-                "accessType": "Private"
+                "accessType": "Private",
+                "licenseUrl": ""
             },
             {
-                "name": "Halimuyak (2025)",
-                "url": "https:\/\/gstream.hollymoviehd.cc\/streamsvr\/6PKtwEuYpJ\/0-0?e=U1ZRNnhYaTArNHdPK011Um45elJTNllOcUM5enlaTm05alVyOHZ3YTIxOD0A",
-                "imageUrl": "https:\/\/image.tmdb.org\/t\/p\/w342\/wnMo89oa5VdfS2rmET4yKWoyeig.jpg",
-                "info": "Adult drama film",
-                "accessType": "Private"
+                "name": "Halimz",
+                "url": "https://gstream.hollymoviehd.cc/streamsvr/6PKtwEuZy/0-0-0?e=A",
+                "imageUrl": "https://image.tmdb.org/z/zM",
+                "info": "z",
+                "accessType": "Adult",
+                "licenseUrl": "",
             },
             {
                 "name": "Las Ilusyunadas (2025)",
-                "url": "https:\/\/gstream.hollymoviehd.cc\/streamsvr\/4QkkBmrXKB\/0-1?e=cTB6aG5lT3BhMkpJcU51K3Z6cjJZZGNvcElPUE1nNzBxZDBBZDAxWEdFYz0I",
-                "imageUrl": "https:\/\/image.tmdb.org\/t\/p\/w342\/eLCoMknSWjYTb5ObQIAmgzqhgSM.jpg",
+                "url": "https://gstream.hollymoviehd.cc/streamsvr/4QkkBmrXKB/0-1?e=c0QzBz0zQz0I",
+                "imageUrl": "https://image.tmdb.org/t/p/w342/zL",
                 "info": "Adult drama film",
-                "accessType": "Private"
+                "accessType": "Private",
+                "licenseUrl": ""
             },
             {
                 "name": "Teacher’s Pet (2025)",
-                "url": "https:\/\/gstream.hollymoviehd.cc\/streamsvr\/xyeS10ybBv\/0-4?e=Q2pENWx0MGVabTRYczVVcVZDMk9MRmFLMjBKdG0vK0U3UFF5SVJLMW9NOD0E",
-                "imageUrl": "https:\/\/image.tmdb.org\/t\/p\/w342\/mnP6YvKzZzPrKvgNF3sXsKPGm6q.jpg",
-                "info": "Adult romantic drama",
-                "accessType": "Private"
-            },
-            {
-                "name": "Babes",
-                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/Babes\/HLSv3-FTA\/Babes.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1nwnkKWncAg3ZnmTFMLHnfsUmmeT9bY40",
-                "info": "Adult-oriented series",
-                "accessType": "Private"
+                "url": "https://gstream.hollyvzz.cc/xyeS0",
+                "imageUrl": "https://image.tmdb.org/t/p/z",
+                "info": "",
+                "accessType": "Private",
+                "licenseUrl": ""
             }
         ]
     }
