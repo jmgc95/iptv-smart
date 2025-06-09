@@ -1,5 +1,5 @@
 {
-    "version": "3.8",
+    "version": "1.1",
     "channels": {
         "Live TV": [
             {
@@ -399,6 +399,41 @@
                 "url": "https:\/\/cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv\/stitch\/hls\/channel\/5b64a245a202b3337f09e51d\/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d5385d4-eca6-11ee-8078-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a8d191eb-9616-40b7-9d49-abbceb00f273&userId=&serverSideAds=true",
                 "imageUrl": "https:\/\/images.pluto.tv\/channels\/5b64a245a202b3337f09e51d\/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000",
                 "info": "Escape into worlds beyond our own with Pluto TV Fantastic. Every day we bring you movies with grand adventures, magical creatures, and intergalactic action. Get transported now.",
+                "accessType": "Premium"
+            },
+            {
+                "name": "Pluto TV Romance",
+                "url": "https:\/\/cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv\/stitch\/hls\/channel\/5a66795ef91fef2c7031c599\/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d538a70-eca6-11ee-98d2-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3212896f-cf34-4be5-917e-ae1aee1c0a07&userId=&serverSideAds=true",
+                "imageUrl": "https:\/\/images.pluto.tv\/channels\/5a66795ef91fef2c7031c599\/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000",
+                "info": "If you believe in love at first sight, if you're looking to be swept off your feet, and if you've always wanted to stop that special someone at the airport to say how you really feel, then we request the pleasure of your company on Pluto TV Romance.",
+                "accessType": "Premium"
+            },
+            {
+                "name": "Pluto TV Crime Movies",
+                "url": "https:\/\/cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv\/stitch\/hls\/channel\/5f4d8594eb979c0007706de7\/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d538b2e-eca6-11ee-8295-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6989125c-7089-43e1-9304-ef10eb566a21&userId=&serverSideAds=true",
+                "imageUrl": "https:\/\/images.pluto.tv\/channels\/5f4d8594eb979c0007706de7\/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000",
+                "info": "Cops and robbers, conmen and convicts, gangsters and grifters — the toughest guys on both sides of the law are on Pluto TV Crime Movies.",
+                "accessType": "Premium"
+            },
+            {
+                "name": "Pluto TV Thrillers",
+                "url": "https:\/\/cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv\/stitch\/hls\/channel\/5b4e69e08291147bd04a9fd7\/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d538bc4-eca6-11ee-b015-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d3110b35-4954-48c8-b05e-c2abbdbd502d&userId=&serverSideAds=true",
+                "imageUrl": "https:\/\/images.pluto.tv\/channels\/5b4e69e08291147bd04a9fd7\/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000",
+                "info": "Your pulse is pounding, your fists are clenched, and there's danger around every corner. You must be watching Pluto TV Thrillers, where devious masterminds scheme, killers stalk the night, spies evade capture, and you sit on the edge of your seat.",
+                "accessType": "Premium"
+            },
+            {
+                "name": "Pluto TV Horror",
+                "url": "https:\/\/cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv\/stitch\/hls\/channel\/569546031a619b8f07ce6e25\/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d538c50-eca6-11ee-80a3-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=24679ab7-1b40-4f8d-bff0-375370f264c0&userId=&serverSideAds=true",
+                "imageUrl": "https:\/\/images.pluto.tv\/channels\/569546031a619b8f07ce6e25\/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000",
+                "info": "Horror fans rejoice, your channel is alive. It’s a never ending fright-fest on Pluto TV Horror. Don’t turn on the lights, don’t answer the door, and don’t change that channel.",
+                "accessType": "Premium"
+            },
+            {
+                "name": "Pluto TV Terror",
+                "url": "https:\/\/cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv\/stitch\/hls\/channel\/5c6dc88fcd232425a6e0f06e\/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d538d4a-eca6-11ee-9b07-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1d46700b-592d-4f6f-93de-a6b6130e0763&userId=&serverSideAds=true",
+                "imageUrl": "https:\/\/images.pluto.tv\/channels\/5c6dc88fcd232425a6e0f06e\/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000",
+                "info": "The scariest, goriest, most extreme horror movies ever unleashed are here to petrify you all day and all night on Pluto TV Terror. Lock the doors, turn on the lights, and tell yourself “It’s only a movie!",
                 "accessType": "Premium"
             }
         ],
