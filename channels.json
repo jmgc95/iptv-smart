@@ -1,5 +1,5 @@
 {
-    "version": "1.2",
+    "version": "1.3",
     "channels": {
         "Live TV": [
             {
@@ -434,6 +434,20 @@
                 "url": "https:\/\/cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv\/stitch\/hls\/channel\/5c6dc88fcd232425a6e0f06e\/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d538d4a-eca6-11ee-9b07-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1d46700b-592d-4f6f-93de-a6b6130e0763&userId=&serverSideAds=true",
                 "imageUrl": "https:\/\/images.pluto.tv\/channels\/5c6dc88fcd232425a6e0f06e\/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000",
                 "info": "The scariest, goriest, most extreme horror movies ever unleashed are here to petrify you all day and all night on Pluto TV Terror. Lock the doors, turn on the lights, and tell yourself “It’s only a movie!",
+                "accessType": "Premium"
+            },
+            {
+                "name": "Great Commission TV",
+                "url": "http:\/\/45.32.115.103\/live\/livestream\/index.m3u8",
+                "imageUrl": "",
+                "info": "Cignal TV is the single, largest satellite-based cable TV in the Philippines, with a nationwide scope. Its wide scope provides opportunity for GCTV to reach millions of Filipino homes with the Gospel of Christ.",
+                "accessType": "Premium"
+            },
+            {
+                "name": "Mindanao Network TV",
+                "url": "https:\/\/streams1.comclark.com\/overlay\/mindanow\/playlist.m3u8",
+                "imageUrl": "",
+                "info": "Mindanao Network TV (MNCTV) is a regional television network in the Philippines that focuses on delivering news, entertainment, and cultural programs specifically for viewers in Mindanao. It highlights local stories, promotes regional identity, and showcases the diverse cultures and communities of the island. Operated under the Mindanao Media Network, MNCTV also partners with local governments and organizations to support regional development and public awareness through its broadcasts.",
                 "accessType": "Premium"
             }
         ],
