@@ -1,5 +1,5 @@
 {
-    "version": "1.3",
+    "version": "1.4",
     "channels": {
         "Live TV": [
             {
@@ -448,6 +448,27 @@
                 "url": "https:\/\/streams1.comclark.com\/overlay\/mindanow\/playlist.m3u8",
                 "imageUrl": "",
                 "info": "Mindanao Network TV (MNCTV) is a regional television network in the Philippines that focuses on delivering news, entertainment, and cultural programs specifically for viewers in Mindanao. It highlights local stories, promotes regional identity, and showcases the diverse cultures and communities of the island. Operated under the Mindanao Media Network, MNCTV also partners with local governments and organizations to support regional development and public awareness through its broadcasts.",
+                "accessType": "Premium"
+            },
+            {
+                "name": "Kapamilya Channel",
+                "url": "https:\/\/tfc.mark-projects.site\/kapamilya.m3u8",
+                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1xDsQ7PlUdGH2eM15TF_DzunOEI_ACs-w",
+                "info": "Kapamilya Channel HD is the high-definition (HD) version of the Kapamilya Channel, a 24-hour pay TV channel in the Philippines owned and operated by ABS-CBN Corporation.",
+                "accessType": "Premium"
+            },
+            {
+                "name": "MOR Entertainment",
+                "url": "https:\/\/abslive.akamaized.net\/hls\/live\/2028024\/mor\/master.m3u8",
+                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1xEOngycxi4K-7EPlfrHfj_XXpDOJGeTF",
+                "info": "MOR Entertainment (stylized as MORe) is the digital evolution of MOR (My Only Radio) by ABS-CBN, rebranded on February 14, 2021. It arose after the shutdown of MOR’s FM stations and carries forward the brand’s spirit in a fully online format .",
+                "accessType": "Free"
+            },
+            {
+                "name": "TFC Asia",
+                "url": "https:\/\/tfc.mark-projects.site\/tfcasia.m3u8",
+                "imageUrl": "https:\/\/drive.google.com\/file\/d\/1xE-kObSfx1res9axZuG7bFb-G6HD19wS\/view?usp=drivesdk",
+                "info": "TFC Asia is the Asia-Pacific distribution of The Filipino Channel—offered via cable, satellite, IPTV, and streaming apps—bringing ABS-CBN’s full suite of entertainment and news to Filipinos abroad, with flexible access in HD, live, and on-demand formats.",
                 "accessType": "Premium"
             }
         ],
