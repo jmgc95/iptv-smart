@@ -1,5 +1,5 @@
 {
-    "version": "1.4",
+    "version": "1.5",
     "channels": {
         "Live TV": [
             {
@@ -467,7 +467,7 @@
             {
                 "name": "TFC Asia",
                 "url": "https:\/\/tfc.mark-projects.site\/tfcasia.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/file\/d\/1xE-kObSfx1res9axZuG7bFb-G6HD19wS\/view?usp=drivesdk",
+                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1xE-kObSfx1res9axZuG7bFb-G6HD19wS",
                 "info": "TFC Asia is the Asia-Pacific distribution of The Filipino Channel—offered via cable, satellite, IPTV, and streaming apps—bringing ABS-CBN’s full suite of entertainment and news to Filipinos abroad, with flexible access in HD, live, and on-demand formats.",
                 "accessType": "Premium"
             }
