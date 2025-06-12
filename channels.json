@@ -1,5 +1,5 @@
 {
-    "version": "1.8",
+    "version": "1.9",
     "channels": {
         "Live TV": [
             {
@@ -483,6 +483,20 @@
                 "url": "https:\/\/tfc.mark-projects.site\/cinemaone.m3u8",
                 "imageUrl": "https:\/\/drive.google.com\/file\/d\/1xNCeMwSC2KGxd_oe3J8EF2HaUEka6rzT\/view?usp=drivesdk",
                 "info": "Cinema One is your go‑to channel for quality Filipino cinema—constantly evolving since the ’90s, topping cable ratings, celebrating indie voices through Cinema One Originals, and expanding online. Whether on cable, Cignal, TV5, or iWantTFC, it’s “laging kasama” for movie lovers!",
+                "accessType": "Premium"
+            },
+            {
+                "name": "HBO+",
+                "url": "http:\/\/190.11.225.124:5000\/live\/hbo_plus_hd\/playlist.m3u8",
+                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1xV8sMSWEevWjjKi5qZNGAWRB_Klw2AqH",
+                "info": "HBO Plus is a premium television channel that is part of the HBO Latin America group. It is not a streaming service like HBO Max or Max.",
+                "accessType": "Premium"
+            },
+            {
+                "name": "CRUNCHYROLL",
+                "url": "https:\/\/service-stitcher.clusters.pluto.tv\/v1\/stitch\/embed\/hls\/channel\/65652f7fc0fc88000883537alivestitch\/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1xYnbMewBp9arXBGKaIoSxB6mwExx15rm",
+                "info": "Crunchyroll is the go-to anime streaming service for fans—offering a huge, constantly updated library, simulcasts, offline viewing, and community features. In the Philippines, plans are affordable and accessible via various payment methods.",
                 "accessType": "Premium"
             }
         ],
