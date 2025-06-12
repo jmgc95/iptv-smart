@@ -7,7 +7,7 @@
                 "url": "https:\/\/amc-anime-x-hidive-1-us.tablo.wurl.tv\/playlist.m3u8",
                 "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1lQN4tVJUK4Z1RFNKwGzEYKmhhYF9O7At",
                 "info": "Anime streaming channel",
-                "accessType": "Free"
+                "accessType": "Premium"
             },
             {
                 "name": "A2Z Channel 11",
@@ -21,7 +21,7 @@
                 "url": "https:\/\/turnerlive.warnermediacdn.com\/hls\/live\/586495\/cnngo\/cnn_slate\/VIDEO_0_3564000.m3u8",
                 "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1lGGwBR4IIFPEaDj_pBmupEMtv8E-khja",
                 "info": "24\/7 global news coverage",
-                "accessType": "Free"
+                "accessType": "Premium"
             },
             {
                 "name": "ABC News",
@@ -35,7 +35,7 @@
                 "url": "https:\/\/www.bloomberg.com\/media-manifest\/streams\/us.m3u8",
                 "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1laXkGjC_ydQcJFv-NHAteMxfUv4gFxlo",
                 "info": "Financial news and analysis",
-                "accessType": "Free"
+                "accessType": "Premium"
             },
             {
                 "name": "RT Documentary",
@@ -63,7 +63,7 @@
                 "url": "https:\/\/fm.mark-projects.site\/stream\/wish.m3u8",
                 "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1mGTYZW9bNwT53OrPs0AD_gfKobE58rNY",
                 "info": "Music and live performances",
-                "accessType": "Free"
+                "accessType": "Premium"
             },
             {
                 "name": "CGTN News",
@@ -91,7 +91,7 @@
                 "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/Cartoon_Network\/HLSv3-FTA\/Cartoon_Network.m3u8",
                 "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1oOUC7NmgOPsM8SK9gW4Y8uj_W3u3wsyx",
                 "info": "Catch up on animated series",
-                "accessType": "Free"
+                "accessType": "Premium"
             },
             {
                 "name": "Zoomoo",
@@ -329,7 +329,7 @@
                 "url": "https:\/\/moviesphereuk-samsunguk.amagi.tv\/playlist.m3u8",
                 "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1mdRxkeYw-4W1npbFyLuekfgr99PrI_85",
                 "info": "Movies and blockbusters",
-                "accessType": "Free"
+                "accessType": "Premium"
             },
             {
                 "name": "Garage TV",
@@ -350,7 +350,7 @@
                 "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/Popcorn\/HLSv3-FTA\/Popcorn.m3u8",
                 "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1qEClBnos0Y67y-n7LgFA3O7lm6sgoIOd",
                 "info": "Family-friendly movies",
-                "accessType": "Free"
+                "accessType": "Premium"
             },
             {
                 "name": "Pluto TV Spotlight",
@@ -568,39 +568,7 @@
                 "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1xpaGLyOqlf5kPDk1gBHPxx4Oah2Lparz",
                 "info": "Animax\n\nA dedicated anime channel operating in Asia for nearly 20 years  .\n\nProvides blockcasts, simulcasts of titles from Japan like One Punch Man, Cells at Work!, Seven Deadly Sins, etc.  .\n\nAvailable on Cignal (e.g., Ch. 46), MySKY plans, and TrueID for streaming  .",
                 "accessType": "Premium"
-            }
-        ],
-        "Movies": [
-            {
-                "name": "Hope for What We Do Not See",
-                "url": "http:\/\/206.189.156.0\/videojw.mp4",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1vdeYUUS2UkvnehP_pBJwkUA4JYXj0P0B",
-                "info": "The ancient man Job faced tests of integrity that involved a series of tragic events. Look in on the life of the Bannister family as they experience similar tests of integrity in a modern-day setting. In the end, what helped them get their perspective?",
-                "accessType": "Premium"
             },
-            {
-                "name": "Remember the Wife of Lot ​— Part 1",
-                "url": "http:\/\/206.189.156.0\/vidp1.mp4",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1veyFJufKIyYyr6VAlGgXLivEEUufDv7n",
-                "info": "This video is based on the Bible account of Lot and his family found in Genesis chapters 18 and 19. Jehovah rescued Lot, his wife, and their daughters from the destruction of the wicked cities of Sodom and Gomorrah. However, Lot’s wife looked back despite God’s clear command not to—and she was turned into a pillar of salt (Genesis 19:26).\n\nJesus later reminded his followers of this event, saying:\n“Remember the wife of Lot.” —Luke 17:32.\n\nThis serves as a powerful warning for us today:\n\nDon’t look back at the world with longing.\n\nDon’t let material things or past lifestyles distract us.\n\nStay obedient and focused on Jehovah’s direction, especially as the end of this system draws near.",
-                "accessType": "Free"
-            },
-            {
-                "name": "Remember the Wife of Lot ​— Part 2",
-                "url": "http:\/\/206.189.156.0\/video2.mp4",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1veyFJufKIyYyr6VAlGgXLivEEUufDv7n",
-                "info": "This video is based on the Bible account of Lot and his family found in Genesis chapters 18 and 19. Jehovah rescued Lot, his wife, and their daughters from the destruction of the wicked cities of Sodom and Gomorrah. However, Lot’s wife looked back despite God’s clear command not to—and she was turned into a pillar of salt (Genesis 19:26).\n\nJesus later reminded his followers of this event, saying:\n“Remember the wife of Lot.” —Luke 17:32.\n\nThis serves as a powerful warning for us today:\n\nDon’t look back at the world with longing.\n\nDon’t let material things or past lifestyles distract us.\n\nStay obedient and focused on Jehovah’s direction, especially as the end of this system draws near.",
-                "accessType": "Premium"
-            },
-            {
-                "name": "Remember the Wife of Lot ​— Part 3",
-                "url": "http:\/\/206.189.156.0\/vidp3.mp4",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1veyFJufKIyYyr6VAlGgXLivEEUufDv7n",
-                "info": "This video is based on the Bible account of Lot and his family found in Genesis chapters 18 and 19. Jehovah rescued Lot, his wife, and their daughters from the destruction of the wicked cities of Sodom and Gomorrah. However, Lot’s wife looked back despite God’s clear command not to—and she was turned into a pillar of salt (Genesis 19:26).\n\nJesus later reminded his followers of this event, saying:\n“Remember the wife of Lot.” —Luke 17:32.\n\nThis serves as a powerful warning for us today:\n\nDon’t look back at the world with longing.\n\nDon’t let material things or past lifestyles distract us.\n\nStay obedient and focused on Jehovah’s direction, especially as the end of this system draws near.",
-                "accessType": "Premium"
-            }
-        ],
-        "Series": [
             {
                 "name": "BBC-Earth",
                 "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/BBC_earth\/HLSv3-FTA\/BBC_earth.m3u8",
@@ -644,6 +612,37 @@
                 "accessType": "Premium"
             }
         ],
+        "Movies": [
+            {
+                "name": "Hope for What We Do Not See",
+                "url": "http:\/\/206.189.156.0\/videojw.mp4",
+                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1vdeYUUS2UkvnehP_pBJwkUA4JYXj0P0B",
+                "info": "The ancient man Job faced tests of integrity that involved a series of tragic events. Look in on the life of the Bannister family as they experience similar tests of integrity in a modern-day setting. In the end, what helped them get their perspective?",
+                "accessType": "Premium"
+            },
+            {
+                "name": "Remember the Wife of Lot ​— Part 1",
+                "url": "http:\/\/206.189.156.0\/vidp1.mp4",
+                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1veyFJufKIyYyr6VAlGgXLivEEUufDv7n",
+                "info": "This video is based on the Bible account of Lot and his family found in Genesis chapters 18 and 19. Jehovah rescued Lot, his wife, and their daughters from the destruction of the wicked cities of Sodom and Gomorrah. However, Lot’s wife looked back despite God’s clear command not to—and she was turned into a pillar of salt (Genesis 19:26).\n\nJesus later reminded his followers of this event, saying:\n“Remember the wife of Lot.” —Luke 17:32.\n\nThis serves as a powerful warning for us today:\n\nDon’t look back at the world with longing.\n\nDon’t let material things or past lifestyles distract us.\n\nStay obedient and focused on Jehovah’s direction, especially as the end of this system draws near.",
+                "accessType": "Free"
+            },
+            {
+                "name": "Remember the Wife of Lot ​— Part 2",
+                "url": "http:\/\/206.189.156.0\/video2.mp4",
+                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1veyFJufKIyYyr6VAlGgXLivEEUufDv7n",
+                "info": "This video is based on the Bible account of Lot and his family found in Genesis chapters 18 and 19. Jehovah rescued Lot, his wife, and their daughters from the destruction of the wicked cities of Sodom and Gomorrah. However, Lot’s wife looked back despite God’s clear command not to—and she was turned into a pillar of salt (Genesis 19:26).\n\nJesus later reminded his followers of this event, saying:\n“Remember the wife of Lot.” —Luke 17:32.\n\nThis serves as a powerful warning for us today:\n\nDon’t look back at the world with longing.\n\nDon’t let material things or past lifestyles distract us.\n\nStay obedient and focused on Jehovah’s direction, especially as the end of this system draws near.",
+                "accessType": "Premium"
+            },
+            {
+                "name": "Remember the Wife of Lot ​— Part 3",
+                "url": "http:\/\/206.189.156.0\/vidp3.mp4",
+                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1veyFJufKIyYyr6VAlGgXLivEEUufDv7n",
+                "info": "This video is based on the Bible account of Lot and his family found in Genesis chapters 18 and 19. Jehovah rescued Lot, his wife, and their daughters from the destruction of the wicked cities of Sodom and Gomorrah. However, Lot’s wife looked back despite God’s clear command not to—and she was turned into a pillar of salt (Genesis 19:26).\n\nJesus later reminded his followers of this event, saying:\n“Remember the wife of Lot.” —Luke 17:32.\n\nThis serves as a powerful warning for us today:\n\nDon’t look back at the world with longing.\n\nDon’t let material things or past lifestyles distract us.\n\nStay obedient and focused on Jehovah’s direction, especially as the end of this system draws near.",
+                "accessType": "Premium"
+            }
+        ],
+        "Series": [],
         "Vivamax": [
             {
                 "name": "Deep Inside - Angeli Khang (2025)",
