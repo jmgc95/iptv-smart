@@ -1,5 +1,5 @@
 {
-    "version": "2.2",
+    "version": "2.3",
     "channels": {
         "Live TV": [
             {
@@ -481,7 +481,7 @@
             {
                 "name": "CinemaOne",
                 "url": "https:\/\/tfc.mark-projects.site\/cinemaone.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/file\/d\/1xNCeMwSC2KGxd_oe3J8EF2HaUEka6rzT\/view?usp=drivesdk",
+                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1xNCeMwSC2KGxd_oe3J8EF2HaUEka6rzT",
                 "info": "Cinema One is your go‑to channel for quality Filipino cinema—constantly evolving since the ’90s, topping cable ratings, celebrating indie voices through Cinema One Originals, and expanding online. Whether on cable, Cignal, TV5, or iWantTFC, it’s “laging kasama” for movie lovers!",
                 "accessType": "Premium"
             },
