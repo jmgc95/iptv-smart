@@ -1,5 +1,5 @@
 {
-    "version": "2.0",
+    "version": "2.1",
     "channels": {
         "Live TV": [
             {
@@ -502,71 +502,71 @@
             {
                 "name": "GMA Pinoy TV",
                 "url": "https:\/\/ott.udptv.net\/stream\/iptv\/gmapinoytv\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
-                "imageUrl": "",
-                "info": "",
+                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1xdM_uEBzP8cVsisB2oO-StJU-axFO6rT",
+                "info": "A 24\/7 international pay-TV channel launched in March 2005, targeting Filipino diaspora globally  .\n\nOffers popular GMA Network shows, movies, news, public affairs, and special events, typically on a one-episode delay  .\n\nAvailable via cable\/satellite worldwide and streaming as part of iWantTFC’s “GMA Pinoy Bundle” since May 2023.",
                 "accessType": "Premium"
             },
             {
-                "name": "GMA-7",
+                "name": "GMA7 (GMA Network)",
                 "url": "https:\/\/ott.udptv.net\/stream\/iptv\/gma\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
-                "imageUrl": "",
-                "info": "",
+                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1nJzZZ21EvjgQ2aDJ_AlqdDpi_hIBPlti",
+                "info": "GMA7 (GMA Network)\n\nThe flagship free-to-air television station in the Philippines, home to top-rated programs like 24 Oras, Kapuso Mo, Jessica Soho, teleseryes, variety, and entertainment complexes.",
                 "accessType": "Premium"
             },
             {
-                "name": "GMA News TV",
+                "name": "GMA News TV (now GTV International)",
                 "url": "https:\/\/ott.udptv.net\/stream\/iptv\/gmanewstv\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
-                "imageUrl": "",
-                "info": "",
+                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1xjuxrlhcs3ZFrmRu50LjdVNUENoA4ZCe",
+                "info": "GMA News TV (now GTV International)\n\nLaunched February 2011 as a news\/public affairs channel  .\n\nRebranded domestically to GTV in February 2021, shifting towards a mix of news, entertainment, and sports  .\n\nStill available internationally under the same name, offering news and public affairs to overseas audiences.",
                 "accessType": "Premium"
             },
             {
                 "name": "GMA Life TV",
                 "url": "https:\/\/ott.udptv.net\/stream\/iptv\/gmalifetv\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7 ",
-                "imageUrl": "",
-                "info": "",
+                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1xp3khltIz1vxAvWjw5RUIi9EcoeDaTPQ",
+                "info": "Launched in February 2008 as a lifestyle and infotainment channel  .\n\nAirs travel, cooking, health, beauty, talk shows, documentaries, and re-runs of GMA\/ GTV lifestyle content.",
                 "accessType": "Premium"
             },
             {
-                "name": "ONE Sport",
+                "name": "OneSports (formerly 5 Plus\/ESPN5\/Sports5)",
                 "url": "http:\/\/ott.udptv.net\/stream\/iptv\/onesports\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7 ",
-                "imageUrl": "",
-                "info": "",
+                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1xgscImP37WiVMp5xt9j6riaHsUjrb9IR",
+                "info": "A Philippine free-to-air sports channel owned by Nation Broadcasting Corp. and operated jointly with TV5\/Search & MediaQuest.\n\nShows include PBA, NBA, UAAP (Finals), PVL, NCAA, FIBA, ONE Championship, UFC, boxing, WWE, e-sports, and more.\n\nBroadcasts are on free TV (UHF 41 in Manila) and Cignal Play; its pay-TV version is called One Sports+, offering 24\/7 sports content via Cignal.",
                 "accessType": "Premium"
             },
             {
                 "name": "TV5 'HD'",
                 "url": "http:\/\/ott.udptv.net\/stream\/iptv\/tv5hd\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7 ",
-                "imageUrl": "",
-                "info": "",
+                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1xudpu4GR3TtZf7PYxr_QzhJapnKxQ2ig",
+                "info": "The main free-to-air general entertainment network of TV5 Network, part of the MediaQuest group (alongside One Sports).\n\nOffers news, entertainment, sports, drama, and reality content; often carries One Sports events.",
                 "accessType": "Premium"
             },
             {
                 "name": "ANIPLUS",
                 "url": "https:\/\/ott.udptv.net\/stream\/iptv\/aniplus\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7 ",
-                "imageUrl": "",
-                "info": "",
+                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1y5zkf2fN_KN08eausE0-CFdt41msGfV2",
+                "info": "A regional anime channel (Korean-based) airing licensed anime; limited online info Philippines-specific.\n\nOften bundled in satellite\/cable anime packs but requires direct search for local availability.",
                 "accessType": "Premium"
             },
             {
                 "name": "Jeepney TV",
                 "url": "http:\/\/ott.udptv.net\/stream\/iptv\/jeepneytv\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
-                "imageUrl": "",
-                "info": "",
+                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1y45NhaaTW37gnqbokQKX1aCvnvA1geWR",
+                "info": "Focused on classic ABS‑CBN series, nostalgia programming—old teleseryes, variety, kids’ shows.\n\nNot covered in latest results but widely available on cable, iWantTFC, and free-to-air via A2Z.",
                 "accessType": "Premium"
             },
             {
                 "name": "SCREAMFLIX",
                 "url": "http:\/\/ott.udptv.net\/stream\/iptv\/screamflix\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
-                "imageUrl": "",
-                "info": "",
+                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1y1VP_HwqZKVzONumr6qK3_jGHdvCwY1p",
+                "info": "A horror movie channel launched in mid‑2022, replacing ETC on selected Philippine cable providers  .\n\nFeatures Asian, European, and Hollywood horror films—slashers, paranormal, psychological thrillers.",
                 "accessType": "Premium"
             },
             {
                 "name": "ANIMAX",
                 "url": "http:\/\/ott.udptv.net\/stream\/iptv\/animax\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
-                "imageUrl": "",
-                "info": "",
+                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1xpaGLyOqlf5kPDk1gBHPxx4Oah2Lparz",
+                "info": "Animax\n\nA dedicated anime channel operating in Asia for nearly 20 years  .\n\nProvides blockcasts, simulcasts of titles from Japan like One Punch Man, Cells at Work!, Seven Deadly Sins, etc.  .\n\nAvailable on Cignal (e.g., Ch. 46), MySKY plans, and TrueID for streaming  .",
                 "accessType": "Premium"
             }
         ],
