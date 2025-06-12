@@ -1,5 +1,5 @@
 {
-    "version": "1.7",
+    "version": "1.8",
     "channels": {
         "Live TV": [
             {
@@ -477,6 +477,13 @@
                 "imageUrl": "http:\/\/167.99.67.14\/rmncebu\/images\/logo.jpg",
                 "info": "DYHP 612 AM (RMN Cebu) is a cornerstone of Cebu’s radio landscape, combining news, dramas, and public service in the Cebuano language, with significant historical roots and broad coverage.",
                 "accessType": "Free"
+            },
+            {
+                "name": "CinemaOne",
+                "url": "https:\/\/tfc.mark-projects.site\/cinemaone.m3u8",
+                "imageUrl": "https:\/\/drive.google.com\/file\/d\/1xNCeMwSC2KGxd_oe3J8EF2HaUEka6rzT\/view?usp=drivesdk",
+                "info": "Cinema One is your go‑to channel for quality Filipino cinema—constantly evolving since the ’90s, topping cable ratings, celebrating indie voices through Cinema One Originals, and expanding online. Whether on cable, Cignal, TV5, or iWantTFC, it’s “laging kasama” for movie lovers!",
+                "accessType": "Premium"
             }
         ],
         "Movies": [
