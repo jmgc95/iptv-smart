@@ -1,5 +1,5 @@
 {
-    "version": "1.9",
+    "version": "2.0",
     "channels": {
         "Live TV": [
             {
@@ -497,6 +497,76 @@
                 "url": "https:\/\/service-stitcher.clusters.pluto.tv\/v1\/stitch\/embed\/hls\/channel\/65652f7fc0fc88000883537alivestitch\/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
                 "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1xYnbMewBp9arXBGKaIoSxB6mwExx15rm",
                 "info": "Crunchyroll is the go-to anime streaming service for fans—offering a huge, constantly updated library, simulcasts, offline viewing, and community features. In the Philippines, plans are affordable and accessible via various payment methods.",
+                "accessType": "Premium"
+            },
+            {
+                "name": "GMA Pinoy TV",
+                "url": "https:\/\/ott.udptv.net\/stream\/iptv\/gmapinoytv\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "imageUrl": "",
+                "info": "",
+                "accessType": "Premium"
+            },
+            {
+                "name": "GMA-7",
+                "url": "https:\/\/ott.udptv.net\/stream\/iptv\/gma\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "imageUrl": "",
+                "info": "",
+                "accessType": "Premium"
+            },
+            {
+                "name": "GMA News TV",
+                "url": "https:\/\/ott.udptv.net\/stream\/iptv\/gmanewstv\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "imageUrl": "",
+                "info": "",
+                "accessType": "Premium"
+            },
+            {
+                "name": "GMA Life TV",
+                "url": "https:\/\/ott.udptv.net\/stream\/iptv\/gmalifetv\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7 ",
+                "imageUrl": "",
+                "info": "",
+                "accessType": "Premium"
+            },
+            {
+                "name": "ONE Sport",
+                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/onesports\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7 ",
+                "imageUrl": "",
+                "info": "",
+                "accessType": "Premium"
+            },
+            {
+                "name": "TV5 'HD'",
+                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/tv5hd\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7 ",
+                "imageUrl": "",
+                "info": "",
+                "accessType": "Premium"
+            },
+            {
+                "name": "ANIPLUS",
+                "url": "https:\/\/ott.udptv.net\/stream\/iptv\/aniplus\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7 ",
+                "imageUrl": "",
+                "info": "",
+                "accessType": "Premium"
+            },
+            {
+                "name": "Jeepney TV",
+                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/jeepneytv\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "imageUrl": "",
+                "info": "",
+                "accessType": "Premium"
+            },
+            {
+                "name": "SCREAMFLIX",
+                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/screamflix\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "imageUrl": "",
+                "info": "",
+                "accessType": "Premium"
+            },
+            {
+                "name": "ANIMAX",
+                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/animax\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "imageUrl": "",
+                "info": "",
                 "accessType": "Premium"
             }
         ],
