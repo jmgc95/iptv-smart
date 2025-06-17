@@ -1,5 +1,5 @@
 {
-    "version": "2.6",
+    "version": "2.7",
     "channels": {
         "Live TV": [
             {
@@ -609,6 +609,13 @@
                 "url": "https:\/\/strhls.streamakaci.tv\/ortb\/ortb2-multi\/playlist.m3u8",
                 "imageUrl": "https:\/\/i.imgur.com\/pxFamLr.png",
                 "info": "IPTV Player",
+                "accessType": "Premium"
+            },
+            {
+                "name": "PBO",
+                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/pbo\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1-Beaydh12VP-OS8f82J0PfHXee8r2SGg",
+                "info": "📺 What is PBO?\n\nPBO (Pinoy Box Office) is a 24\/7 Filipino cable movie channel.\n\nIt specializes in showing Tagalog movies, particularly those produced by Viva Films and other local film companies.\n\nIt is owned and operated by Viva Communications, one of the biggest entertainment companies in the Philippines.",
                 "accessType": "Premium"
             }
         ],
