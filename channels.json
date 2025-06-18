@@ -1,5 +1,5 @@
 {
-    "version": "2.8",
+    "version": "2.9",
     "channels": {
         "Live TV": [
             {
@@ -144,10 +144,10 @@
             },
             {
                 "name": "Arirang",
-                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/Arirang\/HLSv3-FTA\/Arirang.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1nwfpGnCWs9sSz4Wrx6yIrAR_5inZeoUw",
+                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/arirang\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "imageUrl": "https:\/\/i.imgur.com\/2NYcYrg.png",
                 "info": "Korean culture and news",
-                "accessType": "Free"
+                "accessType": "Premium"
             },
             {
                 "name": "BBC News",
@@ -694,6 +694,41 @@
                 "imageUrl": "https:\/\/static.wikia.nocookie.net\/russel\/images\/4\/4c\/ANC_Logo_2015.png",
                 "info": "",
                 "accessType": "Premium"
+            },
+            {
+                "name": "Animal Planet",
+                "url": "https:\/\/ott.udptv.org\/stream\/astro\/animalplanet\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "imageUrl": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/international\/animal-planet-int.png",
+                "info": "",
+                "accessType": "Premium"
+            },
+            {
+                "name": "Asian Food Network",
+                "url": "https:\/\/ott.udptv.net\/stream\/iptv\/asianfoodnetwork\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "imageUrl": "https:\/\/github.com\/tv-logo\/tv-logos\/blob\/main\/countries\/hong-kong\/asian-food-network-hk.png?raw=true",
+                "info": "",
+                "accessType": "Premium"
+            },
+            {
+                "name": "Astro Premier Sports",
+                "url": "https:\/\/ott.udptv.org\/stream\/astro\/premiersports\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "imageUrl": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/premier-sports-1-uk.png",
+                "info": "",
+                "accessType": "Premium"
+            },
+            {
+                "name": "DZMM Teleradyo",
+                "url": "https:\/\/ott.udptv.net\/stream\/iptv\/dzmmteleradyo\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "imageUrl": "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/c\/cc\/DZMM_TeleRadyo.png\/300px-DZMM_TeleRadyo.png",
+                "info": "",
+                "accessType": "Premium"
+            },
+            {
+                "name": "DZMM Teleradyo SD",
+                "url": "https:\/\/ott.udptv.net\/stream\/iptv\/dzmmteleradyosd\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "imageUrl": "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/c\/cc\/DZMM_TeleRadyo.png\/300px-DZMM_TeleRadyo.png",
+                "info": "",
+                "accessType": "Premium"
             }
         ],
         "Movies": [
@@ -729,6 +764,13 @@
                 "name": "AMC Thrillers",
                 "url": "https:\/\/ott.udptv.org\/stream\/udptvus\/amcthrillers\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
                 "imageUrl": "https:\/\/github.com\/tv-logo\/tv-logos\/blob\/main\/misc\/vod\/amc-thrillers-vod.png?raw=true",
+                "info": "",
+                "accessType": "Premium"
+            },
+            {
+                "name": "Astro Cinemax",
+                "url": "https:\/\/ott.udptv.org\/stream\/astro\/astrocinemax\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "imageUrl": "https:\/\/i.imgur.com\/YomkvVa.png",
                 "info": "",
                 "accessType": "Premium"
             }
