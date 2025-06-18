@@ -1,5 +1,5 @@
 {
-    "version": "2.7",
+    "version": "2.8",
     "channels": {
         "Live TV": [
             {
@@ -472,13 +472,6 @@
                 "accessType": "Premium"
             },
             {
-                "name": "DYHP 612 Cebu",
-                "url": "http:\/\/167.99.67.14\/rmncebu\/output.m3u8",
-                "imageUrl": "http:\/\/167.99.67.14\/rmncebu\/images\/logo.jpg",
-                "info": "DYHP 612 AM (RMN Cebu) is a cornerstone of Cebu’s radio landscape, combining news, dramas, and public service in the Cebuano language, with significant historical roots and broad coverage.",
-                "accessType": "Free"
-            },
-            {
                 "name": "CinemaOne",
                 "url": "https:\/\/tfc.mark-projects.site\/cinemaone.m3u8",
                 "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1xNCeMwSC2KGxd_oe3J8EF2HaUEka6rzT",
@@ -617,6 +610,90 @@
                 "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1-Beaydh12VP-OS8f82J0PfHXee8r2SGg",
                 "info": "📺 What is PBO?\n\nPBO (Pinoy Box Office) is a 24\/7 Filipino cable movie channel.\n\nIt specializes in showing Tagalog movies, particularly those produced by Viva Films and other local film companies.\n\nIt is owned and operated by Viva Communications, one of the biggest entertainment companies in the Philippines.",
                 "accessType": "Premium"
+            },
+            {
+                "name": "ABC (KABC)",
+                "url": "https:\/\/ott.udptv.org\/stream\/udptvus\/kabc\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "imageUrl": "https:\/\/github.com\/tv-logo\/tv-logos\/blob\/main\/countries\/united-states\/us-local\/abc-7-kabc-us.png?raw=true",
+                "info": "",
+                "accessType": "Premium"
+            },
+            {
+                "name": "ABC(KGO)",
+                "url": "https:\/\/ott.udptv.org\/stream\/udptvus\/abckgo\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "imageUrl": "https:\/\/github.com\/tv-logo\/tv-logos\/blob\/main\/countries\/united-states\/us-local\/abc-7-kabc-us.png?raw=true",
+                "info": "",
+                "accessType": "Premium"
+            },
+            {
+                "name": "ABC (WABC)",
+                "url": "https:\/\/ott.udptv.org\/stream\/udptvus\/wabc\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "imageUrl": "https:\/\/github.com\/tv-logo\/tv-logos\/blob\/main\/countries\/united-states\/us-local\/abc-7-kabc-us.png?raw=true",
+                "info": "",
+                "accessType": "Premium"
+            },
+            {
+                "name": "ABC Australia",
+                "url": "https:\/\/ott.udptv.org\/stream\/astro\/abcaustralia\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "imageUrl": "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/57\/ABC_Australia_logo.svg\/350px-ABC_Australia_logo.svg.png",
+                "info": "",
+                "accessType": "Premium"
+            },
+            {
+                "name": "ABC News Live",
+                "url": "https:\/\/ott.udptv.org\/stream\/udptvus\/abcnewslive\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "imageUrl": "https:\/\/github.com\/tv-logo\/tv-logos\/blob\/main\/countries\/united-states\/abc-news-live-hz-us.png?raw=true",
+                "info": "",
+                "accessType": "Premium"
+            },
+            {
+                "name": "Adult Swim CA",
+                "url": "https:\/\/ott.udptv.com\/stream\/udptv\/adultswim\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "imageUrl": "https:\/\/github.com\/tv-logo\/tv-logos\/blob\/main\/countries\/canada\/adult-swim-ca.png?raw=true",
+                "info": "",
+                "accessType": "Premium"
+            },
+            {
+                "name": "Al Jazeera",
+                "url": "https:\/\/ott.udptv.org\/stream\/astro\/aljazeera\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "imageUrl": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/aljazeera-uk.png",
+                "info": "",
+                "accessType": "Premium"
+            },
+            {
+                "name": "ALL TV",
+                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/alltv\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "imageUrl": "https:\/\/brandlogo.org\/wp-content\/uploads\/2024\/05\/All-TV-Logo-300x300.png.webp",
+                "info": "",
+                "accessType": "Premium"
+            },
+            {
+                "name": "AMC",
+                "url": "https:\/\/ott.udptv.org\/stream\/udptvus\/amc\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "imageUrl": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/spain\/amc-es.png",
+                "info": "",
+                "accessType": "Premium"
+            },
+            {
+                "name": "AMC IT",
+                "url": "https:\/\/ott.udptv.com\/stream\/udptv\/amc\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "imageUrl": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/spain\/amc-es.png",
+                "info": "",
+                "accessType": "Premium"
+            },
+            {
+                "name": "ANC Global",
+                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/ancglobal\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "imageUrl": "https:\/\/static.wikia.nocookie.net\/russel\/images\/4\/4c\/ANC_Logo_2015.png",
+                "info": "",
+                "accessType": "Premium"
+            },
+            {
+                "name": "ANC PH",
+                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/ancph\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "imageUrl": "https:\/\/static.wikia.nocookie.net\/russel\/images\/4\/4c\/ANC_Logo_2015.png",
+                "info": "",
+                "accessType": "Premium"
             }
         ],
         "Movies": [
@@ -647,6 +724,13 @@
                 "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1veyFJufKIyYyr6VAlGgXLivEEUufDv7n",
                 "info": "This video is based on the Bible account of Lot and his family found in Genesis chapters 18 and 19. Jehovah rescued Lot, his wife, and their daughters from the destruction of the wicked cities of Sodom and Gomorrah. However, Lot’s wife looked back despite God’s clear command not to—and she was turned into a pillar of salt (Genesis 19:26).\n\nJesus later reminded his followers of this event, saying:\n“Remember the wife of Lot.” —Luke 17:32.\n\nThis serves as a powerful warning for us today:\n\nDon’t look back at the world with longing.\n\nDon’t let material things or past lifestyles distract us.\n\nStay obedient and focused on Jehovah’s direction, especially as the end of this system draws near.",
                 "accessType": "Free"
+            },
+            {
+                "name": "AMC Thrillers",
+                "url": "https:\/\/ott.udptv.org\/stream\/udptvus\/amcthrillers\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "imageUrl": "https:\/\/github.com\/tv-logo\/tv-logos\/blob\/main\/misc\/vod\/amc-thrillers-vod.png?raw=true",
+                "info": "",
+                "accessType": "Premium"
             }
         ],
         "Series": [],
