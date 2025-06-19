@@ -1,5 +1,5 @@
 {
-    "version": "2.9",
+    "version": "3.0",
     "channels": {
         "Live TV": [
             {
@@ -353,90 +353,6 @@
                 "accessType": "Premium"
             },
             {
-                "name": "Pluto TV Spotlight",
-                "url": "https:\/\/cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv\/stitch\/hls\/channel\/5ba3fb9c4b078e0f37ad34e8\/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d538048-eca6-11ee-90c1-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=51b341af-cba2-4b14-b4a5-81fa089644a3&userId=&serverSideAds=true",
-                "imageUrl": "https:\/\/images.pluto.tv\/channels\/5ba3fb9c4b078e0f37ad34e8\/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000",
-                "info": "Roll out the red carpet and turn down the lights, because the biggest movies are here on Pluto TV Spotlight.",
-                "accessType": "Premium"
-            },
-            {
-                "name": "Pluto TV Icons",
-                "url": "https:\/\/cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv\/stitch\/hls\/channel\/64b585f84ea480000838e446\/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d53811a-eca6-11ee-9ab5-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dee0b8c4-bd16-4ca9-8ee6-4aaf7468736e&userId=&serverSideAds=true",
-                "imageUrl": "https:\/\/images.pluto.tv\/channels\/64b585f84ea480000838e446\/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000",
-                "info": "If there’s one thing Pluto TV understands, it’s being among the stars. Watch the brightest talents throughout Hollywood history in the roles that made them legendary on Pluto TV Icons.",
-                "accessType": "Premium"
-            },
-            {
-                "name": "Pluto TV Action",
-                "url": "https:\/\/cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv\/stitch\/hls\/channel\/561d7d484dc7c8770484914a\/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d5381ba-eca6-11ee-88af-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=32f9d3d2-7b34-4d4f-985e-2f6f948982ee&userId=&serverSideAds=true",
-                "imageUrl": "https:\/\/images.pluto.tv\/channels\/561d7d484dc7c8770484914a\/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000",
-                "info": "It’s time to go into overdrive by jumping off buildings, flying a burning plane, driving in a car chase and saving the world. Pluto TV Action brings you blockbusters, stars, and a strong dose of high-octane excitement.",
-                "accessType": "Premium"
-            },
-            {
-                "name": "Pluto TV Reaction",
-                "url": "https:\/\/cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv\/stitch\/hls\/channel\/617b37b361e0fd0008cfd8c5\/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d538386-eca6-11ee-b8d2-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e8bfa24c-7608-4afa-a260-12b498279878&userId=&serverSideAds=true",
-                "imageUrl": "https:\/\/images.pluto.tv\/channels\/617b37b361e0fd0008cfd8c5\/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000",
-                "info": "Pluto TV Reaction brings you more of the adrenaline-fueled films you crave, anytime, day or night.",
-                "accessType": "Premium"
-            },
-            {
-                "name": "Pluto TV Comedy",
-                "url": "https:\/\/cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv\/stitch\/hls\/channel\/5a4d3a00ad95e4718ae8d8db\/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d538426-eca6-11ee-9bf7-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b3a0eca6-c707-433c-85fa-7a3b2d1a87e2&userId=&serverSideAds=true",
-                "imageUrl": "https:\/\/images.pluto.tv\/channels\/5a4d3a00ad95e4718ae8d8db\/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000",
-                "info": "For the most hilarious, most quotable, most excellent movies that will keep you in stitches 24\/7, watch Pluto TV Comedy. With a library of lunacy and a litany of ludicrousness, this is the place when you are looking to LOL.",
-                "accessType": "Premium"
-            },
-            {
-                "name": "Pluto TV Drama",
-                "url": "https:\/\/cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv\/stitch\/hls\/channel\/5b4e92e4694c027be6ecece1\/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d538548-eca6-11ee-ae65-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bd11756c-6dd2-4ca1-bd30-987c52f0cc69&userId=&serverSideAds=true",
-                "imageUrl": "https:\/\/images.pluto.tv\/channels\/5b4e92e4694c027be6ecece1\/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000",
-                "info": "On Pluto TV Drama, serious film is taken... seriously. Some of best cinematic dramas of all time can be experienced here, in all their angsty, gritty, sometimes heartbreaking, sometimes heartwarming glory.",
-                "accessType": "Premium"
-            },
-            {
-                "name": "Pluto TV Fantastic",
-                "url": "https:\/\/cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv\/stitch\/hls\/channel\/5b64a245a202b3337f09e51d\/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d5385d4-eca6-11ee-8078-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a8d191eb-9616-40b7-9d49-abbceb00f273&userId=&serverSideAds=true",
-                "imageUrl": "https:\/\/images.pluto.tv\/channels\/5b64a245a202b3337f09e51d\/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000",
-                "info": "Escape into worlds beyond our own with Pluto TV Fantastic. Every day we bring you movies with grand adventures, magical creatures, and intergalactic action. Get transported now.",
-                "accessType": "Premium"
-            },
-            {
-                "name": "Pluto TV Romance",
-                "url": "https:\/\/cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv\/stitch\/hls\/channel\/5a66795ef91fef2c7031c599\/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d538a70-eca6-11ee-98d2-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3212896f-cf34-4be5-917e-ae1aee1c0a07&userId=&serverSideAds=true",
-                "imageUrl": "https:\/\/images.pluto.tv\/channels\/5a66795ef91fef2c7031c599\/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000",
-                "info": "If you believe in love at first sight, if you're looking to be swept off your feet, and if you've always wanted to stop that special someone at the airport to say how you really feel, then we request the pleasure of your company on Pluto TV Romance.",
-                "accessType": "Premium"
-            },
-            {
-                "name": "Pluto TV Crime Movies",
-                "url": "https:\/\/cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv\/stitch\/hls\/channel\/5f4d8594eb979c0007706de7\/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d538b2e-eca6-11ee-8295-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6989125c-7089-43e1-9304-ef10eb566a21&userId=&serverSideAds=true",
-                "imageUrl": "https:\/\/images.pluto.tv\/channels\/5f4d8594eb979c0007706de7\/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000",
-                "info": "Cops and robbers, conmen and convicts, gangsters and grifters — the toughest guys on both sides of the law are on Pluto TV Crime Movies.",
-                "accessType": "Premium"
-            },
-            {
-                "name": "Pluto TV Thrillers",
-                "url": "https:\/\/cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv\/stitch\/hls\/channel\/5b4e69e08291147bd04a9fd7\/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d538bc4-eca6-11ee-b015-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d3110b35-4954-48c8-b05e-c2abbdbd502d&userId=&serverSideAds=true",
-                "imageUrl": "https:\/\/images.pluto.tv\/channels\/5b4e69e08291147bd04a9fd7\/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000",
-                "info": "Your pulse is pounding, your fists are clenched, and there's danger around every corner. You must be watching Pluto TV Thrillers, where devious masterminds scheme, killers stalk the night, spies evade capture, and you sit on the edge of your seat.",
-                "accessType": "Premium"
-            },
-            {
-                "name": "Pluto TV Horror",
-                "url": "https:\/\/cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv\/stitch\/hls\/channel\/569546031a619b8f07ce6e25\/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d538c50-eca6-11ee-80a3-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=24679ab7-1b40-4f8d-bff0-375370f264c0&userId=&serverSideAds=true",
-                "imageUrl": "https:\/\/images.pluto.tv\/channels\/569546031a619b8f07ce6e25\/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000",
-                "info": "Horror fans rejoice, your channel is alive. It’s a never ending fright-fest on Pluto TV Horror. Don’t turn on the lights, don’t answer the door, and don’t change that channel.",
-                "accessType": "Premium"
-            },
-            {
-                "name": "Pluto TV Terror",
-                "url": "https:\/\/cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv\/stitch\/hls\/channel\/5c6dc88fcd232425a6e0f06e\/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d538d4a-eca6-11ee-9b07-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1d46700b-592d-4f6f-93de-a6b6130e0763&userId=&serverSideAds=true",
-                "imageUrl": "https:\/\/images.pluto.tv\/channels\/5c6dc88fcd232425a6e0f06e\/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000",
-                "info": "The scariest, goriest, most extreme horror movies ever unleashed are here to petrify you all day and all night on Pluto TV Terror. Lock the doors, turn on the lights, and tell yourself “It’s only a movie!",
-                "accessType": "Premium"
-            },
-            {
                 "name": "Great Commission TV",
                 "url": "http:\/\/45.32.115.103\/live\/livestream\/index.m3u8",
                 "imageUrl": "",
@@ -476,13 +392,6 @@
                 "url": "https:\/\/tfc.mark-projects.site\/cinemaone.m3u8",
                 "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1xNCeMwSC2KGxd_oe3J8EF2HaUEka6rzT",
                 "info": "Cinema One is your go‑to channel for quality Filipino cinema—constantly evolving since the ’90s, topping cable ratings, celebrating indie voices through Cinema One Originals, and expanding online. Whether on cable, Cignal, TV5, or iWantTFC, it’s “laging kasama” for movie lovers!",
-                "accessType": "Premium"
-            },
-            {
-                "name": "HBO+",
-                "url": "http:\/\/190.11.225.124:5000\/live\/hbo_plus_hd\/playlist.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1xV8sMSWEevWjjKi5qZNGAWRB_Klw2AqH",
-                "info": "HBO Plus is a premium television channel that is part of the HBO Latin America group. It is not a streaming service like HBO Max or Max.",
                 "accessType": "Premium"
             },
             {
@@ -729,6 +638,97 @@
                 "imageUrl": "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/c\/cc\/DZMM_TeleRadyo.png\/300px-DZMM_TeleRadyo.png",
                 "info": "",
                 "accessType": "Premium"
+            },
+            {
+                "name": "Bein Sports Xtra",
+                "url": "https:\/\/amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv\/playlist.m3u8",
+                "imageUrl": "https:\/\/teamhandballnews.com\/wp-content\/uploads\/2020\/01\/beIN-SPORTS-XTRA_LOGO-1024x127.png",
+                "info": "",
+                "accessType": "Premium"
+            },
+            {
+                "name": "Billonaryo News Channel",
+                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/billonaryonewschannel\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "imageUrl": "https:\/\/static.wikia.nocookie.net\/russel\/images\/a\/a8\/Bilyonaryo_News_Channel_Logo_2024.png",
+                "info": "",
+                "accessType": "Premium"
+            },
+            {
+                "name": "Blast Sports",
+                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/blastsports\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "imageUrl": "https:\/\/i.imgur.com\/XxHlcBN.png",
+                "info": "",
+                "accessType": "Premium"
+            },
+            {
+                "name": "Buko",
+                "url": "https:\/\/ott.udptv.net\/stream\/iptv\/buko\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "imageUrl": "https:\/\/upload.wikimedia.org\/wikipedia\/en\/c\/c0\/BuKo_Buhay_Komedya_Logo.jpg",
+                "info": "",
+                "accessType": "Premium"
+            },
+            {
+                "name": "Cartoon Network MY",
+                "url": "https:\/\/ott.udptv.org\/stream\/astro\/astrocartoonnetwork\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "imageUrl": "https:\/\/i.imgur.com\/8mfFj4h.png",
+                "info": "",
+                "accessType": "Premium"
+            },
+            {
+                "name": "CBS",
+                "url": "https:\/\/ott.udptv.com\/stream\/fubo\/cbs\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "imageUrl": "https:\/\/github.com\/tv-logo\/tv-logos\/blob\/main\/countries\/united-states\/cbs-logo-white-us.png?raw=true",
+                "info": "",
+                "accessType": "Premium"
+            },
+            {
+                "name": "CBS Sports Golazo",
+                "url": "https:\/\/ott.udptv.com\/stream\/udptv\/cbssportsgolazo\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "imageUrl": "https:\/\/github.com\/tv-logo\/tv-logos\/blob\/main\/countries\/united-states\/cbs-sports-golazo-network-us.png?raw=true",
+                "info": "",
+                "accessType": "Premium"
+            },
+            {
+                "name": "Cignal Dreamworks",
+                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/cignaldreamworks\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "imageUrl": "https:\/\/i.imgur.com\/cgfKSDP.png",
+                "info": "",
+                "accessType": "Premium"
+            },
+            {
+                "name": "Cinema One PH",
+                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/cinemaoneph\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "imageUrl": "https:\/\/i.imgur.com\/hJ6MBiA.png",
+                "info": "",
+                "accessType": "Premium"
+            },
+            {
+                "name": "DZRH TV",
+                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/dzrhtv\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "imageUrl": "https:\/\/i.imgur.com\/2nvjsfy.png",
+                "info": "",
+                "accessType": "Premium"
+            },
+            {
+                "name": "GTV",
+                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/gtv\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "imageUrl": "https:\/\/i.imgur.com\/geuq18u.png",
+                "info": "",
+                "accessType": "Premium"
+            },
+            {
+                "name": "HBO Boxing",
+                "url": "https:\/\/ott.udptv.net\/stream\/iptv\/hboboxing\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "imageUrl": "https:\/\/m.media-amazon.com\/images\/G\/01\/LCXO_Station_Logos\/Freevee_HBOBoxing_1920x1080_new._SL170_FMpng_.png",
+                "info": "",
+                "accessType": "Premium"
+            },
+            {
+                "name": "Heart of Asia",
+                "url": "https:\/\/ott.udptv.net\/stream\/iptv\/heartofasia\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "imageUrl": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/c\/cd\/Heart_of_Asia_logo.svg\/400px-Heart_of_Asia_logo.svg.png",
+                "info": "",
+                "accessType": "Premium"
             }
         ],
         "Movies": [
@@ -771,6 +771,174 @@
                 "name": "Astro Cinemax",
                 "url": "https:\/\/ott.udptv.org\/stream\/astro\/astrocinemax\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
                 "imageUrl": "https:\/\/i.imgur.com\/YomkvVa.png",
+                "info": "",
+                "accessType": "Premium"
+            },
+            {
+                "name": "HBO+",
+                "url": "http:\/\/190.11.225.124:5000\/live\/hbo_plus_hd\/playlist.m3u8",
+                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1xV8sMSWEevWjjKi5qZNGAWRB_Klw2AqH",
+                "info": "HBO Plus is a premium television channel that is part of the HBO Latin America group. It is not a streaming service like HBO Max or Max.",
+                "accessType": "Premium"
+            },
+            {
+                "name": "Pluto TV Terror",
+                "url": "https:\/\/cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv\/stitch\/hls\/channel\/5c6dc88fcd232425a6e0f06e\/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d538d4a-eca6-11ee-9b07-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1d46700b-592d-4f6f-93de-a6b6130e0763&userId=&serverSideAds=true",
+                "imageUrl": "https:\/\/images.pluto.tv\/channels\/5c6dc88fcd232425a6e0f06e\/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000",
+                "info": "The scariest, goriest, most extreme horror movies ever unleashed are here to petrify you all day and all night on Pluto TV Terror. Lock the doors, turn on the lights, and tell yourself “It’s only a movie!",
+                "accessType": "Premium"
+            },
+            {
+                "name": "Pluto TV Horror",
+                "url": "https:\/\/cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv\/stitch\/hls\/channel\/569546031a619b8f07ce6e25\/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d538c50-eca6-11ee-80a3-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=24679ab7-1b40-4f8d-bff0-375370f264c0&userId=&serverSideAds=true",
+                "imageUrl": "https:\/\/images.pluto.tv\/channels\/569546031a619b8f07ce6e25\/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000",
+                "info": "Horror fans rejoice, your channel is alive. It’s a never ending fright-fest on Pluto TV Horror. Don’t turn on the lights, don’t answer the door, and don’t change that channel.",
+                "accessType": "Premium"
+            },
+            {
+                "name": "Pluto TV Thrillers",
+                "url": "https:\/\/cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv\/stitch\/hls\/channel\/5b4e69e08291147bd04a9fd7\/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d538bc4-eca6-11ee-b015-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d3110b35-4954-48c8-b05e-c2abbdbd502d&userId=&serverSideAds=true",
+                "imageUrl": "https:\/\/images.pluto.tv\/channels\/5b4e69e08291147bd04a9fd7\/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000",
+                "info": "Your pulse is pounding, your fists are clenched, and there's danger around every corner. You must be watching Pluto TV Thrillers, where devious masterminds scheme, killers stalk the night, spies evade capture, and you sit on the edge of your seat.",
+                "accessType": "Premium"
+            },
+            {
+                "name": "Pluto TV Crime Movies",
+                "url": "https:\/\/cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv\/stitch\/hls\/channel\/5f4d8594eb979c0007706de7\/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d538b2e-eca6-11ee-8295-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6989125c-7089-43e1-9304-ef10eb566a21&userId=&serverSideAds=true",
+                "imageUrl": "https:\/\/images.pluto.tv\/channels\/5f4d8594eb979c0007706de7\/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000",
+                "info": "Cops and robbers, conmen and convicts, gangsters and grifters — the toughest guys on both sides of the law are on Pluto TV Crime Movies.",
+                "accessType": "Premium"
+            },
+            {
+                "name": "Pluto TV Romance",
+                "url": "https:\/\/cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv\/stitch\/hls\/channel\/5a66795ef91fef2c7031c599\/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d538a70-eca6-11ee-98d2-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3212896f-cf34-4be5-917e-ae1aee1c0a07&userId=&serverSideAds=true",
+                "imageUrl": "https:\/\/images.pluto.tv\/channels\/5a66795ef91fef2c7031c599\/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000",
+                "info": "If you believe in love at first sight, if you're looking to be swept off your feet, and if you've always wanted to stop that special someone at the airport to say how you really feel, then we request the pleasure of your company on Pluto TV Romance.",
+                "accessType": "Premium"
+            },
+            {
+                "name": "Pluto TV Fantastic",
+                "url": "https:\/\/cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv\/stitch\/hls\/channel\/5b64a245a202b3337f09e51d\/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d5385d4-eca6-11ee-8078-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a8d191eb-9616-40b7-9d49-abbceb00f273&userId=&serverSideAds=true",
+                "imageUrl": "https:\/\/images.pluto.tv\/channels\/5b64a245a202b3337f09e51d\/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000",
+                "info": "Escape into worlds beyond our own with Pluto TV Fantastic. Every day we bring you movies with grand adventures, magical creatures, and intergalactic action. Get transported now.",
+                "accessType": "Premium"
+            },
+            {
+                "name": "Pluto TV Drama",
+                "url": "https:\/\/cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv\/stitch\/hls\/channel\/5b4e92e4694c027be6ecece1\/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d538548-eca6-11ee-ae65-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bd11756c-6dd2-4ca1-bd30-987c52f0cc69&userId=&serverSideAds=true",
+                "imageUrl": "https:\/\/images.pluto.tv\/channels\/5b4e92e4694c027be6ecece1\/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000",
+                "info": "On Pluto TV Drama, serious film is taken... seriously. Some of best cinematic dramas of all time can be experienced here, in all their angsty, gritty, sometimes heartbreaking, sometimes heartwarming glory.",
+                "accessType": "Premium"
+            },
+            {
+                "name": "Pluto TV Comedy",
+                "url": "https:\/\/cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv\/stitch\/hls\/channel\/5a4d3a00ad95e4718ae8d8db\/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d538426-eca6-11ee-9bf7-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b3a0eca6-c707-433c-85fa-7a3b2d1a87e2&userId=&serverSideAds=true",
+                "imageUrl": "https:\/\/images.pluto.tv\/channels\/5a4d3a00ad95e4718ae8d8db\/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000",
+                "info": "For the most hilarious, most quotable, most excellent movies that will keep you in stitches 24\/7, watch Pluto TV Comedy. With a library of lunacy and a litany of ludicrousness, this is the place when you are looking to LOL.",
+                "accessType": "Premium"
+            },
+            {
+                "name": "Pluto TV Reaction",
+                "url": "https:\/\/cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv\/stitch\/hls\/channel\/617b37b361e0fd0008cfd8c5\/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d538386-eca6-11ee-b8d2-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e8bfa24c-7608-4afa-a260-12b498279878&userId=&serverSideAds=true",
+                "imageUrl": "https:\/\/images.pluto.tv\/channels\/617b37b361e0fd0008cfd8c5\/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000",
+                "info": "Pluto TV Reaction brings you more of the adrenaline-fueled films you crave, anytime, day or night.",
+                "accessType": "Premium"
+            },
+            {
+                "name": "Pluto TV Reaction",
+                "url": "https:\/\/cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv\/stitch\/hls\/channel\/617b37b361e0fd0008cfd8c5\/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d538386-eca6-11ee-b8d2-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e8bfa24c-7608-4afa-a260-12b498279878&userId=&serverSideAds=true",
+                "imageUrl": "https:\/\/images.pluto.tv\/channels\/617b37b361e0fd0008cfd8c5\/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000",
+                "info": "Pluto TV Reaction brings you more of the adrenaline-fueled films you crave, anytime, day or night.",
+                "accessType": "Premium"
+            },
+            {
+                "name": "Pluto TV Action",
+                "url": "https:\/\/cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv\/stitch\/hls\/channel\/561d7d484dc7c8770484914a\/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d5381ba-eca6-11ee-88af-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=32f9d3d2-7b34-4d4f-985e-2f6f948982ee&userId=&serverSideAds=true",
+                "imageUrl": "https:\/\/images.pluto.tv\/channels\/561d7d484dc7c8770484914a\/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000",
+                "info": "It’s time to go into overdrive by jumping off buildings, flying a burning plane, driving in a car chase and saving the world. Pluto TV Action brings you blockbusters, stars, and a strong dose of high-octane excitement.",
+                "accessType": "Premium"
+            },
+            {
+                "name": "Pluto TV Icons",
+                "url": "https:\/\/cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv\/stitch\/hls\/channel\/64b585f84ea480000838e446\/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d53811a-eca6-11ee-9ab5-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dee0b8c4-bd16-4ca9-8ee6-4aaf7468736e&userId=&serverSideAds=true",
+                "imageUrl": "https:\/\/images.pluto.tv\/channels\/64b585f84ea480000838e446\/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000",
+                "info": "If there’s one thing Pluto TV understands, it’s being among the stars. Watch the brightest talents throughout Hollywood history in the roles that made them legendary on Pluto TV Icons.",
+                "accessType": "Premium"
+            },
+            {
+                "name": "Pluto TV Spotlight",
+                "url": "https:\/\/cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv\/stitch\/hls\/channel\/5ba3fb9c4b078e0f37ad34e8\/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d538048-eca6-11ee-90c1-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=51b341af-cba2-4b14-b4a5-81fa089644a3&userId=&serverSideAds=true",
+                "imageUrl": "https:\/\/images.pluto.tv\/channels\/5ba3fb9c4b078e0f37ad34e8\/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000",
+                "info": "Roll out the red carpet and turn down the lights, because the biggest movies are here on Pluto TV Spotlight.",
+                "accessType": "Premium"
+            },
+            {
+                "name": "Celestial Movies Pinoy",
+                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/celestialmoviespinoy\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "imageUrl": "https:\/\/i.imgur.com\/EUlYIWv.png",
+                "info": "",
+                "accessType": "Premium"
+            },
+            {
+                "name": "Cinemax",
+                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/cinemax\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "imageUrl": "https:\/\/i.imgur.com\/YomkvVa.png",
+                "info": "",
+                "accessType": "Premium"
+            },
+            {
+                "name": "Disney Channel CA",
+                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/disneychannel\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "imageUrl": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/6\/6c\/2014_Disney_Channel_logo.svg\/300px-2014_Disney_Channel_logo.svg.png",
+                "info": "",
+                "accessType": "Premium"
+            },
+            {
+                "name": "HBO Comedy",
+                "url": "https:\/\/ott.udptv.net\/stream\/iptv\/hbocomedy\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "imageUrl": "https:\/\/m.media-amazon.com\/images\/G\/01\/digital\/video\/Linear_Clean_Slate\/HBO_Comedy._SL170_FMpng_.png",
+                "info": "",
+                "accessType": "Premium"
+            },
+            {
+                "name": "HBO Family",
+                "url": "https:\/\/ott.udptv.net\/stream\/iptv\/hbofamily\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "imageUrl": "https:\/\/i.imgur.com\/sDFfNjo.png",
+                "info": "",
+                "accessType": "Premium"
+            },
+            {
+                "name": "HBO HD",
+                "url": "https:\/\/ott.udptv.net\/stream\/iptv\/hbohd\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "imageUrl": "https:\/\/i.imgur.com\/EnA2RcD.png",
+                "info": "",
+                "accessType": "Premium"
+            },
+            {
+                "name": "HBO Hits",
+                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/hbohits\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "imageUrl": "https:\/\/i.imgur.com\/K52zUFR.png",
+                "info": "",
+                "accessType": "Premium"
+            },
+            {
+                "name": "HBO Signature",
+                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/hbosignature\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "imageUrl": "https:\/\/i.imgur.com\/t4HF5va.png",
+                "info": "",
+                "accessType": "Premium"
+            },
+            {
+                "name": "HBO West",
+                "url": "https:\/\/ott.udptv.net\/stream\/iptv\/hbowest\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "imageUrl": "https:\/\/i.imgur.com\/EnA2RcD.png",
+                "info": "",
+                "accessType": "Premium"
+            },
+            {
+                "name": "HBO Zone",
+                "url": "https:\/\/ott.udptv.net\/stream\/iptv\/hbozone\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "imageUrl": "https:\/\/m.media-amazon.com\/images\/G\/01\/digital\/video\/Linear_Clean_Slate\/HBO_Zone_East._SL170_FMpng_.png",
                 "info": "",
                 "accessType": "Premium"
             }
