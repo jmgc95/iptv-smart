@@ -1,5 +1,5 @@
 {
-    "version": "3.2",
+    "version": "3.3",
     "channels": {
         "Live TV": [
             {
@@ -325,7 +325,7 @@
                 "accessType": "Free"
             },
             {
-                "name": "Popcorn",
+                "name": "Popcorn [ 🚫 ] ",
                 "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/Popcorn\/HLSv3-FTA\/Popcorn.m3u8",
                 "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1qEClBnos0Y67y-n7LgFA3O7lm6sgoIOd",
                 "info": "Family-friendly movies",
@@ -598,13 +598,6 @@
                 "accessType": "Premium"
             },
             {
-                "name": "DZMM Teleradyo SD",
-                "url": "https:\/\/ott.udptv.net\/stream\/iptv\/dzmmteleradyosd\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
-                "imageUrl": "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/c\/cc\/DZMM_TeleRadyo.png\/300px-DZMM_TeleRadyo.png",
-                "info": "",
-                "accessType": "Premium"
-            },
-            {
                 "name": "Bein Sports Xtra",
                 "url": "https:\/\/amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv\/playlist.m3u8",
                 "imageUrl": "https:\/\/teamhandballnews.com\/wp-content\/uploads\/2020\/01\/beIN-SPORTS-XTRA_LOGO-1024x127.png",
@@ -613,238 +606,238 @@
             },
             {
                 "name": "Billonaryo News Channel",
-                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/billonaryonewschannel\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/billonaryonewschannel\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
                 "imageUrl": "https:\/\/static.wikia.nocookie.net\/russel\/images\/a\/a8\/Bilyonaryo_News_Channel_Logo_2024.png",
                 "info": "",
                 "accessType": "Premium"
             },
             {
                 "name": "Blast Sports",
-                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/blastsports\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/blastsports\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
                 "imageUrl": "https:\/\/i.imgur.com\/XxHlcBN.png",
                 "info": "",
                 "accessType": "Premium"
             },
             {
                 "name": "Buko",
-                "url": "https:\/\/ott.udptv.net\/stream\/iptv\/buko\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "url": "https:\/\/ott.udptv.net\/stream\/iptv\/buko\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
                 "imageUrl": "https:\/\/upload.wikimedia.org\/wikipedia\/en\/c\/c0\/BuKo_Buhay_Komedya_Logo.jpg",
                 "info": "",
                 "accessType": "Premium"
             },
             {
                 "name": "Cartoon Network MY",
-                "url": "https:\/\/ott.udptv.org\/stream\/astro\/astrocartoonnetwork\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "url": "https:\/\/ott.udptv.org\/stream\/astro\/astrocartoonnetwork\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
                 "imageUrl": "https:\/\/i.imgur.com\/8mfFj4h.png",
                 "info": "",
                 "accessType": "Premium"
             },
             {
                 "name": "CBS",
-                "url": "https:\/\/ott.udptv.com\/stream\/fubo\/cbs\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "url": "https:\/\/ott.udptv.com\/stream\/fubo\/cbs\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
                 "imageUrl": "https:\/\/github.com\/tv-logo\/tv-logos\/blob\/main\/countries\/united-states\/cbs-logo-white-us.png?raw=true",
                 "info": "",
                 "accessType": "Premium"
             },
             {
                 "name": "CBS Sports Golazo",
-                "url": "https:\/\/ott.udptv.com\/stream\/udptv\/cbssportsgolazo\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "url": "https:\/\/ott.udptv.com\/stream\/udptv\/cbssportsgolazo\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
                 "imageUrl": "https:\/\/github.com\/tv-logo\/tv-logos\/blob\/main\/countries\/united-states\/cbs-sports-golazo-network-us.png?raw=true",
                 "info": "",
                 "accessType": "Premium"
             },
             {
                 "name": "Cignal Dreamworks",
-                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/cignaldreamworks\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/cignaldreamworks\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
                 "imageUrl": "https:\/\/i.imgur.com\/cgfKSDP.png",
                 "info": "",
                 "accessType": "Premium"
             },
             {
                 "name": "Cinema One PH",
-                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/cinemaoneph\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/cinemaoneph\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
                 "imageUrl": "https:\/\/i.imgur.com\/hJ6MBiA.png",
                 "info": "",
                 "accessType": "Premium"
             },
             {
                 "name": "DZRH TV",
-                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/dzrhtv\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/dzrhtv\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
                 "imageUrl": "https:\/\/i.imgur.com\/2nvjsfy.png",
                 "info": "",
                 "accessType": "Premium"
             },
             {
                 "name": "GTV",
-                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/gtv\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/gtv\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
                 "imageUrl": "https:\/\/i.imgur.com\/geuq18u.png",
                 "info": "",
                 "accessType": "Premium"
             },
             {
                 "name": "HBO Boxing",
-                "url": "https:\/\/ott.udptv.net\/stream\/iptv\/hboboxing\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "url": "https:\/\/ott.udptv.net\/stream\/iptv\/hboboxing\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
                 "imageUrl": "https:\/\/m.media-amazon.com\/images\/G\/01\/LCXO_Station_Logos\/Freevee_HBOBoxing_1920x1080_new._SL170_FMpng_.png",
                 "info": "",
                 "accessType": "Premium"
             },
             {
                 "name": "Heart of Asia",
-                "url": "https:\/\/ott.udptv.net\/stream\/iptv\/heartofasia\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "url": "https:\/\/ott.udptv.net\/stream\/iptv\/heartofasia\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
                 "imageUrl": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/c\/cd\/Heart_of_Asia_logo.svg\/400px-Heart_of_Asia_logo.svg.png",
                 "info": "",
                 "accessType": "Premium"
             },
             {
                 "name": "Jeepney TV",
-                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/jeepneytv\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/jeepneytv\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
                 "imageUrl": "https:\/\/static.wikia.nocookie.net\/russel\/images\/2\/24\/Jeepney_TV_Logo_2015.png\/revision\/latest\/scale-to-width-down\/300?cb=20220516124640",
                 "info": "",
                 "accessType": "Premium"
             },
             {
                 "name": "iHeart Movies",
-                "url": "https:\/\/ott.udptv.net\/stream\/iptv\/iheartmovies\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/jeepneytv\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
                 "imageUrl": "https:\/\/static.wikia.nocookie.net\/logopedia\/images\/6\/6f\/Iheartmovies1.png",
                 "info": "",
                 "accessType": "Premium"
             },
             {
                 "name": "Jugo Pinoy TV",
-                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/jugopinoytv\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/jugopinoytv\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
                 "imageUrl": "https:\/\/dito.ph\/hubfs\/Dito_July2021\/Ott%20Pages\/Jungo-img\/Jungo-logo.png",
                 "info": "",
                 "accessType": "Premium"
             },
             {
                 "name": "Knowledge Channel",
-                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/knowledgechannel\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/knowledgechannel\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
                 "imageUrl": "https:\/\/static.wikia.nocookie.net\/logopedia\/images\/9\/9b\/Knowledge-Channel.png",
                 "info": "",
                 "accessType": "Premium"
             },
             {
                 "name": "K-Plus",
-                "url": "https:\/\/ott.udptv.org\/stream\/astro\/kplus\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "url": "https:\/\/ott.udptv.org\/stream\/astro\/kplus\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
                 "imageUrl": "https:\/\/i.imgur.com\/iomniFU.png",
                 "info": "",
                 "accessType": "Premium"
             },
             {
                 "name": "Lifetime",
-                "url": "https:\/\/ott.udptv.org\/stream\/astro\/lifetime\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "url": "https:\/\/ott.udptv.org\/stream\/astro\/lifetime\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
                 "imageUrl": "https:\/\/i.imgur.com\/iIp0xDS.png",
                 "info": "",
                 "accessType": "Premium"
             },
             {
                 "name": "Lotus Macau",
-                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/lotusmacau\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/lotusmacau\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
                 "imageUrl": "https:\/\/i.imgur.com\/W1u8QdQ.png",
                 "info": "",
                 "accessType": "Premium"
             },
             {
                 "name": "Love Nature",
-                "url": "https:\/\/ott.udptv.org\/stream\/astro\/lovenature\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "url": "https:\/\/ott.udptv.org\/stream\/astro\/lovenature\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
                 "imageUrl": "https:\/\/github.com\/tv-logo\/tv-logos\/blob\/main\/countries\/united-kingdom\/love-nature-uk.png?raw=true",
                 "info": "",
                 "accessType": "Premium"
             },
             {
                 "name": "National Geographic Channel US",
-                "url": "https:\/\/ott.udptv.org\/stream\/udptvus\/nationalgeographic\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "url": "https:\/\/ott.udptv.org\/stream\/udptvus\/nationalgeographic\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
                 "imageUrl": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-states\/national-geographic-us.png",
                 "info": "",
                 "accessType": "Premium"
             },
             {
                 "name": "National Geographic Channel CA",
-                "url": "https:\/\/ott.udptv.com\/stream\/udptv\/nationalgeographicca\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "url": "https:\/\/ott.udptv.com\/stream\/udptv\/nationalgeographicca\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
                 "imageUrl": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-states\/national-geographic-us.png",
                 "info": "",
                 "accessType": "Premium"
             },
             {
                 "name": "National Geographic Channel",
-                "url": "https:\/\/ott.udptv.com\/stream\/udptv\/nationalgeographicchannel\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "url": "https:\/\/ott.udptv.com\/stream\/udptv\/nationalgeographicchannel\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
                 "imageUrl": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/italy\/national-geographic-it.png",
                 "info": "",
                 "accessType": "Premium"
             },
             {
                 "name": "Nat Geo Wild US",
-                "url": "https:\/\/ott.udptv.org\/stream\/udptvus\/natgeowild\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "url": "https:\/\/ott.udptv.org\/stream\/udptvus\/natgeowild\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
                 "imageUrl": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/refs\/heads\/main\/countries\/poland\/nat-geo-wild-pl.png",
                 "info": "",
                 "accessType": "Premium"
             },
             {
                 "name": "NBA TV HDTV",
-                "url": "https:\/\/ott.udptv.com\/stream\/udptv\/nbatvhdtv\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "url": "https:\/\/ott.udptv.com\/stream\/udptv\/nbatvhdtv\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
                 "imageUrl": "https:\/\/m.media-amazon.com\/images\/G\/01\/digital\/video\/Linear_Clean_Slate\/NBA_TV_HDTV._SL170_FMpng_.png",
                 "info": "",
                 "accessType": "Premium"
             },
             {
                 "name": "NBA TV Philippines",
-                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/nbatvphilippines\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/nbatvphilippines\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
                 "imageUrl": "https:\/\/i.imgur.com\/g5Q35IH.png",
                 "info": "",
                 "accessType": "Premium"
             },
             {
                 "name": "NBA TV USA",
-                "url": "https:\/\/ott.udptv.org\/stream\/udptvus\/nbatv\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "url": "https:\/\/ott.udptv.org\/stream\/udptvus\/nbatv\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
                 "imageUrl": "https:\/\/github.com\/tv-logo\/tv-logos\/blob\/main\/countries\/united-states\/nba-tv-us.png?raw=true",
                 "info": "",
                 "accessType": "Premium"
             },
             {
                 "name": "NET25",
-                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/net25\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/net25\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
                 "imageUrl": "https:\/\/static.wikia.nocookie.net\/russel\/images\/9\/9d\/Net_25_Logo_2021.png\/revision\/latest\/scale-to-width-down\/1200?cb=20220810102057",
                 "info": "",
                 "accessType": "Premium"
             },
             {
                 "name": "Nickelodeon",
-                "url": "https:\/\/ott.udptv.org\/stream\/astro\/nickelodeon\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "url": "https:\/\/ott.udptv.org\/stream\/astro\/nickelodeon\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
                 "imageUrl": "https:\/\/i.imgur.com\/kbIi1V6.png",
                 "info": "",
                 "accessType": "Premium"
             },
             {
                 "name": "PBA Rush",
-                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/pbarush\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/pbarush\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
                 "imageUrl": "https:\/\/i.imgur.com\/tvxCVRr.png",
                 "info": "",
                 "accessType": "Premium"
             },
             {
                 "name": "PBB All-Access Livestream",
-                "url": "https:\/\/ott.udptv.net\/stream\/iptv\/pbballaccesslivestream\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "url": "https:\/\/ott.udptv.net\/stream\/iptv\/pbballaccesslivestream\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
                 "imageUrl": "https:\/\/i.imgur.com\/aEnPH2R.png",
                 "info": "",
                 "accessType": "Premium"
             },
             {
                 "name": "Premier Sports",
-                "url": "https:\/\/ott.udptv.net\/stream\/iptv\/premiersports\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "url": "https:\/\/ott.udptv.net\/stream\/iptv\/premiersports\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
                 "imageUrl": "https:\/\/img.dge-prod.dicelaboratory.com\/original\/2023\/11\/10172037-slfpj2wmabtpkf9y.png",
                 "info": "",
                 "accessType": "Premium"
             },
             {
                 "name": "PTV",
-                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/ptv\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/ptv\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
                 "imageUrl": "https:\/\/i.imgur.com\/plyCuAw.png",
                 "info": "",
                 "accessType": "Free"
             },
             {
                 "name": "Sari Sari",
-                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/sarisari\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/sarisari\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
                 "imageUrl": "https:\/\/i.imgur.com\/IDCHfXm.png",
                 "info": "",
                 "accessType": "Premium"
@@ -888,14 +881,14 @@
             },
             {
                 "name": "AMC Thrillers",
-                "url": "https:\/\/ott.udptv.org\/stream\/udptvus\/amcthrillers\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "url": "https:\/\/ott.udptv.org\/stream\/udptvus\/amcthrillers\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
                 "imageUrl": "https:\/\/github.com\/tv-logo\/tv-logos\/blob\/main\/misc\/vod\/amc-thrillers-vod.png?raw=true",
                 "info": "",
                 "accessType": "Premium"
             },
             {
                 "name": "Astro Cinemax",
-                "url": "https:\/\/ott.udptv.org\/stream\/astro\/astrocinemax\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "url": "https:\/\/ott.udptv.org\/stream\/astro\/astrocinemax\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
                 "imageUrl": "https:\/\/i.imgur.com\/YomkvVa.png",
                 "info": "",
                 "accessType": "Premium"
@@ -1000,70 +993,70 @@
             },
             {
                 "name": "Celestial Movies Pinoy",
-                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/celestialmoviespinoy\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/celestialmoviespinoy\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
                 "imageUrl": "https:\/\/i.imgur.com\/EUlYIWv.png",
                 "info": "",
                 "accessType": "Premium"
             },
             {
                 "name": "Cinemax",
-                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/cinemax\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/cinemax\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
                 "imageUrl": "https:\/\/i.imgur.com\/YomkvVa.png",
                 "info": "",
                 "accessType": "Premium"
             },
             {
                 "name": "Disney Channel CA",
-                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/disneychannel\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/disneychannel\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
                 "imageUrl": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/6\/6c\/2014_Disney_Channel_logo.svg\/300px-2014_Disney_Channel_logo.svg.png",
                 "info": "",
                 "accessType": "Premium"
             },
             {
                 "name": "HBO Comedy",
-                "url": "https:\/\/ott.udptv.net\/stream\/iptv\/hbocomedy\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "url": "https:\/\/ott.udptv.net\/stream\/iptv\/hbocomedy\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
                 "imageUrl": "https:\/\/m.media-amazon.com\/images\/G\/01\/digital\/video\/Linear_Clean_Slate\/HBO_Comedy._SL170_FMpng_.png",
                 "info": "",
                 "accessType": "Premium"
             },
             {
                 "name": "HBO Family",
-                "url": "https:\/\/ott.udptv.net\/stream\/iptv\/hbofamily\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "url": "https:\/\/ott.udptv.net\/stream\/iptv\/hbofamily\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
                 "imageUrl": "https:\/\/i.imgur.com\/sDFfNjo.png",
                 "info": "",
                 "accessType": "Premium"
             },
             {
                 "name": "HBO HD",
-                "url": "https:\/\/ott.udptv.net\/stream\/iptv\/hbohd\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "url": "https:\/\/ott.udptv.net\/stream\/iptv\/hbohd\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
                 "imageUrl": "https:\/\/i.imgur.com\/EnA2RcD.png",
                 "info": "",
                 "accessType": "Premium"
             },
             {
                 "name": "HBO Hits",
-                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/hbohits\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/hbohits\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
                 "imageUrl": "https:\/\/i.imgur.com\/K52zUFR.png",
                 "info": "",
                 "accessType": "Premium"
             },
             {
                 "name": "HBO Signature",
-                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/hbosignature\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/hbosignature\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
                 "imageUrl": "https:\/\/i.imgur.com\/t4HF5va.png",
                 "info": "",
                 "accessType": "Premium"
             },
             {
                 "name": "HBO West",
-                "url": "https:\/\/ott.udptv.net\/stream\/iptv\/hbowest\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "url": "https:\/\/ott.udptv.net\/stream\/iptv\/hbowest\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
                 "imageUrl": "https:\/\/i.imgur.com\/EnA2RcD.png",
                 "info": "",
                 "accessType": "Premium"
             },
             {
                 "name": "HBO Zone",
-                "url": "https:\/\/ott.udptv.net\/stream\/iptv\/hbozone\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "url": "https:\/\/ott.udptv.net\/stream\/iptv\/hbozone\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
                 "imageUrl": "https:\/\/m.media-amazon.com\/images\/G\/01\/digital\/video\/Linear_Clean_Slate\/HBO_Zone_East._SL170_FMpng_.png",
                 "info": "",
                 "accessType": "Premium"
@@ -1084,42 +1077,42 @@
             },
             {
                 "name": "Korean Blockbusters",
-                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/koreanblockbusters\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/koreanblockbusters\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
                 "imageUrl": "https:\/\/m.media-amazon.com\/images\/G\/01\/LCXO_Station_Logos\/korean_blockbusters._SL170_FMpng_.png",
                 "info": "",
                 "accessType": "Premium"
             },
             {
                 "name": "OCN Movies",
-                "url": "https:\/\/ott.udptv.net\/stream\/iptv\/ocnmovies\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "url": "https:\/\/ott.udptv.net\/stream\/iptv\/ocnmovies\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
                 "imageUrl": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/0\/0a\/OCN_Movies_%EB%A1%9C%EA%B3%A0.svg\/300px-OCN_Movies_%EB%A1%9C%EA%B3%A0.svg.png",
                 "info": "",
                 "accessType": "Premium"
             },
             {
                 "name": "OCN Movies 2",
-                "url": "https:\/\/ott.udptv.net\/stream\/iptv\/ocnmovies2\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "url": "https:\/\/ott.udptv.net\/stream\/iptv\/ocnmovies2\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
                 "imageUrl": "https:\/\/i.imgur.com\/Aja53VI.png",
                 "info": "",
                 "accessType": "Premium"
             },
             {
                 "name": "Paramount+ with Showtime West",
-                "url": "https:\/\/ott.udptv.org\/stream\/udptvus\/paramountwithshowtimewest\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "url": "https:\/\/ott.udptv.org\/stream\/udptvus\/paramountwithshowtimewest\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
                 "imageUrl": "https:\/\/github.com\/tv-logo\/tv-logos\/blob\/main\/countries\/united-states\/paramount-plus-with-showtime-us.png?raw=true",
                 "info": "",
                 "accessType": "Premium"
             },
             {
                 "name": "PBO",
-                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/pbo\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/pbo\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
                 "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1-Beaydh12VP-OS8f82J0PfHXee8r2SGg",
                 "info": "📺 What is PBO?\n\nPBO (Pinoy Box Office) is a 24\/7 Filipino cable movie channel.\n\nIt specializes in showing Tagalog movies, particularly those produced by Viva Films and other local film companies.\n\nIt is owned and operated by Viva Communications, one of the biggest entertainment companies in the Philippines.",
                 "accessType": "Premium"
             },
             {
                 "name": "Rock Action",
-                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/rockaction\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/rockaction\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
                 "imageUrl": "https:\/\/i.imgur.com\/bnrQIgB.png",
                 "info": "",
                 "accessType": "Premium"
