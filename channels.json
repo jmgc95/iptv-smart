@@ -1,5 +1,5 @@
 {
-    "version": "3.3",
+    "version": "3.4",
     "channels": {
         "Live TV": [
             {
@@ -841,13 +841,6 @@
                 "imageUrl": "https:\/\/i.imgur.com\/IDCHfXm.png",
                 "info": "",
                 "accessType": "Premium"
-            },
-            {
-                "name": "",
-                "url": "",
-                "imageUrl": "",
-                "info": "",
-                "accessType": "Free"
             }
         ],
         "Movies": [
