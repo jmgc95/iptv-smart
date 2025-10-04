@@ -1,5 +1,5 @@
 {
-    "version": "3.6",
+    "version": "3.7",
     "channels": {
         "Live TV": [
             {
@@ -340,7 +340,7 @@
             },
             {
                 "name": "Kapamilya Channel",
-                "url": "https:\/\/tfc.mark-projects.site\/kapamilya.m3u8",
+                "url": "https:\/\/d1uf7s78uqso1e.cloudfront.net\/out\/v1\/efa01372657648be830e7c23ff68bea2\/index.mpd",
                 "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1xDsQ7PlUdGH2eM15TF_DzunOEI_ACs-w",
                 "info": "Kapamilya Channel HD is the high-definition (HD) version of the Kapamilya Channel, a 24-hour pay TV channel in the Philippines owned and operated by ABS-CBN Corporation.",
                 "accessType": "Premium"
@@ -592,7 +592,7 @@
             },
             {
                 "name": "DZMM Teleradyo",
-                "url": "https:\/\/ott.udptv.net\/stream\/iptv\/dzmmteleradyo\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
+                "url": "https:\/\/cdn-ue1-prod.tsv2.amagi.tv\/linear\/amg01006-abs-cbn-teleradyo-dash-abscbnono\/9372936c-85af-4fa1-8c0f-b7e6aec90340\/index.mpd",
                 "imageUrl": "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/c\/cc\/DZMM_TeleRadyo.png\/300px-DZMM_TeleRadyo.png",
                 "info": "",
                 "accessType": "Premium"
