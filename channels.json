@@ -1,39 +1,39 @@
 {
-    "version": "1.1",
+    "version": "1.2",
     "channels": {
         "Live TV": [
             {
                 "name": "A2Z Channel 11",
-                "url": "https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_5.m3u8",
-                "imageUrl": "https://drive.google.com/uc?export=download&id=1lQRCzDqTddrQD_-Iga8CY1n5aWBUSCHz",
+                "url": "https:\/\/qp-pldt-live-grp-02-prod.akamaized.net\/out\/u\/tv5_5.m3u8",
+                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1lQRCzDqTddrQD_-Iga8CY1n5aWBUSCHz",
                 "info": "General entertainment and news",
                 "accessType": "Free"
             },
             {
                 "name": "INCTV",
-                "url": "https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/index.m3u8",
-                "imageUrl": "https://drive.google.com/uc?export=download&id=1loEHefO1VZDQYn9mmGscC82X__E4U6OZ",
+                "url": "https:\/\/199211.global.ssl.fastly.net\/643cc12aa824db4374021c8c\/live_95f6ac80dd6511ed9d08b12be56ae55e\/index.m3u8",
+                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1loEHefO1VZDQYn9mmGscC82X__E4U6OZ",
                 "info": "Religious and community programming",
                 "accessType": "Free"
             },
             {
                 "name": "Kapamilya Channel",
-                "url": "https://tfc-72i.pages.dev/kapamilya.m3u8",
-                "imageUrl": "https://drive.google.com/uc?export=download&id=1xDsQ7PlUdGH2eM15TF_DzunOEI_ACs-w",
+                "url": "https:\/\/tfc-72i.pages.dev\/kapamilya.m3u8",
+                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1xDsQ7PlUdGH2eM15TF_DzunOEI_ACs-w",
                 "info": "ABS-CBN pay TV channel",
                 "accessType": "Premium"
             },
             {
                 "name": "GMA7 (GMA Network)",
-                "url": "https://ott.udptv.net/stream/iptv/gma/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https://drive.google.com/uc?export=download&id=1nJzZZ21EvjgQ2aDJ_AlqdDpi_hIBPlti",
+                "url": "https:\/\/ott.udptv.net\/stream\/iptv\/gma\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
+                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1nJzZZ21EvjgQ2aDJ_AlqdDpi_hIBPlti",
                 "info": "Flagship network",
                 "accessType": "Premium"
             },
             {
                 "name": "TV5 'HD'",
-                "url": "http://ott.udptv.net/stream/iptv/tv5hd/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https://drive.google.com/uc?export=download&id=1xudpu4GR3TtZf7PYxr_QzhJapnKxQ2ig",
+                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/tv5hd\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
+                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1xudpu4GR3TtZf7PYxr_QzhJapnKxQ2ig",
                 "info": "General entertainment",
                 "accessType": "Premium"
             }
@@ -41,43 +41,43 @@
         "News": [
             {
                 "name": "CNN International",
-                "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
-                "imageUrl": "https://drive.google.com/uc?export=download&id=1lGGwBR4IIFPEaDj_pBmupEMtv8E-khja",
-                "info": "24/7 global news coverage",
+                "url": "https:\/\/turnerlive.warnermediacdn.com\/hls\/live\/586495\/cnngo\/cnn_slate\/VIDEO_0_3564000.m3u8",
+                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1lGGwBR4IIFPEaDj_pBmupEMtv8E-khja",
+                "info": "24\/7 global news coverage",
                 "accessType": "Premium"
             },
             {
                 "name": "ABC News",
-                "url": "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8",
-                "imageUrl": "https://drive.google.com/uc?export=download&id=1lSvoizA474Pw0sfZHROyeH1ryRfBucsE",
+                "url": "https:\/\/content.uplynk.com\/channel\/3324f2467c414329b3b0cc5cd987b6be.m3u8",
+                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1lSvoizA474Pw0sfZHROyeH1ryRfBucsE",
                 "info": "Live news and updates",
                 "accessType": "Free"
             },
             {
                 "name": "Bloomberg Television",
-                "url": "https://www.bloomberg.com/media-manifest/streams/us.m3u8",
-                "imageUrl": "https://drive.google.com/uc?export=download&id=1laXkGjC_ydQcJFv-NHAteMxfUv4gFxlo",
+                "url": "https:\/\/www.bloomberg.com\/media-manifest\/streams\/us.m3u8",
+                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1laXkGjC_ydQcJFv-NHAteMxfUv4gFxlo",
                 "info": "Financial news and analysis",
                 "accessType": "Premium"
             },
             {
                 "name": "CGTN News",
-                "url": "https://news.cgtn.com/resource/live/english/cgtn-news.m3u8",
-                "imageUrl": "https://drive.google.com/uc?export=download&id=1mPQSJXzMmSrsZ22kmsMq1081PRViUNCT",
+                "url": "https:\/\/news.cgtn.com\/resource\/live\/english\/cgtn-news.m3u8",
+                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1mPQSJXzMmSrsZ22kmsMq1081PRViUNCT",
                 "info": "International news from China",
                 "accessType": "Free"
             },
             {
                 "name": "BBC News",
-                "url": "https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8",
-                "imageUrl": "https://drive.google.com/uc?export=download&id=1o5wY2YlixM4zLN-rSy8mCH4zy2vHNyYM",
+                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/BBC_News\/HLSv3-FTA\/BBC_News.m3u8",
+                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1o5wY2YlixM4zLN-rSy8mCH4zy2vHNyYM",
                 "info": "Global news from BBC",
                 "accessType": "Free"
             },
             {
                 "name": "ANC PH",
-                "url": "http://ott.udptv.net/stream/iptv/ancph/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https://static.wikia.nocookie.net/russel/images/4/4c/ANC_Logo_2015.png",
+                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/ancph\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
+                "imageUrl": "https:\/\/static.wikia.nocookie.net\/russel\/images\/4\/4c\/ANC_Logo_2015.png",
                 "info": "ABS-CBN News Channel",
                 "accessType": "Premium"
             }
@@ -85,73 +85,73 @@
         "Kids": [
             {
                 "name": "Boomerang",
-                "url": "https://cdn4.skygo.mn/live/disk1/Boomerang/HLSv3-FTA/Boomerang.m3u8",
-                "imageUrl": "https://drive.google.com/uc?export=download&id=1oN9q5IoHb01gAXQgL_fEb78fcmuPMo6B",
+                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/Boomerang\/HLSv3-FTA\/Boomerang.m3u8",
+                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1oN9q5IoHb01gAXQgL_fEb78fcmuPMo6B",
                 "info": "Classic cartoons",
                 "accessType": "Free"
             },
             {
                 "name": "Cbeebies",
-                "url": "https://cdn4.skygo.mn/live/disk1/Cbeebies/HLSv3-FTA/Cbeebies.m3u8",
-                "imageUrl": "https://drive.google.com/uc?export=download&id=1oQPOUr-48IMTD_e3rRVIVceat3XUeywB",
+                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/Cbeebies\/HLSv3-FTA\/Cbeebies.m3u8",
+                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1oQPOUr-48IMTD_e3rRVIVceat3XUeywB",
                 "info": "Children’s shows",
                 "accessType": "Free"
             },
             {
                 "name": "CARTOON NETWORK",
-                "url": "https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8",
-                "imageUrl": "https://drive.google.com/uc?export=download&id=1oOUC7NmgOPsM8SK9gW4Y8uj_W3u3wsyx",
+                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/Cartoon_Network\/HLSv3-FTA\/Cartoon_Network.m3u8",
+                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1oOUC7NmgOPsM8SK9gW4Y8uj_W3u3wsyx",
                 "info": "Animated series",
-                "accessType": "Premium"
+                "accessType": "Free"
             },
             {
                 "name": "Nickelodeon",
-                "url": "https://ott.udptv.org/stream/astro/nickelodeon/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https://i.imgur.com/kbIi1V6.png",
+                "url": "https:\/\/ott.udptv.org\/stream\/astro\/nickelodeon\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
+                "imageUrl": "https:\/\/i.imgur.com\/kbIi1V6.png",
                 "info": "Kids favorite shows",
-                "accessType": "Premium"
+                "accessType": "Free"
             },
             {
                 "name": "Cignal Dreamworks",
-                "url": "http://ott.udptv.net/stream/iptv/cignaldreamworks/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https://i.imgur.com/cgfKSDP.png",
+                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/cignaldreamworks\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
+                "imageUrl": "https:\/\/i.imgur.com\/cgfKSDP.png",
                 "info": "Dreamworks animations",
-                "accessType": "Premium"
+                "accessType": "Free"
             }
         ],
         "Movies": [
             {
                 "name": "HBO HD",
-                "url": "https://ott.udptv.net/stream/iptv/hbohd/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https://i.imgur.com/EnA2RcD.png",
+                "url": "https:\/\/ott.udptv.net\/stream\/iptv\/hbohd\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
+                "imageUrl": "https:\/\/i.imgur.com\/EnA2RcD.png",
                 "info": "Premium movies",
                 "accessType": "Premium"
             },
             {
                 "name": "CinemaOne",
-                "url": "https://tfc.mark-projects.site/cinemaone.m3u8",
-                "imageUrl": "https://drive.google.com/uc?export=download&id=1xNCeMwSC2KGxd_oe3J8EF2HaUEka6rzT",
+                "url": "https:\/\/tfc.mark-projects.site\/cinemaone.m3u8",
+                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1xNCeMwSC2KGxd_oe3J8EF2HaUEka6rzT",
                 "info": "Filipino cinema",
                 "accessType": "Premium"
             },
             {
                 "name": "PBO",
-                "url": "http://ott.udptv.net/stream/iptv/pbo/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https://drive.google.com/uc?export=download&id=1-Beaydh12VP-OS8f82J0PfHXee8r2SGg",
+                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/pbo\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
+                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1-Beaydh12VP-OS8f82J0PfHXee8r2SGg",
                 "info": "Pinoy Box Office",
                 "accessType": "Premium"
             },
             {
                 "name": "Cinemax",
-                "url": "http://ott.udptv.net/stream/iptv/cinemax/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https://i.imgur.com/YomkvVa.png",
+                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/cinemax\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
+                "imageUrl": "https:\/\/i.imgur.com\/YomkvVa.png",
                 "info": "Hollywood movies",
                 "accessType": "Premium"
             },
             {
                 "name": "Rock Action",
-                "url": "http://ott.udptv.net/stream/iptv/rockaction/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https://i.imgur.com/bnrQIgB.png",
+                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/rockaction\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
+                "imageUrl": "https:\/\/i.imgur.com\/bnrQIgB.png",
                 "info": "Action movies",
                 "accessType": "Premium"
             }
@@ -159,36 +159,36 @@
         "Sports": [
             {
                 "name": "Bein Sports Xtra",
-                "url": "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8",
-                "imageUrl": "https://teamhandballnews.com/wp-content/uploads/2020/01/beIN-SPORTS-XTRA_LOGO-1024x127.png",
+                "url": "https:\/\/amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv\/playlist.m3u8",
+                "imageUrl": "https:\/\/teamhandballnews.com\/wp-content\/uploads\/2020\/01\/beIN-SPORTS-XTRA_LOGO-1024x127.png",
                 "info": "Live sports coverage",
                 "accessType": "Premium"
             },
             {
                 "name": "OneSports",
-                "url": "http://ott.udptv.net/stream/iptv/onesports/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https://drive.google.com/uc?export=download&id=1xgscImP37WiVMp5xt9j6riaHsUjrb9IR",
+                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/onesports\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
+                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1xgscImP37WiVMp5xt9j6riaHsUjrb9IR",
                 "info": "Philippine sports channel",
                 "accessType": "Premium"
             },
             {
                 "name": "PBA Rush",
-                "url": "http://ott.udptv.net/stream/iptv/pbarush/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https://i.imgur.com/tvxCVRr.png",
-                "info": "24/7 PBA coverage",
+                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/pbarush\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
+                "imageUrl": "https:\/\/i.imgur.com\/tvxCVRr.png",
+                "info": "24\/7 PBA coverage",
                 "accessType": "Premium"
             },
             {
                 "name": "NBA TV Philippines",
-                "url": "http://ott.udptv.net/stream/iptv/nbatvphilippines/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https://i.imgur.com/g5Q35IH.png",
+                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/nbatvphilippines\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
+                "imageUrl": "https:\/\/i.imgur.com\/g5Q35IH.png",
                 "info": "Basketball news and live games",
                 "accessType": "Premium"
             },
             {
                 "name": "Premier Sports",
-                "url": "https://ott.udptv.net/stream/iptv/premiersports/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https://img.dge-prod.dicelaboratory.com/original/2023/11/10172037-slfpj2wmabtpkf9y.png",
+                "url": "https:\/\/ott.udptv.net\/stream\/iptv\/premiersports\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
+                "imageUrl": "https:\/\/img.dge-prod.dicelaboratory.com\/original\/2023\/11\/10172037-slfpj2wmabtpkf9y.png",
                 "info": "Global sports events",
                 "accessType": "Premium"
             }
