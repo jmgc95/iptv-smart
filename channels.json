@@ -1,1292 +1,196 @@
 {
-    "version": "3.9",
+    "version": "1.1",
     "channels": {
         "Live TV": [
             {
-                "name": "Anime HiDive 001",
-                "url": "https:\/\/amc-anime-x-hidive-1-us.tablo.wurl.tv\/playlist.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1lQN4tVJUK4Z1RFNKwGzEYKmhhYF9O7At",
-                "info": "Anime streaming channel",
-                "accessType": "Premium"
-            },
-            {
                 "name": "A2Z Channel 11",
-                "url": "https:\/\/qp-pldt-live-grp-02-prod.akamaized.net\/out\/u\/tv5_5.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1lQRCzDqTddrQD_-Iga8CY1n5aWBUSCHz",
+                "url": "https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_5.m3u8",
+                "imageUrl": "https://drive.google.com/uc?export=download&id=1lQRCzDqTddrQD_-Iga8CY1n5aWBUSCHz",
                 "info": "General entertainment and news",
                 "accessType": "Free"
             },
             {
+                "name": "INCTV",
+                "url": "https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/index.m3u8",
+                "imageUrl": "https://drive.google.com/uc?export=download&id=1loEHefO1VZDQYn9mmGscC82X__E4U6OZ",
+                "info": "Religious and community programming",
+                "accessType": "Free"
+            },
+            {
+                "name": "Kapamilya Channel",
+                "url": "https://tfc-72i.pages.dev/kapamilya.m3u8",
+                "imageUrl": "https://drive.google.com/uc?export=download&id=1xDsQ7PlUdGH2eM15TF_DzunOEI_ACs-w",
+                "info": "ABS-CBN pay TV channel",
+                "accessType": "Premium"
+            },
+            {
+                "name": "GMA7 (GMA Network)",
+                "url": "https://ott.udptv.net/stream/iptv/gma/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
+                "imageUrl": "https://drive.google.com/uc?export=download&id=1nJzZZ21EvjgQ2aDJ_AlqdDpi_hIBPlti",
+                "info": "Flagship network",
+                "accessType": "Premium"
+            },
+            {
+                "name": "TV5 'HD'",
+                "url": "http://ott.udptv.net/stream/iptv/tv5hd/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
+                "imageUrl": "https://drive.google.com/uc?export=download&id=1xudpu4GR3TtZf7PYxr_QzhJapnKxQ2ig",
+                "info": "General entertainment",
+                "accessType": "Premium"
+            }
+        ],
+        "News": [
+            {
                 "name": "CNN International",
-                "url": "https:\/\/turnerlive.warnermediacdn.com\/hls\/live\/586495\/cnngo\/cnn_slate\/VIDEO_0_3564000.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1lGGwBR4IIFPEaDj_pBmupEMtv8E-khja",
-                "info": "24\/7 global news coverage",
+                "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
+                "imageUrl": "https://drive.google.com/uc?export=download&id=1lGGwBR4IIFPEaDj_pBmupEMtv8E-khja",
+                "info": "24/7 global news coverage",
                 "accessType": "Premium"
             },
             {
                 "name": "ABC News",
-                "url": "https:\/\/content.uplynk.com\/channel\/3324f2467c414329b3b0cc5cd987b6be.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1lSvoizA474Pw0sfZHROyeH1ryRfBucsE",
+                "url": "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8",
+                "imageUrl": "https://drive.google.com/uc?export=download&id=1lSvoizA474Pw0sfZHROyeH1ryRfBucsE",
                 "info": "Live news and updates",
                 "accessType": "Free"
             },
             {
                 "name": "Bloomberg Television",
-                "url": "https:\/\/www.bloomberg.com\/media-manifest\/streams\/us.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1laXkGjC_ydQcJFv-NHAteMxfUv4gFxlo",
+                "url": "https://www.bloomberg.com/media-manifest/streams/us.m3u8",
+                "imageUrl": "https://drive.google.com/uc?export=download&id=1laXkGjC_ydQcJFv-NHAteMxfUv4gFxlo",
                 "info": "Financial news and analysis",
                 "accessType": "Premium"
             },
             {
-                "name": "RT Documentary",
-                "url": "https:\/\/rt-rtd.rttv.com\/dvr\/rtdoc\/playlist.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1lbwNdi2hbFkQMk3oI7XDusaCeXmBNJqo",
-                "info": "Documentary films and stories",
-                "accessType": "Free"
-            },
-            {
-                "name": "INCTV",
-                "url": "https:\/\/199211.global.ssl.fastly.net\/643cc12aa824db4374021c8c\/live_95f6ac80dd6511ed9d08b12be56ae55e\/index.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1loEHefO1VZDQYn9mmGscC82X__E4U6OZ",
-                "info": "Religious and community programming",
-                "accessType": "Free"
-            },
-            {
-                "name": "DZBB Super Radio",
-                "url": "https:\/\/stream.gmanews.tv\/ioslive\/livestream\/playlist.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1lwVVLBbVbuD_jGDEECTc-j-P7Q9lqxV-",
-                "info": "News and talk radio",
-                "accessType": "Free"
-            },
-            {
-                "name": "Wish 107.5",
-                "url": "https:\/\/fm.mark-projects.site\/stream\/wish.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1mGTYZW9bNwT53OrPs0AD_gfKobE58rNY",
-                "info": "Music and live performances",
-                "accessType": "Premium"
-            },
-            {
                 "name": "CGTN News",
-                "url": "https:\/\/news.cgtn.com\/resource\/live\/english\/cgtn-news.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1mPQSJXzMmSrsZ22kmsMq1081PRViUNCT",
+                "url": "https://news.cgtn.com/resource/live/english/cgtn-news.m3u8",
+                "imageUrl": "https://drive.google.com/uc?export=download&id=1mPQSJXzMmSrsZ22kmsMq1081PRViUNCT",
                 "info": "International news from China",
                 "accessType": "Free"
             },
             {
-                "name": "Boomerang",
-                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/Boomerang\/HLSv3-FTA\/Boomerang.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1oN9q5IoHb01gAXQgL_fEb78fcmuPMo6B",
-                "info": "Catch up on kids’ cartoons",
-                "accessType": "Free"
-            },
-            {
-                "name": "Cbeebies",
-                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/Cbeebies\/HLSv3-FTA\/Cbeebies.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1oQPOUr-48IMTD_e3rRVIVceat3XUeywB",
-                "info": "Catch up on children’s shows",
-                "accessType": "Free"
-            },
-            {
-                "name": "CARTOON NETWORK",
-                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/Cartoon_Network\/HLSv3-FTA\/Cartoon_Network.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1oOUC7NmgOPsM8SK9gW4Y8uj_W3u3wsyx",
-                "info": "Catch up on animated series",
-                "accessType": "Premium"
-            },
-            {
-                "name": "Outdoor Channel",
-                "url": "https:\/\/cdn-apse1-prod.tsv2.amagi.tv\/linear\/amg00718-outdoorchannela-outdoortvnz-samsungnz\/playlist.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1mRbczWl7aklSh659YC32bjoLNbFudE1z",
-                "info": "Outdoor lifestyle and adventures",
-                "accessType": "Premium"
-            },
-            {
-                "name": "Bein Sports Xtra",
-                "url": "https:\/\/amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv\/playlist.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1ma0ptEHmehAa-86n9UqT0-dsEpYygu2Y",
-                "info": "Live sports and highlights",
-                "accessType": "Premium"
-            },
-            {
-                "name": "Deshi TV",
-                "url": "https:\/\/deshitv.deshitv24.net\/live\/myStream\/playlist.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1n0cXhuSghZmikOiCymxdVrYe1I9_OE0E",
-                "info": "Bangladeshi entertainment and news",
-                "accessType": "Free"
-            },
-            {
-                "name": "Ekushey TV",
-                "url": "https:\/\/ekusheyserver.com\/etvlivesn.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1n0poGjrc8z3cRsISIkK6-g2TQxBsoPxP",
-                "info": "Bangladeshi television channel",
-                "accessType": "Free"
-            },
-            {
-                "name": "Bayon TV",
-                "url": "https:\/\/live-evg2.tv360.metfone.com.kh\/livebayontv\/bayontvhd.stream\/playlist.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1n4wyEtGqyjrOPIAqE8ePEo9b_qp1Lxz3",
-                "info": "Cambodian entertainment and news",
-                "accessType": "Free"
-            },
-            {
-                "name": "BTV News",
-                "url": "https:\/\/live-evg2.tv360.metfone.com.kh\/livetest\/bayontest.stream\/playlist.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1n57o72cfGaUuYc-aWBqr1sXafvC2QBy0",
-                "info": "News and updates from Cambodia",
-                "accessType": "Free"
-            },
-            {
-                "name": "Arirang",
-                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/arirang\/master.m3u8?u=discord.gg\/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
-                "imageUrl": "https:\/\/i.imgur.com\/2NYcYrg.png",
-                "info": "Korean culture and news",
-                "accessType": "Premium"
-            },
-            {
                 "name": "BBC News",
-                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/BBC_News\/HLSv3-FTA\/BBC_News.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1o5wY2YlixM4zLN-rSy8mCH4zy2vHNyYM",
+                "url": "https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8",
+                "imageUrl": "https://drive.google.com/uc?export=download&id=1o5wY2YlixM4zLN-rSy8mCH4zy2vHNyYM",
                 "info": "Global news from BBC",
                 "accessType": "Free"
             },
             {
-                "name": "C1 TV",
-                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/C1\/HLSv3-FTA\/C1.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1oNTHbMiM2vzVrL588UMGIwYvPeBAla_Y",
-                "info": "General entertainment channel",
-                "accessType": "Free"
-            },
-            {
-                "name": "Edu TV",
-                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/Education\/HLSv3-FTA\/Education.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1olRaUMEVeGrGeMS2_85zFxvqCGsXKF66",
-                "info": "Educational programming",
-                "accessType": "Free"
-            },
-            {
-                "name": "ETV",
-                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/ETV\/HLSv3-FTA\/ETV.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1olVXcBIqXkHB-98bJq0MkN7YDnRyXHJe",
-                "info": "Mongolian entertainment channel",
-                "accessType": "Free"
-            },
-            {
-                "name": "MN25",
-                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/MN25\/HLSv3-FTA\/MN25.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1qrMiUaBzEJ2FLOZ2jVwLkSxfF8MwhOci",
-                "info": "Mongolian news and entertainment",
-                "accessType": "Free"
-            },
-            {
-                "name": "MNB",
-                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/MNB\/HLSv3-FTA\/MNB.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1pUa7rxM9Xw1uoT22mC0_mZbLQYWvQQqc",
-                "info": "Mongolian national broadcasting",
-                "accessType": "Free"
-            },
-            {
-                "name": "MNB World",
-                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/MNB_World\/HLSv3-FTA\/MNB_World.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1pYaugLLyK9saOq_wCXAWLrc-Wph__txQ",
-                "info": "Mongolian international channel",
-                "accessType": "Free"
-            },
-            {
-                "name": "ONTV",
-                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/ONTV\/HLSv3-FTA\/ONTV.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1q7mXU6Jrz7Igoych3ZUCYc1Lta4NaUK5",
-                "info": "Local entertainment and news",
-                "accessType": "Free"
-            },
-            {
-                "name": "Parlament",
-                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/Parlament\/HLSv3-FTA\/Parlament.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1q88Dhg31uuNr2btZXY47xDR3vTVyxFGO",
-                "info": "Parliamentary broadcasts",
-                "accessType": "Free"
-            },
-            {
-                "name": "TV7",
-                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/TV7\/HLSv3-FTA\/TV7.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1qrMiUaBzEJ2FLOZ2jVwLkSxfF8MwhOci",
-                "info": "General entertainment channel",
-                "accessType": "Free"
-            },
-            {
-                "name": "TV-4",
-                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/TV4\/HLSv3-FTA\/TV4.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1qrMiUaBzEJ2FLOZ2jVwLkSxfF8MwhOci",
-                "info": "Regional entertainment channel",
-                "accessType": "Free"
-            },
-            {
-                "name": "TV-Center",
-                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/TV_center\/HLSv3-FTA\/TV_center.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1qrMiUaBzEJ2FLOZ2jVwLkSxfF8MwhOci",
-                "info": "Central TV programming",
-                "accessType": "Free"
-            },
-            {
-                "name": "3ABN Kids",
-                "url": "https:\/\/3abn.bozztv.com\/3abn2\/Kids_live\/smil:Kids_live.smil\/playlist.m3u8",
-                "imageUrl": "https:\/\/i.imgur.com\/SUPQAok.png",
-                "info": "24\/7 Christian television channel.",
-                "accessType": "Premium"
-            },
-            {
-                "name": "ABC Me (720p)",
-                "url": "https:\/\/c.mjh.nz\/abc-me.m3u8",
-                "imageUrl": "https:\/\/i.imgur.com\/6NyFLAm.png",
-                "info": "Australian Broadcasting Corporation (Kids)",
-                "accessType": "Premium"
-            },
-            {
-                "name": "Afarin Baxcha (1080p)",
-                "url": "https:\/\/5dcabf026b188.streamlock.net\/afarinTV\/livestream\/playlist.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1tjs4GFvXqyihUheBHSZnkCZ1cZTXocHS",
-                "info": "IPTV Player",
-                "accessType": "Premium"
-            },
-            {
-                "name": "Bangla Vision",
-                "url": "https:\/\/d1e7rcqq4o2ma.cloudfront.net\/bpk-tv\/1715\/output\/1715-audio_113452_eng=113200-video=1692000.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1tIPAClufQeCIPNifC6tosad4gwZbIMSC",
-                "info": "Bangla Vision is a Bengali TV channel in Bangladesh",
-                "accessType": "Premium"
-            },
-            {
-                "name": "Independent TV",
-                "url": "https:\/\/d1e7rcqq4o2ma.cloudfront.net\/bpk-tv\/1704\/output\/1704-audio_113342_eng=113200-video=1692000.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1tUQNl5WS2mznCptfsgaJk3pUvJJJomiu",
-                "info": "Independent Television is a 24\/7 Bengali-language news channel in Bangladesh",
-                "accessType": "Premium"
-            },
-            {
-                "name": "Channel I",
-                "url": "https:\/\/d1e7rcqq4o2ma.cloudfront.net\/bpk-tv\/1723\/output\/1723-audio_113532_eng=113200-video=1692000.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1tuLJ8Nq09sbO9e--1vh3iEZyNLs2E0io",
-                "info": "News, Entertainment, and Cultural Programming",
-                "accessType": "Premium"
-            },
-            {
-                "name": "Somoy TV",
-                "url": "https:\/\/d1e7rcqq4o2ma.cloudfront.net\/bpk-tv\/1702\/output\/1702-audio_113322_eng=113200-video=1692000.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1tz9H2e0evzy6Ewt7cw0HlPLuhGeDG2u_",
-                "info": "24\/7 Bengali-language news channel in Bangladesh",
-                "accessType": "Premium"
-            },
-            {
-                "name": "NTV Bangla",
-                "url": "https:\/\/d1e7rcqq4o2ma.cloudfront.net\/bpk-tv\/1716\/output\/1716-audio_113462_eng=113200-video=1692000.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1u-19tJvpwKAFrol5FLvtncaK_d0MLNc4",
-                "info": "It offers a diverse mix of programming, including news, entertainment, dramas, and talk shows, and is accessible worldwide via satellite, cable, and online platforms. ",
-                "accessType": "Premium"
-            },
-            {
-                "name": "ATN Banla",
-                "url": "https:\/\/d1e7rcqq4o2ma.cloudfront.net\/bpk-tv\/1722\/output\/1722-audio_113522_eng=113200-video=1692000.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1u-9T4nxZo4Y-fNZIsb84vq81_bAA418q",
-                "info": "Mix of entertainment, news, and cultural programming.",
-                "accessType": "Premium"
-            },
-            {
-                "name": "ATN News",
-                "url": "https:\/\/d1e7rcqq4o2ma.cloudfront.net\/bpk-tv\/1706\/output\/1706-audio_113362_eng=113200-video=1692000.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1tuLJ8Nq09sbO9e--1vh3iEZyNLs2E0io",
-                "info": "New channel in Bangladesh",
-                "accessType": "Free"
-            },
-            {
-                "name": "Ekattor TV",
-                "url": "https:\/\/d1e7rcqq4o2ma.cloudfront.net\/bpk-tv\/1705\/output\/1705-audio_113352_eng=113200-video=1692000.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1u4idrAhx9fOmz2NHTS0KApvmP-zm8jz0",
-                "info": "New channel in Bangladesh.",
-                "accessType": "Free"
-            },
-            {
-                "name": "Channel 24",
-                "url": "https:\/\/d1e7rcqq4o2ma.cloudfront.net\/bpk-tv\/1703\/output\/1703-audio_113332_eng=113200-video=1692000.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1u76FEULtlsXQWTuCT9ZRGc0rc1Solvwk",
-                "info": "News channel in Bangladesh",
-                "accessType": "Free"
-            },
-            {
-                "name": "MY TV",
-                "url": "https:\/\/mytvbangla.com\/0.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1uCwgtm4l6TcvlTdKV9IvTvrF1YXktCqL",
-                "info": "Satellite and cable television channel in Bangladesh.",
-                "accessType": "Free"
-            },
-            {
-                "name": "Garage TV",
-                "url": "https:\/\/stream1.sersat.com\/hls\/garagetv.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1mf24VMjWrj3mEOmDVz0rr2dkcEPF9hM9",
-                "info": "Automotive movies and shows",
-                "accessType": "Free"
-            },
-            {
-                "name": "Popcorn [ 🚫 ] ",
-                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/Popcorn\/HLSv3-FTA\/Popcorn.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1qEClBnos0Y67y-n7LgFA3O7lm6sgoIOd",
-                "info": "Family-friendly movies",
-                "accessType": "Premium"
-            },
-            {
-                "name": "Great Commission TV",
-                "url": "http:\/\/45.32.115.103\/live\/livestream\/index.m3u8",
-                "imageUrl": "",
-                "info": "Cignal TV is the single, largest satellite-based cable TV in the Philippines, with a nationwide scope. Its wide scope provides opportunity for GCTV to reach millions of Filipino homes with the Gospel of Christ.",
-                "accessType": "Premium"
-            },
-            {
-                "name": "Kapamilya Channel",
-                "url": "https:\/\/tfc-72i.pages.dev\/kapamilya.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1xDsQ7PlUdGH2eM15TF_DzunOEI_ACs-w",
-                "info": "Kapamilya Channel HD is the high-definition (HD) version of the Kapamilya Channel, a 24-hour pay TV channel in the Philippines owned and operated by ABS-CBN Corporation.",
-                "accessType": "Premium"
-            },
-            {
-                "name": "MOR Entertainment",
-                "url": "https:\/\/abslive.akamaized.net\/hls\/live\/2028024\/mor\/master.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1xEOngycxi4K-7EPlfrHfj_XXpDOJGeTF",
-                "info": "MOR Entertainment (stylized as MORe) is the digital evolution of MOR (My Only Radio) by ABS-CBN, rebranded on February 14, 2021. It arose after the shutdown of MOR’s FM stations and carries forward the brand’s spirit in a fully online format .",
-                "accessType": "Free"
-            },
-            {
-                "name": "TFC Asia",
-                "url": "https:\/\/tfc.mark-projects.site\/tfcasia.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1xE-kObSfx1res9axZuG7bFb-G6HD19wS",
-                "info": "TFC Asia is the Asia-Pacific distribution of The Filipino Channel—offered via cable, satellite, IPTV, and streaming apps—bringing ABS-CBN’s full suite of entertainment and news to Filipinos abroad, with flexible access in HD, live, and on-demand formats.",
-                "accessType": "Premium"
-            },
-            {
-                "name": "CinemaOne",
-                "url": "https:\/\/tfc.mark-projects.site\/cinemaone.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1xNCeMwSC2KGxd_oe3J8EF2HaUEka6rzT",
-                "info": "Cinema One is your go‑to channel for quality Filipino cinema—constantly evolving since the ’90s, topping cable ratings, celebrating indie voices through Cinema One Originals, and expanding online. Whether on cable, Cignal, TV5, or iWantTFC, it’s “laging kasama” for movie lovers!",
-                "accessType": "Premium"
-            },
-            {
-                "name": "CRUNCHYROLL",
-                "url": "https:\/\/service-stitcher.clusters.pluto.tv\/v1\/stitch\/embed\/hls\/channel\/65652f7fc0fc88000883537alivestitch\/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1xYnbMewBp9arXBGKaIoSxB6mwExx15rm",
-                "info": "Crunchyroll is the go-to anime streaming service for fans—offering a huge, constantly updated library, simulcasts, offline viewing, and community features. In the Philippines, plans are affordable and accessible via various payment methods.",
-                "accessType": "Premium"
-            },
-            {
-                "name": "GMA Pinoy TV",
-                "url": "https:\/\/ott.udptv.net\/stream\/iptv\/gmapinoytv\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1xdM_uEBzP8cVsisB2oO-StJU-axFO6rT",
-                "info": "A 24\/7 international pay-TV channel launched in March 2005, targeting Filipino diaspora globally  .\n\nOffers popular GMA Network shows, movies, news, public affairs, and special events, typically on a one-episode delay  .\n\nAvailable via cable\/satellite worldwide and streaming as part of iWantTFC’s “GMA Pinoy Bundle” since May 2023.",
-                "accessType": "Premium"
-            },
-            {
-                "name": "GMA7 (GMA Network)",
-                "url": "https:\/\/ott.udptv.net\/stream\/iptv\/gma\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1nJzZZ21EvjgQ2aDJ_AlqdDpi_hIBPlti",
-                "info": "GMA7 (GMA Network)\n\nThe flagship free-to-air television station in the Philippines, home to top-rated programs like 24 Oras, Kapuso Mo, Jessica Soho, teleseryes, variety, and entertainment complexes.",
-                "accessType": "Premium"
-            },
-            {
-                "name": "GMA News TV (now GTV International)",
-                "url": "https:\/\/ott.udptv.net\/stream\/iptv\/gmanewstv\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1xjuxrlhcs3ZFrmRu50LjdVNUENoA4ZCe",
-                "info": "GMA News TV (now GTV International)\n\nLaunched February 2011 as a news\/public affairs channel  .\n\nRebranded domestically to GTV in February 2021, shifting towards a mix of news, entertainment, and sports  .\n\nStill available internationally under the same name, offering news and public affairs to overseas audiences.",
-                "accessType": "Premium"
-            },
-            {
-                "name": "GMA Life TV",
-                "url": "https:\/\/ott.udptv.net\/stream\/iptv\/gmalifetv\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13 ",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1xp3khltIz1vxAvWjw5RUIi9EcoeDaTPQ",
-                "info": "Launched in February 2008 as a lifestyle and infotainment channel  .\n\nAirs travel, cooking, health, beauty, talk shows, documentaries, and re-runs of GMA\/ GTV lifestyle content.",
-                "accessType": "Premium"
-            },
-            {
-                "name": "OneSports (formerly 5 Plus\/ESPN5\/Sports5)",
-                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/onesports\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13 ",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1xgscImP37WiVMp5xt9j6riaHsUjrb9IR",
-                "info": "A Philippine free-to-air sports channel owned by Nation Broadcasting Corp. and operated jointly with TV5\/Search & MediaQuest.\n\nShows include PBA, NBA, UAAP (Finals), PVL, NCAA, FIBA, ONE Championship, UFC, boxing, WWE, e-sports, and more.\n\nBroadcasts are on free TV (UHF 41 in Manila) and Cignal Play; its pay-TV version is called One Sports+, offering 24\/7 sports content via Cignal.",
-                "accessType": "Premium"
-            },
-            {
-                "name": "TV5 'HD'",
-                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/tv5hd\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13 ",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1xudpu4GR3TtZf7PYxr_QzhJapnKxQ2ig",
-                "info": "The main free-to-air general entertainment network of TV5 Network, part of the MediaQuest group (alongside One Sports).\n\nOffers news, entertainment, sports, drama, and reality content; often carries One Sports events.",
-                "accessType": "Premium"
-            },
-            {
-                "name": "ANIPLUS",
-                "url": "https:\/\/ott.udptv.net\/stream\/iptv\/aniplus\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13 ",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1y5zkf2fN_KN08eausE0-CFdt41msGfV2",
-                "info": "A regional anime channel (Korean-based) airing licensed anime; limited online info Philippines-specific.\n\nOften bundled in satellite\/cable anime packs but requires direct search for local availability.",
-                "accessType": "Premium"
-            },
-            {
-                "name": "Jeepney TV",
-                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/jeepneytv\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1y45NhaaTW37gnqbokQKX1aCvnvA1geWR",
-                "info": "Focused on classic ABS‑CBN series, nostalgia programming—old teleseryes, variety, kids’ shows.\n\nNot covered in latest results but widely available on cable, iWantTFC, and free-to-air via A2Z.",
-                "accessType": "Premium"
-            },
-            {
-                "name": "SCREAMFLIX",
-                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/screamflix\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1y1VP_HwqZKVzONumr6qK3_jGHdvCwY1p",
-                "info": "A horror movie channel launched in mid‑2022, replacing ETC on selected Philippine cable providers  .\n\nFeatures Asian, European, and Hollywood horror films—slashers, paranormal, psychological thrillers.",
-                "accessType": "Premium"
-            },
-            {
-                "name": "ANIMAX",
-                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/animax\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1xpaGLyOqlf5kPDk1gBHPxx4Oah2Lparz",
-                "info": "Animax\n\nA dedicated anime channel operating in Asia for nearly 20 years  .\n\nProvides blockcasts, simulcasts of titles from Japan like One Punch Man, Cells at Work!, Seven Deadly Sins, etc.  .\n\nAvailable on Cignal (e.g., Ch. 46), MySKY plans, and TrueID for streaming  .",
-                "accessType": "Premium"
-            },
-            {
-                "name": "BBC-Earth",
-                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/BBC_earth\/HLSv3-FTA\/BBC_earth.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1nx1a_nnjPKNrM7jLlv9KkGQtV63xFZHc",
-                "info": "Nature and science series",
-                "accessType": "Premium"
-            },
-            {
-                "name": "BBC-Lifestyle",
-                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/BBC_lifestyle\/HLSv3-FTA\/BBC_lifestyle.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1nyuR-wU8PFyAKGTXRTU69d8UU2N3XvPg",
-                "info": "Lifestyle and reality series",
-                "accessType": "Premium"
-            },
-            {
-                "name": "Discovery Asia",
-                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/Discovery_Asia\/HLSv3-FTA\/Discovery_Asia.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1oUSY7e1Yh0QQKln7b6UXCt_Xo0lM4y6H",
-                "info": "Documentary and adventure series",
-                "accessType": "Premium"
-            },
-            {
-                "name": "Dreambox",
-                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/Dreambox\/HLSv3-FTA\/Dreambox.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1oWGpK6LNVzIgaTyJtL3WNuGAUXqjPeY1",
-                "info": "Drama and entertainment series",
-                "accessType": "Free"
-            },
-            {
-                "name": "MNCTV",
-                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/MNCTV\/HLSv3-FTA\/MNCTV.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1pmMkE3a2Atn5zIyUnizKtE_Cmgf25RbZ",
-                "info": "Indonesian drama series",
-                "accessType": "Free"
-            },
-            {
-                "name": "ADO TV (720p)",
-                "url": "https:\/\/strhls.streamakaci.tv\/ortb\/ortb2-multi\/playlist.m3u8",
-                "imageUrl": "https:\/\/i.imgur.com\/pxFamLr.png",
-                "info": "IPTV Player",
-                "accessType": "Premium"
-            },
-            {
-                "name": "ABC (KABC)",
-                "url": "https:\/\/ott.udptv.org\/stream\/udptvus\/kabc\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https:\/\/github.com\/tv-logo\/tv-logos\/blob\/main\/countries\/united-states\/us-local\/abc-7-kabc-us.png?raw=true",
-                "info": "",
-                "accessType": "Premium"
-            },
-            {
-                "name": "ABC(KGO)",
-                "url": "https:\/\/ott.udptv.org\/stream\/udptvus\/abckgo\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https:\/\/github.com\/tv-logo\/tv-logos\/blob\/main\/countries\/united-states\/us-local\/abc-7-kabc-us.png?raw=true",
-                "info": "",
-                "accessType": "Premium"
-            },
-            {
-                "name": "ABC (WABC)",
-                "url": "https:\/\/ott.udptv.org\/stream\/udptvus\/wabc\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https:\/\/github.com\/tv-logo\/tv-logos\/blob\/main\/countries\/united-states\/us-local\/abc-7-kabc-us.png?raw=true",
-                "info": "",
-                "accessType": "Premium"
-            },
-            {
-                "name": "ABC Australia",
-                "url": "https:\/\/ott.udptv.org\/stream\/astro\/abcaustralia\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/57\/ABC_Australia_logo.svg\/350px-ABC_Australia_logo.svg.png",
-                "info": "",
-                "accessType": "Premium"
-            },
-            {
-                "name": "ABC News Live",
-                "url": "https:\/\/ott.udptv.org\/stream\/udptvus\/abcnewslive\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https:\/\/github.com\/tv-logo\/tv-logos\/blob\/main\/countries\/united-states\/abc-news-live-hz-us.png?raw=true",
-                "info": "",
-                "accessType": "Premium"
-            },
-            {
-                "name": "Adult Swim CA",
-                "url": "https:\/\/ott.udptv.com\/stream\/udptv\/adultswim\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https:\/\/github.com\/tv-logo\/tv-logos\/blob\/main\/countries\/canada\/adult-swim-ca.png?raw=true",
-                "info": "",
-                "accessType": "Premium"
-            },
-            {
-                "name": "Al Jazeera",
-                "url": "https:\/\/ott.udptv.org\/stream\/astro\/aljazeera\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/aljazeera-uk.png",
-                "info": "",
-                "accessType": "Premium"
-            },
-            {
-                "name": "ALL TV",
-                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/alltv\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https:\/\/brandlogo.org\/wp-content\/uploads\/2024\/05\/All-TV-Logo-300x300.png.webp",
-                "info": "",
-                "accessType": "Premium"
-            },
-            {
-                "name": "AMC",
-                "url": "https:\/\/ott.udptv.org\/stream\/udptvus\/amc\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/spain\/amc-es.png",
-                "info": "",
-                "accessType": "Premium"
-            },
-            {
-                "name": "AMC IT",
-                "url": "https:\/\/ott.udptv.com\/stream\/udptv\/amc\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/spain\/amc-es.png",
-                "info": "",
-                "accessType": "Premium"
-            },
-            {
-                "name": "ANC Global",
-                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/ancglobal\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https:\/\/static.wikia.nocookie.net\/russel\/images\/4\/4c\/ANC_Logo_2015.png",
-                "info": "",
-                "accessType": "Premium"
-            },
-            {
                 "name": "ANC PH",
-                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/ancph\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https:\/\/static.wikia.nocookie.net\/russel\/images\/4\/4c\/ANC_Logo_2015.png",
-                "info": "",
+                "url": "http://ott.udptv.net/stream/iptv/ancph/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
+                "imageUrl": "https://static.wikia.nocookie.net/russel/images/4/4c/ANC_Logo_2015.png",
+                "info": "ABS-CBN News Channel",
                 "accessType": "Premium"
+            }
+        ],
+        "Kids": [
+            {
+                "name": "Boomerang",
+                "url": "https://cdn4.skygo.mn/live/disk1/Boomerang/HLSv3-FTA/Boomerang.m3u8",
+                "imageUrl": "https://drive.google.com/uc?export=download&id=1oN9q5IoHb01gAXQgL_fEb78fcmuPMo6B",
+                "info": "Classic cartoons",
+                "accessType": "Free"
             },
             {
-                "name": "Animal Planet",
-                "url": "https:\/\/ott.udptv.org\/stream\/astro\/animalplanet\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/international\/animal-planet-int.png",
-                "info": "",
-                "accessType": "Premium"
+                "name": "Cbeebies",
+                "url": "https://cdn4.skygo.mn/live/disk1/Cbeebies/HLSv3-FTA/Cbeebies.m3u8",
+                "imageUrl": "https://drive.google.com/uc?export=download&id=1oQPOUr-48IMTD_e3rRVIVceat3XUeywB",
+                "info": "Children’s shows",
+                "accessType": "Free"
             },
             {
-                "name": "Asian Food Network",
-                "url": "https:\/\/ott.udptv.net\/stream\/iptv\/asianfoodnetwork\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https:\/\/github.com\/tv-logo\/tv-logos\/blob\/main\/countries\/hong-kong\/asian-food-network-hk.png?raw=true",
-                "info": "",
-                "accessType": "Premium"
-            },
-            {
-                "name": "Astro Premier Sports",
-                "url": "https:\/\/ott.udptv.org\/stream\/astro\/premiersports\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/premier-sports-1-uk.png",
-                "info": "",
-                "accessType": "Premium"
-            },
-            {
-                "name": "DZMM Teleradyo",
-                "url": "https:\/\/cdn-ue1-prod.tsv2.amagi.tv\/linear\/amg01006-abs-cbn-teleradyo-dash-abscbnono\/9372936c-85af-4fa1-8c0f-b7e6aec90340\/index.mpd",
-                "imageUrl": "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/c\/cc\/DZMM_TeleRadyo.png\/300px-DZMM_TeleRadyo.png",
-                "info": "",
-                "accessType": "Premium"
-            },
-            {
-                "name": "Bein Sports Xtra",
-                "url": "https:\/\/amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv\/playlist.m3u8",
-                "imageUrl": "https:\/\/teamhandballnews.com\/wp-content\/uploads\/2020\/01\/beIN-SPORTS-XTRA_LOGO-1024x127.png",
-                "info": "",
-                "accessType": "Premium"
-            },
-            {
-                "name": "Billonaryo News Channel",
-                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/billonaryonewschannel\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https:\/\/static.wikia.nocookie.net\/russel\/images\/a\/a8\/Bilyonaryo_News_Channel_Logo_2024.png",
-                "info": "",
-                "accessType": "Premium"
-            },
-            {
-                "name": "Blast Sports",
-                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/blastsports\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https:\/\/i.imgur.com\/XxHlcBN.png",
-                "info": "",
-                "accessType": "Premium"
-            },
-            {
-                "name": "Buko",
-                "url": "https:\/\/ott.udptv.net\/stream\/iptv\/buko\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https:\/\/upload.wikimedia.org\/wikipedia\/en\/c\/c0\/BuKo_Buhay_Komedya_Logo.jpg",
-                "info": "",
-                "accessType": "Premium"
-            },
-            {
-                "name": "Cartoon Network MY",
-                "url": "https:\/\/ott.udptv.org\/stream\/astro\/astrocartoonnetwork\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https:\/\/i.imgur.com\/8mfFj4h.png",
-                "info": "",
-                "accessType": "Premium"
-            },
-            {
-                "name": "CBS",
-                "url": "https:\/\/ott.udptv.com\/stream\/fubo\/cbs\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https:\/\/github.com\/tv-logo\/tv-logos\/blob\/main\/countries\/united-states\/cbs-logo-white-us.png?raw=true",
-                "info": "",
-                "accessType": "Premium"
-            },
-            {
-                "name": "CBS Sports Golazo",
-                "url": "https:\/\/ott.udptv.com\/stream\/udptv\/cbssportsgolazo\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https:\/\/github.com\/tv-logo\/tv-logos\/blob\/main\/countries\/united-states\/cbs-sports-golazo-network-us.png?raw=true",
-                "info": "",
-                "accessType": "Premium"
-            },
-            {
-                "name": "Cignal Dreamworks",
-                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/cignaldreamworks\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https:\/\/i.imgur.com\/cgfKSDP.png",
-                "info": "",
-                "accessType": "Premium"
-            },
-            {
-                "name": "Cinema One PH",
-                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/cinemaoneph\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https:\/\/i.imgur.com\/hJ6MBiA.png",
-                "info": "",
-                "accessType": "Premium"
-            },
-            {
-                "name": "DZRH TV",
-                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/dzrhtv\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https:\/\/i.imgur.com\/2nvjsfy.png",
-                "info": "",
-                "accessType": "Premium"
-            },
-            {
-                "name": "GTV",
-                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/gtv\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https:\/\/i.imgur.com\/geuq18u.png",
-                "info": "",
-                "accessType": "Premium"
-            },
-            {
-                "name": "HBO Boxing",
-                "url": "https:\/\/ott.udptv.net\/stream\/iptv\/hboboxing\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https:\/\/m.media-amazon.com\/images\/G\/01\/LCXO_Station_Logos\/Freevee_HBOBoxing_1920x1080_new._SL170_FMpng_.png",
-                "info": "",
-                "accessType": "Premium"
-            },
-            {
-                "name": "Heart of Asia",
-                "url": "https:\/\/ott.udptv.net\/stream\/iptv\/heartofasia\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/c\/cd\/Heart_of_Asia_logo.svg\/400px-Heart_of_Asia_logo.svg.png",
-                "info": "",
-                "accessType": "Premium"
-            },
-            {
-                "name": "Jeepney TV",
-                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/jeepneytv\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https:\/\/static.wikia.nocookie.net\/russel\/images\/2\/24\/Jeepney_TV_Logo_2015.png\/revision\/latest\/scale-to-width-down\/300?cb=20220516124640",
-                "info": "",
-                "accessType": "Premium"
-            },
-            {
-                "name": "iHeart Movies",
-                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/jeepneytv\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https:\/\/static.wikia.nocookie.net\/logopedia\/images\/6\/6f\/Iheartmovies1.png",
-                "info": "",
-                "accessType": "Premium"
-            },
-            {
-                "name": "Jugo Pinoy TV",
-                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/jugopinoytv\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https:\/\/dito.ph\/hubfs\/Dito_July2021\/Ott%20Pages\/Jungo-img\/Jungo-logo.png",
-                "info": "",
-                "accessType": "Premium"
-            },
-            {
-                "name": "Knowledge Channel",
-                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/knowledgechannel\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https:\/\/static.wikia.nocookie.net\/logopedia\/images\/9\/9b\/Knowledge-Channel.png",
-                "info": "",
-                "accessType": "Premium"
-            },
-            {
-                "name": "K-Plus",
-                "url": "https:\/\/ott.udptv.org\/stream\/astro\/kplus\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https:\/\/i.imgur.com\/iomniFU.png",
-                "info": "",
-                "accessType": "Premium"
-            },
-            {
-                "name": "Lifetime",
-                "url": "https:\/\/ott.udptv.org\/stream\/astro\/lifetime\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https:\/\/i.imgur.com\/iIp0xDS.png",
-                "info": "",
-                "accessType": "Premium"
-            },
-            {
-                "name": "Lotus Macau",
-                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/lotusmacau\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https:\/\/i.imgur.com\/W1u8QdQ.png",
-                "info": "",
-                "accessType": "Premium"
-            },
-            {
-                "name": "Love Nature",
-                "url": "https:\/\/ott.udptv.org\/stream\/astro\/lovenature\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https:\/\/github.com\/tv-logo\/tv-logos\/blob\/main\/countries\/united-kingdom\/love-nature-uk.png?raw=true",
-                "info": "",
-                "accessType": "Premium"
-            },
-            {
-                "name": "National Geographic Channel US",
-                "url": "https:\/\/ott.udptv.org\/stream\/udptvus\/nationalgeographic\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-states\/national-geographic-us.png",
-                "info": "",
-                "accessType": "Premium"
-            },
-            {
-                "name": "National Geographic Channel CA",
-                "url": "https:\/\/ott.udptv.com\/stream\/udptv\/nationalgeographicca\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-states\/national-geographic-us.png",
-                "info": "",
-                "accessType": "Premium"
-            },
-            {
-                "name": "National Geographic Channel",
-                "url": "https:\/\/ott.udptv.com\/stream\/udptv\/nationalgeographicchannel\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/italy\/national-geographic-it.png",
-                "info": "",
-                "accessType": "Premium"
-            },
-            {
-                "name": "Nat Geo Wild US",
-                "url": "https:\/\/ott.udptv.org\/stream\/udptvus\/natgeowild\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/refs\/heads\/main\/countries\/poland\/nat-geo-wild-pl.png",
-                "info": "",
-                "accessType": "Premium"
-            },
-            {
-                "name": "NBA TV HDTV",
-                "url": "https:\/\/ott.udptv.com\/stream\/udptv\/nbatvhdtv\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https:\/\/m.media-amazon.com\/images\/G\/01\/digital\/video\/Linear_Clean_Slate\/NBA_TV_HDTV._SL170_FMpng_.png",
-                "info": "",
-                "accessType": "Premium"
-            },
-            {
-                "name": "NBA TV Philippines",
-                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/nbatvphilippines\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https:\/\/i.imgur.com\/g5Q35IH.png",
-                "info": "",
-                "accessType": "Premium"
-            },
-            {
-                "name": "NBA TV USA",
-                "url": "https:\/\/ott.udptv.org\/stream\/udptvus\/nbatv\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https:\/\/github.com\/tv-logo\/tv-logos\/blob\/main\/countries\/united-states\/nba-tv-us.png?raw=true",
-                "info": "",
-                "accessType": "Premium"
-            },
-            {
-                "name": "NET25",
-                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/net25\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https:\/\/static.wikia.nocookie.net\/russel\/images\/9\/9d\/Net_25_Logo_2021.png\/revision\/latest\/scale-to-width-down\/1200?cb=20220810102057",
-                "info": "",
+                "name": "CARTOON NETWORK",
+                "url": "https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8",
+                "imageUrl": "https://drive.google.com/uc?export=download&id=1oOUC7NmgOPsM8SK9gW4Y8uj_W3u3wsyx",
+                "info": "Animated series",
                 "accessType": "Premium"
             },
             {
                 "name": "Nickelodeon",
-                "url": "https:\/\/ott.udptv.org\/stream\/astro\/nickelodeon\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https:\/\/i.imgur.com\/kbIi1V6.png",
-                "info": "",
+                "url": "https://ott.udptv.org/stream/astro/nickelodeon/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
+                "imageUrl": "https://i.imgur.com/kbIi1V6.png",
+                "info": "Kids favorite shows",
                 "accessType": "Premium"
             },
             {
-                "name": "PBA Rush",
-                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/pbarush\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https:\/\/i.imgur.com\/tvxCVRr.png",
-                "info": "",
-                "accessType": "Premium"
-            },
-            {
-                "name": "PBB All-Access Livestream",
-                "url": "https:\/\/ott.udptv.net\/stream\/iptv\/pbballaccesslivestream\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https:\/\/i.imgur.com\/aEnPH2R.png",
-                "info": "",
-                "accessType": "Premium"
-            },
-            {
-                "name": "Premier Sports",
-                "url": "https:\/\/ott.udptv.net\/stream\/iptv\/premiersports\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https:\/\/img.dge-prod.dicelaboratory.com\/original\/2023\/11\/10172037-slfpj2wmabtpkf9y.png",
-                "info": "",
-                "accessType": "Premium"
-            },
-            {
-                "name": "PTV",
-                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/ptv\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https:\/\/i.imgur.com\/plyCuAw.png",
-                "info": "",
-                "accessType": "Free"
-            },
-            {
-                "name": "Sari Sari",
-                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/sarisari\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https:\/\/i.imgur.com\/IDCHfXm.png",
-                "info": "",
+                "name": "Cignal Dreamworks",
+                "url": "http://ott.udptv.net/stream/iptv/cignaldreamworks/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
+                "imageUrl": "https://i.imgur.com/cgfKSDP.png",
+                "info": "Dreamworks animations",
                 "accessType": "Premium"
             }
         ],
         "Movies": [
             {
-                "name": "Hope for What We Do Not See",
-                "url": "http:\/\/206.189.156.0\/videojw.mp4",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1vdeYUUS2UkvnehP_pBJwkUA4JYXj0P0B",
-                "info": "The ancient man Job faced tests of integrity that involved a series of tragic events. Look in on the life of the Bannister family as they experience similar tests of integrity in a modern-day setting. In the end, what helped them get their perspective?",
-                "accessType": "Free"
-            },
-            {
-                "name": "Remember the Wife of Lot ​— Part 1",
-                "url": "http:\/\/206.189.156.0\/vidp1.mp4",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1veyFJufKIyYyr6VAlGgXLivEEUufDv7n",
-                "info": "This video is based on the Bible account of Lot and his family found in Genesis chapters 18 and 19. Jehovah rescued Lot, his wife, and their daughters from the destruction of the wicked cities of Sodom and Gomorrah. However, Lot’s wife looked back despite God’s clear command not to—and she was turned into a pillar of salt (Genesis 19:26).\n\nJesus later reminded his followers of this event, saying:\n“Remember the wife of Lot.” —Luke 17:32.\n\nThis serves as a powerful warning for us today:\n\nDon’t look back at the world with longing.\n\nDon’t let material things or past lifestyles distract us.\n\nStay obedient and focused on Jehovah’s direction, especially as the end of this system draws near.",
-                "accessType": "Free"
-            },
-            {
-                "name": "Remember the Wife of Lot ​— Part 2",
-                "url": "http:\/\/206.189.156.0\/video2.mp4",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1veyFJufKIyYyr6VAlGgXLivEEUufDv7n",
-                "info": "This video is based on the Bible account of Lot and his family found in Genesis chapters 18 and 19. Jehovah rescued Lot, his wife, and their daughters from the destruction of the wicked cities of Sodom and Gomorrah. However, Lot’s wife looked back despite God’s clear command not to—and she was turned into a pillar of salt (Genesis 19:26).\n\nJesus later reminded his followers of this event, saying:\n“Remember the wife of Lot.” —Luke 17:32.\n\nThis serves as a powerful warning for us today:\n\nDon’t look back at the world with longing.\n\nDon’t let material things or past lifestyles distract us.\n\nStay obedient and focused on Jehovah’s direction, especially as the end of this system draws near.",
-                "accessType": "Free"
-            },
-            {
-                "name": "Remember the Wife of Lot ​— Part 3",
-                "url": "http:\/\/206.189.156.0\/vidp3.mp4",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1veyFJufKIyYyr6VAlGgXLivEEUufDv7n",
-                "info": "This video is based on the Bible account of Lot and his family found in Genesis chapters 18 and 19. Jehovah rescued Lot, his wife, and their daughters from the destruction of the wicked cities of Sodom and Gomorrah. However, Lot’s wife looked back despite God’s clear command not to—and she was turned into a pillar of salt (Genesis 19:26).\n\nJesus later reminded his followers of this event, saying:\n“Remember the wife of Lot.” —Luke 17:32.\n\nThis serves as a powerful warning for us today:\n\nDon’t look back at the world with longing.\n\nDon’t let material things or past lifestyles distract us.\n\nStay obedient and focused on Jehovah’s direction, especially as the end of this system draws near.",
-                "accessType": "Free"
-            },
-            {
-                "name": "AMC Thrillers",
-                "url": "https:\/\/ott.udptv.org\/stream\/udptvus\/amcthrillers\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https:\/\/github.com\/tv-logo\/tv-logos\/blob\/main\/misc\/vod\/amc-thrillers-vod.png?raw=true",
-                "info": "",
-                "accessType": "Premium"
-            },
-            {
-                "name": "Astro Cinemax",
-                "url": "https:\/\/ott.udptv.org\/stream\/astro\/astrocinemax\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https:\/\/i.imgur.com\/YomkvVa.png",
-                "info": "",
-                "accessType": "Premium"
-            },
-            {
-                "name": "HBO+",
-                "url": "http:\/\/190.11.225.124:5000\/live\/hbo_plus_hd\/playlist.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1xV8sMSWEevWjjKi5qZNGAWRB_Klw2AqH",
-                "info": "HBO Plus is a premium television channel that is part of the HBO Latin America group. It is not a streaming service like HBO Max or Max.",
-                "accessType": "Premium"
-            },
-            {
-                "name": "Pluto TV Terror",
-                "url": "https:\/\/cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv\/stitch\/hls\/channel\/5c6dc88fcd232425a6e0f06e\/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d538d4a-eca6-11ee-9b07-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1d46700b-592d-4f6f-93de-a6b6130e0763&userId=&serverSideAds=true",
-                "imageUrl": "https:\/\/images.pluto.tv\/channels\/5c6dc88fcd232425a6e0f06e\/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000",
-                "info": "The scariest, goriest, most extreme horror movies ever unleashed are here to petrify you all day and all night on Pluto TV Terror. Lock the doors, turn on the lights, and tell yourself “It’s only a movie!",
-                "accessType": "Premium"
-            },
-            {
-                "name": "Pluto TV Horror",
-                "url": "https:\/\/cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv\/stitch\/hls\/channel\/569546031a619b8f07ce6e25\/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d538c50-eca6-11ee-80a3-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=24679ab7-1b40-4f8d-bff0-375370f264c0&userId=&serverSideAds=true",
-                "imageUrl": "https:\/\/images.pluto.tv\/channels\/569546031a619b8f07ce6e25\/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000",
-                "info": "Horror fans rejoice, your channel is alive. It’s a never ending fright-fest on Pluto TV Horror. Don’t turn on the lights, don’t answer the door, and don’t change that channel.",
-                "accessType": "Premium"
-            },
-            {
-                "name": "Pluto TV Thrillers",
-                "url": "https:\/\/cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv\/stitch\/hls\/channel\/5b4e69e08291147bd04a9fd7\/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d538bc4-eca6-11ee-b015-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d3110b35-4954-48c8-b05e-c2abbdbd502d&userId=&serverSideAds=true",
-                "imageUrl": "https:\/\/images.pluto.tv\/channels\/5b4e69e08291147bd04a9fd7\/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000",
-                "info": "Your pulse is pounding, your fists are clenched, and there's danger around every corner. You must be watching Pluto TV Thrillers, where devious masterminds scheme, killers stalk the night, spies evade capture, and you sit on the edge of your seat.",
-                "accessType": "Premium"
-            },
-            {
-                "name": "Pluto TV Crime Movies",
-                "url": "https:\/\/cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv\/stitch\/hls\/channel\/5f4d8594eb979c0007706de7\/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d538b2e-eca6-11ee-8295-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6989125c-7089-43e1-9304-ef10eb566a21&userId=&serverSideAds=true",
-                "imageUrl": "https:\/\/images.pluto.tv\/channels\/5f4d8594eb979c0007706de7\/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000",
-                "info": "Cops and robbers, conmen and convicts, gangsters and grifters — the toughest guys on both sides of the law are on Pluto TV Crime Movies.",
-                "accessType": "Premium"
-            },
-            {
-                "name": "Pluto TV Romance",
-                "url": "https:\/\/cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv\/stitch\/hls\/channel\/5a66795ef91fef2c7031c599\/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d538a70-eca6-11ee-98d2-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3212896f-cf34-4be5-917e-ae1aee1c0a07&userId=&serverSideAds=true",
-                "imageUrl": "https:\/\/images.pluto.tv\/channels\/5a66795ef91fef2c7031c599\/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000",
-                "info": "If you believe in love at first sight, if you're looking to be swept off your feet, and if you've always wanted to stop that special someone at the airport to say how you really feel, then we request the pleasure of your company on Pluto TV Romance.",
-                "accessType": "Premium"
-            },
-            {
-                "name": "Pluto TV Fantastic",
-                "url": "https:\/\/cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv\/stitch\/hls\/channel\/5b64a245a202b3337f09e51d\/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d5385d4-eca6-11ee-8078-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a8d191eb-9616-40b7-9d49-abbceb00f273&userId=&serverSideAds=true",
-                "imageUrl": "https:\/\/images.pluto.tv\/channels\/5b64a245a202b3337f09e51d\/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000",
-                "info": "Escape into worlds beyond our own with Pluto TV Fantastic. Every day we bring you movies with grand adventures, magical creatures, and intergalactic action. Get transported now.",
-                "accessType": "Premium"
-            },
-            {
-                "name": "Pluto TV Drama",
-                "url": "https:\/\/cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv\/stitch\/hls\/channel\/5b4e92e4694c027be6ecece1\/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d538548-eca6-11ee-ae65-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bd11756c-6dd2-4ca1-bd30-987c52f0cc69&userId=&serverSideAds=true",
-                "imageUrl": "https:\/\/images.pluto.tv\/channels\/5b4e92e4694c027be6ecece1\/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000",
-                "info": "On Pluto TV Drama, serious film is taken... seriously. Some of best cinematic dramas of all time can be experienced here, in all their angsty, gritty, sometimes heartbreaking, sometimes heartwarming glory.",
-                "accessType": "Premium"
-            },
-            {
-                "name": "Pluto TV Comedy",
-                "url": "https:\/\/cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv\/stitch\/hls\/channel\/5a4d3a00ad95e4718ae8d8db\/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d538426-eca6-11ee-9bf7-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b3a0eca6-c707-433c-85fa-7a3b2d1a87e2&userId=&serverSideAds=true",
-                "imageUrl": "https:\/\/images.pluto.tv\/channels\/5a4d3a00ad95e4718ae8d8db\/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000",
-                "info": "For the most hilarious, most quotable, most excellent movies that will keep you in stitches 24\/7, watch Pluto TV Comedy. With a library of lunacy and a litany of ludicrousness, this is the place when you are looking to LOL.",
-                "accessType": "Premium"
-            },
-            {
-                "name": "Pluto TV Reaction",
-                "url": "https:\/\/cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv\/stitch\/hls\/channel\/617b37b361e0fd0008cfd8c5\/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d538386-eca6-11ee-b8d2-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e8bfa24c-7608-4afa-a260-12b498279878&userId=&serverSideAds=true",
-                "imageUrl": "https:\/\/images.pluto.tv\/channels\/617b37b361e0fd0008cfd8c5\/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000",
-                "info": "Pluto TV Reaction brings you more of the adrenaline-fueled films you crave, anytime, day or night.",
-                "accessType": "Premium"
-            },
-            {
-                "name": "Pluto TV Reaction",
-                "url": "https:\/\/cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv\/stitch\/hls\/channel\/617b37b361e0fd0008cfd8c5\/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d538386-eca6-11ee-b8d2-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e8bfa24c-7608-4afa-a260-12b498279878&userId=&serverSideAds=true",
-                "imageUrl": "https:\/\/images.pluto.tv\/channels\/617b37b361e0fd0008cfd8c5\/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000",
-                "info": "Pluto TV Reaction brings you more of the adrenaline-fueled films you crave, anytime, day or night.",
-                "accessType": "Premium"
-            },
-            {
-                "name": "Pluto TV Action",
-                "url": "https:\/\/cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv\/stitch\/hls\/channel\/561d7d484dc7c8770484914a\/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d5381ba-eca6-11ee-88af-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=32f9d3d2-7b34-4d4f-985e-2f6f948982ee&userId=&serverSideAds=true",
-                "imageUrl": "https:\/\/images.pluto.tv\/channels\/561d7d484dc7c8770484914a\/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000",
-                "info": "It’s time to go into overdrive by jumping off buildings, flying a burning plane, driving in a car chase and saving the world. Pluto TV Action brings you blockbusters, stars, and a strong dose of high-octane excitement.",
-                "accessType": "Premium"
-            },
-            {
-                "name": "Pluto TV Icons",
-                "url": "https:\/\/cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv\/stitch\/hls\/channel\/64b585f84ea480000838e446\/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d53811a-eca6-11ee-9ab5-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dee0b8c4-bd16-4ca9-8ee6-4aaf7468736e&userId=&serverSideAds=true",
-                "imageUrl": "https:\/\/images.pluto.tv\/channels\/64b585f84ea480000838e446\/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000",
-                "info": "If there’s one thing Pluto TV understands, it’s being among the stars. Watch the brightest talents throughout Hollywood history in the roles that made them legendary on Pluto TV Icons.",
-                "accessType": "Premium"
-            },
-            {
-                "name": "Pluto TV Spotlight",
-                "url": "https:\/\/cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv\/stitch\/hls\/channel\/5ba3fb9c4b078e0f37ad34e8\/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d538048-eca6-11ee-90c1-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=51b341af-cba2-4b14-b4a5-81fa089644a3&userId=&serverSideAds=true",
-                "imageUrl": "https:\/\/images.pluto.tv\/channels\/5ba3fb9c4b078e0f37ad34e8\/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000",
-                "info": "Roll out the red carpet and turn down the lights, because the biggest movies are here on Pluto TV Spotlight.",
-                "accessType": "Premium"
-            },
-            {
-                "name": "Celestial Movies Pinoy",
-                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/celestialmoviespinoy\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https:\/\/i.imgur.com\/EUlYIWv.png",
-                "info": "",
-                "accessType": "Premium"
-            },
-            {
-                "name": "Cinemax",
-                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/cinemax\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https:\/\/i.imgur.com\/YomkvVa.png",
-                "info": "",
-                "accessType": "Premium"
-            },
-            {
-                "name": "Disney Channel CA",
-                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/disneychannel\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/6\/6c\/2014_Disney_Channel_logo.svg\/300px-2014_Disney_Channel_logo.svg.png",
-                "info": "",
-                "accessType": "Premium"
-            },
-            {
-                "name": "HBO Comedy",
-                "url": "https:\/\/ott.udptv.net\/stream\/iptv\/hbocomedy\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https:\/\/m.media-amazon.com\/images\/G\/01\/digital\/video\/Linear_Clean_Slate\/HBO_Comedy._SL170_FMpng_.png",
-                "info": "",
-                "accessType": "Premium"
-            },
-            {
-                "name": "HBO Family",
-                "url": "https:\/\/ott.udptv.net\/stream\/iptv\/hbofamily\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https:\/\/i.imgur.com\/sDFfNjo.png",
-                "info": "",
-                "accessType": "Premium"
-            },
-            {
                 "name": "HBO HD",
-                "url": "https:\/\/ott.udptv.net\/stream\/iptv\/hbohd\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https:\/\/i.imgur.com\/EnA2RcD.png",
-                "info": "",
+                "url": "https://ott.udptv.net/stream/iptv/hbohd/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
+                "imageUrl": "https://i.imgur.com/EnA2RcD.png",
+                "info": "Premium movies",
                 "accessType": "Premium"
             },
             {
-                "name": "HBO Hits",
-                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/hbohits\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https:\/\/i.imgur.com\/K52zUFR.png",
-                "info": "",
-                "accessType": "Premium"
-            },
-            {
-                "name": "HBO Signature",
-                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/hbosignature\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https:\/\/i.imgur.com\/t4HF5va.png",
-                "info": "",
-                "accessType": "Premium"
-            },
-            {
-                "name": "HBO West",
-                "url": "https:\/\/ott.udptv.net\/stream\/iptv\/hbowest\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https:\/\/i.imgur.com\/EnA2RcD.png",
-                "info": "",
-                "accessType": "Premium"
-            },
-            {
-                "name": "HBO Zone",
-                "url": "https:\/\/ott.udptv.net\/stream\/iptv\/hbozone\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https:\/\/m.media-amazon.com\/images\/G\/01\/digital\/video\/Linear_Clean_Slate\/HBO_Zone_East._SL170_FMpng_.png",
-                "info": "",
-                "accessType": "Premium"
-            },
-            {
-                "name": "MovieSphere",
-                "url": "https:\/\/moviesphereuk-samsunguk.amagi.tv\/playlist.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1mdRxkeYw-4W1npbFyLuekfgr99PrI_85",
-                "info": "Movies and blockbusters",
-                "accessType": "Premium"
-            },
-            {
-                "name": "Moviebox",
-                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/Moviebox\/HLSv3-FTA\/Moviebox.m3u8",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1ppq-9swH9wXOscO3U0ldP_1F4_MWV5k_",
-                "info": "Latest movies and classics",
-                "accessType": "Premium"
-            },
-            {
-                "name": "Korean Blockbusters",
-                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/koreanblockbusters\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https:\/\/m.media-amazon.com\/images\/G\/01\/LCXO_Station_Logos\/korean_blockbusters._SL170_FMpng_.png",
-                "info": "",
-                "accessType": "Premium"
-            },
-            {
-                "name": "OCN Movies",
-                "url": "https:\/\/ott.udptv.net\/stream\/iptv\/ocnmovies\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/0\/0a\/OCN_Movies_%EB%A1%9C%EA%B3%A0.svg\/300px-OCN_Movies_%EB%A1%9C%EA%B3%A0.svg.png",
-                "info": "",
-                "accessType": "Premium"
-            },
-            {
-                "name": "OCN Movies 2",
-                "url": "https:\/\/ott.udptv.net\/stream\/iptv\/ocnmovies2\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https:\/\/i.imgur.com\/Aja53VI.png",
-                "info": "",
-                "accessType": "Premium"
-            },
-            {
-                "name": "Paramount+ with Showtime West",
-                "url": "https:\/\/ott.udptv.org\/stream\/udptvus\/paramountwithshowtimewest\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https:\/\/github.com\/tv-logo\/tv-logos\/blob\/main\/countries\/united-states\/paramount-plus-with-showtime-us.png?raw=true",
-                "info": "",
+                "name": "CinemaOne",
+                "url": "https://tfc.mark-projects.site/cinemaone.m3u8",
+                "imageUrl": "https://drive.google.com/uc?export=download&id=1xNCeMwSC2KGxd_oe3J8EF2HaUEka6rzT",
+                "info": "Filipino cinema",
                 "accessType": "Premium"
             },
             {
                 "name": "PBO",
-                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/pbo\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1-Beaydh12VP-OS8f82J0PfHXee8r2SGg",
-                "info": "📺 What is PBO?\n\nPBO (Pinoy Box Office) is a 24\/7 Filipino cable movie channel.\n\nIt specializes in showing Tagalog movies, particularly those produced by Viva Films and other local film companies.\n\nIt is owned and operated by Viva Communications, one of the biggest entertainment companies in the Philippines.",
+                "url": "http://ott.udptv.net/stream/iptv/pbo/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
+                "imageUrl": "https://drive.google.com/uc?export=download&id=1-Beaydh12VP-OS8f82J0PfHXee8r2SGg",
+                "info": "Pinoy Box Office",
+                "accessType": "Premium"
+            },
+            {
+                "name": "Cinemax",
+                "url": "http://ott.udptv.net/stream/iptv/cinemax/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
+                "imageUrl": "https://i.imgur.com/YomkvVa.png",
+                "info": "Hollywood movies",
                 "accessType": "Premium"
             },
             {
                 "name": "Rock Action",
-                "url": "http:\/\/ott.udptv.net\/stream\/iptv\/rockaction\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
-                "imageUrl": "https:\/\/i.imgur.com\/bnrQIgB.png",
-                "info": "",
+                "url": "http://ott.udptv.net/stream/iptv/rockaction/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
+                "imageUrl": "https://i.imgur.com/bnrQIgB.png",
+                "info": "Action movies",
                 "accessType": "Premium"
             }
         ],
-        "Series": [],
-        "Vivamax": [
+        "Sports": [
             {
-                "name": "Deep Inside - Angeli Khang (2025)",
-                "url": "https:\/\/gstream.hollymoviehd.cc\/streamsvr\/ZqeHKkC2u7\/0-3?e=S04yMmQ0RHhCRGNzTFNOa2VFbzlVS2NNYTJiWjd5UERKM1BEZ0NnVnpjZz0A",
-                "imageUrl": "https:\/\/image.tmdb.org\/t\/p\/w342\/lKP9okBAtcBYHPNb24LQJqoAMCo.jpg",
-                "info": "Adult drama film",
-                "accessType": "Private"
+                "name": "Bein Sports Xtra",
+                "url": "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8",
+                "imageUrl": "https://teamhandballnews.com/wp-content/uploads/2020/01/beIN-SPORTS-XTRA_LOGO-1024x127.png",
+                "info": "Live sports coverage",
+                "accessType": "Premium"
             },
             {
-                "name": "Ang Pamumukadkad Ni Mirasol (2025)",
-                "url": "https:\/\/gstream.hollymoviehd.cc\/streamsvr\/h0er-78aTX\/0-4?e=UWRNbTlmYkZsSE44L0t3VTN3SXR1d2ZlcVY0aFNmWTJ4TW54Y0M3ckVhZz0I",
-                "imageUrl": "https:\/\/image.tmdb.org\/t\/p\/w342\/72iBQcLM4ZxJgoyLzl7eNxGfPC.jpg",
-                "info": "Adult romantic drama",
-                "accessType": "Private"
+                "name": "OneSports",
+                "url": "http://ott.udptv.net/stream/iptv/onesports/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
+                "imageUrl": "https://drive.google.com/uc?export=download&id=1xgscImP37WiVMp5xt9j6riaHsUjrb9IR",
+                "info": "Philippine sports channel",
+                "accessType": "Premium"
             },
             {
-                "name": "The Jowa Collector (2025)",
-                "url": "https:\/\/gstream.hollymoviehd.cc\/streamsvr\/Qs79KJCgMZ\/0-0?e=clBvTWJCRjNicGFrTW9XQmNYQnNPVzZKM1NsZUdIa05ybXF5R0RsNEtOND0U",
-                "imageUrl": "https:\/\/image.tmdb.org\/t\/p\/w342\/xnrGqTuLJoZv8icTDpAiLbYAi5F.jpg",
-                "info": "Adult comedy drama",
-                "accessType": "Private"
+                "name": "PBA Rush",
+                "url": "http://ott.udptv.net/stream/iptv/pbarush/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
+                "imageUrl": "https://i.imgur.com/tvxCVRr.png",
+                "info": "24/7 PBA coverage",
+                "accessType": "Premium"
             },
             {
-                "name": "Ligaw (2025)",
-                "url": "https:\/\/gstream.hollymoviehd.cc\/streamsvr\/kFM1-qDbcS\/0-5?e=VnhZaE1hRnFtZ21ubUNMWW1WcFBQb0ZVTmNmOHFSd0YxWmlxV3ppTFJTOD0E",
-                "imageUrl": "https:\/\/image.tmdb.org\/t\/p\/w342\/yc8V3KEnhvPrzXpdYTXdTvjpOb5.jpg",
-                "info": "Adult thriller film",
-                "accessType": "Private"
+                "name": "NBA TV Philippines",
+                "url": "http://ott.udptv.net/stream/iptv/nbatvphilippines/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
+                "imageUrl": "https://i.imgur.com/g5Q35IH.png",
+                "info": "Basketball news and live games",
+                "accessType": "Premium"
             },
             {
-                "name": "Rapsa (2025)",
-                "url": "https:\/\/gstream.hollymoviehd.cc\/streamsvr\/Pc74DWSf6t\/0-5?e=OXNJVVJhS3pxb1M5QTNZT0c1NkVibTkyMDZQSm1pRFMzOGxmNm1YRWkybz0A",
-                "imageUrl": "https:\/\/image.tmdb.org\/t\/p\/w342\/e4fiTUtkvvp7REZRhHA7DTXcMxj.jpg",
-                "info": "Adult drama film",
-                "accessType": "Private"
-            },
-            {
-                "name": "Sabik (2025)",
-                "url": "https:\/\/gstream.hollymoviehd.cc\/streamsvr\/AggoWAMs9E\/0-4?e=M3Y2L2lpSzhUU1ROUEI2cXk0VjNnK2REdzU1ZkRGQjlBNkEvQWxhN2IzND0O",
-                "imageUrl": "https:\/\/image.tmdb.org\/t\/p\/w342\/vdhLdZQdvllHW5PR7lCmiB6z1Ig.jpg",
-                "info": "Adult romantic film",
-                "accessType": "Private"
-            },
-            {
-                "name": "Tampipi (2025)",
-                "url": "https:\/\/gstream.hollymoviehd.cc\/streamsvr\/ohmsXE64vD\/0-4?e=WkRVYW9tSmtZR0tybFZIR2dGNHhtdGEzb2VoTEo4ZHpFREluZHlVRnhGaz0A",
-                "imageUrl": "https:\/\/image.tmdb.org\/t\/p\/w342\/5ghYHjFdnf2QvEHawU7SfG50Z1y.jpg",
-                "info": "Adult drama film",
-                "accessType": "Private"
-            },
-            {
-                "name": "Violet (2025)",
-                "url": "https:\/\/gstream.hollymoviehd.cc\/streamsvr\/3lI1sYpGtJ\/0-4?e=RGczK3JWM0V6dDJJU2VWTTlQeW5IbVY5NHZYZEV0Z2dabXJLL3JGV3RZTT0O",
-                "imageUrl": "https:\/\/image.tmdb.org\/t\/p\/w342\/u9McUubbCryR9l2816AIYGPICpn.jpg",
-                "info": "Adult drama film",
-                "accessType": "Private"
-            },
-            {
-                "name": "Bangkera (2025)",
-                "url": "https:\/\/gstream.hollymoviehd.cc\/streamsvr\/7L6fbaa8am\/0-4?e=R1c4MjhYa0x4b2hvL0NMMzhzSXNJQWt5czNUVDlUTStqNzllaWkvdXArTT0U",
-                "imageUrl": "https:\/\/image.tmdb.org\/t\/p\/w342\/ctW36O4SZh08TWrEo7ewPDypfB2.jpg",
-                "info": "Adult drama film",
-                "accessType": "Private"
-            },
-            {
-                "name": "Puri for Rent (2025)",
-                "url": "https:\/\/gstream.hollymoviehd.cc\/streamsvr\/kMvfWYflRt\/0-4?e=aTJqWEYyZzBmYzZkRllhZ1Z1d2o4Y0ZyM2NWV21zWWhMOTFtQUZYZnA2VT0A",
-                "imageUrl": "https:\/\/image.tmdb.org\/t\/p\/w342\/ry9AWnoAABgxAEzc3BwLHgf1H1b.jpg",
-                "info": "Adult comedy drama",
-                "accessType": "Private"
-            },
-            {
-                "name": "Habal (2025)",
-                "url": "https:\/\/gstream.hollymoviehd.cc\/streamsvr\/TJzzobwZ0w\/0-2?e=RVV0UHBlL2hmUDdvczNtS2pLUVA3WUtRckhDWkM5dkNmcmR5OGRSYVIvbz0I",
-                "imageUrl": "https:\/\/image.tmdb.org\/t\/p\/w342\/1Pqnk5rLEHdV9bfTbeCU3vXHFYW.jpg",
-                "info": "Adult drama film",
-                "accessType": "Private"
-            },
-            {
-                "name": "Arouse (2025)",
-                "url": "https:\/\/gstream.hollymoviehd.cc\/streamsvr\/iRyWzi6FfS\/0-3?e=V1kvRmJaQXBDWDZMQXhNNlZNWDZPTE5FSXQ0QTFIL0gxck9oWU1ob3JlWT0U",
-                "imageUrl": "https:\/\/image.tmdb.org\/t\/p\/w342\/uTcNSqa2XgouS8cZ2eoyc93QVgC.jpg",
-                "info": "Adult romantic film",
-                "accessType": "Private"
-            },
-            {
-                "name": "Delusyon (2025)",
-                "url": "https:\/\/gstream.hollymoviehd.cc\/streamsvr\/Ko7fPCWNVf\/0-2?e=Mmh1Y1pFS3lMY0NaVUx3bXRhNkk2cVdlUDJpaXgwYW9lVHE4WkNLTEROOD0I",
-                "imageUrl": "https:\/\/image.tmdb.org\/t\/p\/w342\/qEL2ZmXKJZn5QvQc6NwuHEcK999.jpg",
-                "info": "Adult thriller film",
-                "accessType": "Private"
-            },
-            {
-                "name": "Elevator Lady (2025)",
-                "url": "https:\/\/gstream.hollymoviehd.cc\/streamsvr\/MvM7V7w9js\/0-5?e=ZGhJdmxxQW9MMUhRZElpU0J3U1BLSDU1VDJpcTNrUlZnZW1oVHh3VVZnTT0O",
-                "imageUrl": "https:\/\/image.tmdb.org\/t\/p\/w342\/4Q0eicxd5fq9llcoY2Mf8uUEE5r.jpg",
-                "info": "Adult drama film",
-                "accessType": "Private"
-            },
-            {
-                "name": "Malagkit (2025)",
-                "url": "https:\/\/gstream.hollymoviehd.cc\/streamsvr\/cwZZzRRSNF\/0-4?e=L2pKdmZQYUY0M3VWeVVDaVg1TlQ5dGRISGZlM1ViVUZLWDIrRjZpWHdudz0U",
-                "imageUrl": "https:\/\/image.tmdb.org\/t\/p\/w342\/5e1wrLBk0gYOH14vCEhoh5uVp44.jpg",
-                "info": "Adult drama film",
-                "accessType": "Private"
-            },
-            {
-                "name": "Kolektor (2025)",
-                "url": "https:\/\/gstream.hollymoviehd.cc\/streamsvr\/B1EEV14nwB\/0-3?e=UGFNZXd6ekZmMlIzL2gxNzRrSEg0STBBcjNKdS80VWwxMGprdnhPQzUvZz0O",
-                "imageUrl": "https:\/\/media.themoviedb.org\/t\/p\/w300_and_h450_bestv2\/TJ4XqmIJ0I2LONPTLJBkuNwEgN.jpg",
-                "info": "Adult drama film",
-                "accessType": "Private"
-            },
-            {
-                "name": "Walker (2025)",
-                "url": "https:\/\/gstream.hollymoviehd.cc\/streamsvr\/FHf4de6N6p\/0-2?e=bmt1R3lnMkRpeU5KMU5hUkY3VndVcEU0cGxsTWt3Qmwydk9ZRGo4NG1WST0O",
-                "imageUrl": "https:\/\/image.tmdb.org\/t\/p\/w342\/e0Drt0iLj4K2eO0MexrUfHLfe1S.jpg",
-                "info": "Adult action drama",
-                "accessType": "Private"
-            },
-            {
-                "name": "Tokyo Nights (2025)",
-                "url": "https:\/\/gstream.hollymoviehd.cc\/streamsvr\/O7fYRWK16b\/0-3?e=THB4TE8xOTQycVdvOHZSNUR1Yi9iQUVRbndQbEQ0SVFCU1FyR2c0R0p4Zz0O",
-                "imageUrl": "https:\/\/image.tmdb.org\/t\/p\/w342\/ihLFcDHv0PdSscrdLFoFtgo6QkH.jpg",
-                "info": "Adult romantic drama",
-                "accessType": "Private"
-            },
-            {
-                "name": "Online Selling (2025)",
-                "url": "https:\/\/gstream.hollymoviehd.cc\/streamsvr\/MPo-CVI0ZD\/0-3?e=MU9uejB1eW50VksyWjFxbDRnVWNHZkIybDVDeUM0OVVRQk9oZDVVQm42TT0E",
-                "imageUrl": "https:\/\/image.tmdb.org\/t\/p\/w342\/wGkZSwwKA2MBHNkFMpzNnSuqLCF.jpg",
-                "info": "Adult comedy drama",
-                "accessType": "Private"
-            },
-            {
-                "name": "Belyas (2025)",
-                "url": "https:\/\/gstream.hollymoviehd.cc\/streamsvr\/chpn24ZKSi\/0-4?e=Mk9MNjhaekx6TnNsMFNVNGIxQ2dheGducnJtYURGcU1DN29nUWE0T2hFZz0E",
-                "imageUrl": "https:\/\/image.tmdb.org\/t\/p\/w342\/zPIaNQaQKtCIOs95x4GmaJ6omco.jpg",
-                "info": "Adult drama film",
-                "accessType": "Private"
-            },
-            {
-                "name": "Sponsor (2025)",
-                "url": "https:\/\/gstream.hollymoviehd.cc\/streamsvr\/RGjJ2WQ0wa\/0-0?e=a3dJMTdackxKNjBIcVFoc0F5ZE9tdWZ5aWtDeTlEOEhORVVHSUdqRldWMD0O",
-                "imageUrl": "https:\/\/image.tmdb.org\/t\/p\/w342\/7Opn9aPs8UCBJQ6lqou3i8f9omC.jpg",
-                "info": "Adult drama film",
-                "accessType": "Private"
-            },
-            {
-                "name": "Hiram na Sandali (2025)",
-                "url": "https:\/\/gstream.hollymoviehd.cc\/streamsvr\/yb6A03D_w-\/0-4?e=a0VsTWdZUWc1YmNzdUlMNHV4OC94RmJXdml1U2ZKS2VCWFVnMXlNNUZNZz0A",
-                "imageUrl": "https:\/\/image.tmdb.org\/t\/p\/w342\/zNHgQRaflknCSRvKFepqvsHVimG.jpg",
-                "info": "Adult romantic drama",
-                "accessType": "Private"
-            },
-            {
-                "name": "Halimuyak (2025)",
-                "url": "https:\/\/gstream.hollymoviehd.cc\/streamsvr\/6PKtwEuYpJ\/0-0?e=U1ZRNnhYaTArNHdPK011Um45elJTNllOcUM5enlaTm05alVyOHZ3YTIxOD0A",
-                "imageUrl": "https:\/\/image.tmdb.org\/t\/p\/w342\/wnMo89oa5VdfS2rmET4yKWoyeig.jpg",
-                "info": "Adult drama film",
-                "accessType": "Private"
-            },
-            {
-                "name": "Las Ilusyunadas (2025)",
-                "url": "https:\/\/gstream.hollymoviehd.cc\/streamsvr\/4QkkBmrXKB\/0-1?e=cTB6aG5lT3BhMkpJcU51K3Z6cjJZZGNvcElPUE1nNzBxZDBBZDAxWEdFYz0I",
-                "imageUrl": "https:\/\/image.tmdb.org\/t\/p\/w342\/eLCoMknSWjYTb5ObQIAmgzqhgSM.jpg",
-                "info": "Adult drama film",
-                "accessType": "Private"
-            },
-            {
-                "name": "Teacher’s Pet (2025)",
-                "url": "https:\/\/gstream.hollymoviehd.cc\/streamsvr\/xyeS10ybBv\/0-4?e=Q2pENWx0MGVabTRYczVVcVZDMk9MRmFLMjBKdG0vK0U3UFF5SVJLMW9NOD0E",
-                "imageUrl": "https:\/\/image.tmdb.org\/t\/p\/w342\/mnP6YvKzZzPrKvgNF3sXsKPGm6q.jpg",
-                "info": "Adult romantic drama",
-                "accessType": "Private"
+                "name": "Premier Sports",
+                "url": "https://ott.udptv.net/stream/iptv/premiersports/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
+                "imageUrl": "https://img.dge-prod.dicelaboratory.com/original/2023/11/10172037-slfpj2wmabtpkf9y.png",
+                "info": "Global sports events",
+                "accessType": "Premium"
             }
         ]
     }
