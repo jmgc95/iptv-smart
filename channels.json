@@ -1,5 +1,5 @@
 {
-    "version": "3.9",
+    "version": "4.0",
     "channels": {
         "Live TV": [
             {
@@ -129,7 +129,7 @@
             },
             {
                 "name": "CinemaOne",
-                "url": "https:\/\/tfc.mark-projects.site\/cinemaone.m3u8",
+                "url": "https:\/\/tfc-72i.pages.dev\/cinemaone.m3u8",
                 "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1xNCeMwSC2KGxd_oe3J8EF2HaUEka6rzT",
                 "info": "Filipino cinema",
                 "accessType": "Premium"
