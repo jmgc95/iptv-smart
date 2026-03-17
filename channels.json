@@ -1,5 +1,5 @@
 {
-    "version": "3.7",
+    "version": "3.8",
     "channels": {
         "Live TV": [
             {
@@ -340,7 +340,7 @@
             },
             {
                 "name": "Kapamilya Channel",
-                "url": "https:\/\/d1uf7s78uqso1e.cloudfront.net\/out\/v1\/efa01372657648be830e7c23ff68bea2\/index.mpd",
+                "url": "https://tfc-72i.pages.dev/kapamilya.m3u8",
                 "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1xDsQ7PlUdGH2eM15TF_DzunOEI_ACs-w",
                 "info": "Kapamilya Channel HD is the high-definition (HD) version of the Kapamilya Channel, a 24-hour pay TV channel in the Philippines owned and operated by ABS-CBN Corporation.",
                 "accessType": "Premium"
