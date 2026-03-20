@@ -1,5 +1,5 @@
 {
-    "version": "4.4",
+    "version": "4.5",
     "channels": {
         "Live TV": [
             {
@@ -102,7 +102,7 @@
                 "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/Cartoon_Network\/HLSv3-FTA\/Cartoon_Network.m3u8",
                 "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1oOUC7NmgOPsM8SK9gW4Y8uj_W3u3wsyx",
                 "info": "Animated series",
-                "accessType": "Free"
+                "accessType": "Private"
             },
             {
                 "name": "Nickelodeon",
