@@ -1,5 +1,5 @@
 {
-    "version": "4.7",
+    "version": "4.8",
     "channels": {
         "Live TV": [
             {
@@ -36,6 +36,55 @@
                 "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1xudpu4GR3TtZf7PYxr_QzhJapnKxQ2ig",
                 "info": "General entertainment",
                 "accessType": "Premium"
+            },
+            {
+                "name": "Outdoor Channel",
+                "url": "https:\/\/cdn-apse1-prod.tsv2.amagi.tv\/linear\/amg00718-outdoorchannela-outdoortvnz-samsungnz\/playlist.m3u8",
+                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1mRbczWl7aklSh659YC32bjoLNbFudE1z",
+                "info": "",
+                "accessType": "Free"
+            },
+            {
+                "name": "Garage TV",
+                "url": "https:\/\/stream1.sersat.com\/hls\/garagetv.m3u8",
+                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1mf24VMjWrj3mEOmDVz0rr2dkcEPF9hM9",
+                "info": "",
+                "accessType": "Free"
+            },
+            {
+                "name": "Deshi TV",
+                "url": "https:\/\/deshitv.deshitv24.net\/live\/myStream\/playlist.m3u8",
+                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1n0cXhuSghZmikOiCymxdVrYe1I9_OE0E",
+                "info": "",
+                "accessType": "Free"
+            },
+            {
+                "name": "Ekushey TV",
+                "url": "https:\/\/ekusheyserver.com\/etvlivesn.m3u8",
+                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1n0poGjrc8z3cRsISIkK6-g2TQxBsoPxP",
+                "info": "",
+                "accessType": "Free"
+            },
+            {
+                "name": "BBC-Earth",
+                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/BBC_earth\/HLSv3-FTA\/BBC_earth.m3u8",
+                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1nx1a_nnjPKNrM7jLlv9KkGQtV63xFZHc",
+                "info": "",
+                "accessType": "Free"
+            },
+            {
+                "name": "BBC-Lifestyle",
+                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/BBC_lifestyle\/HLSv3-FTA\/BBC_lifestyle.m3u8",
+                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1nyuR-wU8PFyAKGTXRTU69d8UU2N3XvPg",
+                "info": "",
+                "accessType": "Free"
+            },
+            {
+                "name": "C1 Television",
+                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/C1\/HLSv3-FTA\/C1.m3u8",
+                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1oNTHbMiM2vzVrL588UMGIwYvPeBAla_Y",
+                "info": "Broadcasts news, sports, and entertainment",
+                "accessType": "Free"
             }
         ],
         "News": [
@@ -80,6 +129,13 @@
                 "imageUrl": "https:\/\/static.wikia.nocookie.net\/russel\/images\/4\/4c\/ANC_Logo_2015.png",
                 "info": "ABS-CBN News Channel",
                 "accessType": "Premium"
+            },
+            {
+                "name": "RT Documentary",
+                "url": "https:\/\/rt-rtd.rttv.com\/dvr\/rtdoc\/playlist.m3u8",
+                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1lbwNdi2hbFkQMk3oI7XDusaCeXmBNJqo",
+                "info": "",
+                "accessType": "Free"
             }
         ],
         "Kids": [
@@ -116,6 +172,20 @@
                 "url": "http:\/\/ott.udptv.net\/stream\/iptv\/cignaldreamworks\/master.m3u8?u=discord.gg\/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13",
                 "imageUrl": "https:\/\/i.imgur.com\/cgfKSDP.png",
                 "info": "Dreamworks animations",
+                "accessType": "Free"
+            },
+            {
+                "name": "Anime HiDive",
+                "url": "https:\/\/amc-anime-x-hidive-1-us.tablo.wurl.tv\/playlist.m3u8",
+                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1lQN4tVJUK4Z1RFNKwGzEYKmhhYF9O7At",
+                "info": "",
+                "accessType": "Free"
+            },
+            {
+                "name": "Boomerang",
+                "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/Boomerang\/HLSv3-FTA\/Boomerang.m3u8",
+                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1oN9q5IoHb01gAXQgL_fEb78fcmuPMo6B",
+                "info": "",
                 "accessType": "Free"
             }
         ],
@@ -154,6 +224,13 @@
                 "imageUrl": "https:\/\/i.imgur.com\/bnrQIgB.png",
                 "info": "Action movies",
                 "accessType": "Premium"
+            },
+            {
+                "name": "MovieSphere",
+                "url": "https:\/\/moviesphereuk-samsunguk.amagi.tv\/playlist.m3u8",
+                "imageUrl": "https:\/\/drive.google.com\/uc?export=download&id=1mdRxkeYw-4W1npbFyLuekfgr99PrI_85",
+                "info": "",
+                "accessType": "Free"
             }
         ],
         "Sports": [
